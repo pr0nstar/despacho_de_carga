@@ -1,0 +1,30 @@
+name: Update Eventos
+on:
+  schedule:
+    - cron: '0 11 * * 1'
+jobs:
+  update:
+    name: update
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+        with:
+          ref: master
+      - name: python setup
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: python install
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r update/requirements.txt
+      - name: update data
+        run: |
+          python update/update_events.py
+      - name: commit
+        run: |
+          git pull
+          git add -A
+          git commit -m "[ci] actualización eventos"
+          git push -q "https://$GH_TOKEN@github.com/pr0nstar/despacho_de_carga.git" main

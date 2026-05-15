@@ -23200,3 +23200,2031 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2025-09-18,ENDEG,G,Central eólica San Julián,13:00,19:00,"Mayor generación, condiciones climáticas favorables."
 2025-09-18,COBEE,G,Sistema Zongo,15:00,17:00,Menores aportes laterales de agua a lo previsto.
 2025-09-18,CESSA,D,Área Sucre,16:00,24:00,Mayor demanda a la prevista.
+2025-09-19,COBEE,G,Sistema Zongo,14:00,17:00,Menores aportes laterales de agua a lo previsto.
+2025-09-20,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-20,CRE,D,Área Oriental,01:00,10:00,Mayor demanda a la prevista.
+2025-09-20,COBEE,G,Sistema Miguilla,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-20,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-09-20,ENDE CORANI,G,Central Eólica Qollpana,02:00,21:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-20,COBEE,G,Sistema Zongo,07:00,14:00,Menores aportes laterales de agua a lo previsto.
+2025-09-20,ENDEG,G,Central Solar Oruro I y II,07:00,16:00,"Mayor generación, condiciones climáticas favorables."
+2025-09-21,CRE,D,Área Oriental,01:00,10:00,Mayor demanda a la prevista.
+2025-09-21,ENDE CORANI,G,Central eólica Qollpana I y II,01:00,14:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-21,CESSA,D,Área Sucre,01:00,17:00,Mayor demanda a la prevista.
+2025-09-21,ENDE DELBENI,D,Área Trinidad,01:00,18:00,Mayor demanda a la prevista.
+2025-09-21,COBEE,G,Sistema Miguillas,01:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-21,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-09-21,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2025-09-21,COBEE,G,Sistema Zongo,03:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-21,ENDEG,G,Central eólica El Dorado,10:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-22,ENDE DELBENI,D,Área Trinidad,01:00,13:00,Mayor demanda a la prevista.
+2025-09-22,COBEE,G,Sistema Miguilla,01:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-22,COBEE,G,Sistema Zongo,01:00,21:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-22,CRE,D,Área Oriental,10:00,24:00,Menor demanda a la prevista.
+2025-09-22,ENDE DELBENI,D,Área Trinidad,14:00,24:00,Menor demanda a la prevista.
+2025-09-22,CESSA,D,Área Sucre,15:00,24:00,Mayor demanda a la prevista.
+2025-09-23,COBEE,G,Sistema Miguillas,00:00,12:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-23,COBEE,G,Sistema Zongo,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-23,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-09-23,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2025-09-23,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-09-23,ENDE CORANI,G,Central eólica Qollpana I y II,10:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2025-09-23,COBEE,G,Sistema Zongo,16:00,17:00,Menores aportes laterales de agua a lo previsto.
+2025-09-24,COBEE,G,Sistema Zongo,00:00,15:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-24,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-09-24,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-09-24,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-24,ENDEG,G,Central eólica San Julián,07:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-24,ENDEG,G,Central eólica El Dorado,08:00,19:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-24,CRE,D,Área Oriental,10:00,24:00,Menor demanda a la prevista.
+2025-09-24,ENDE CORANI,G,Central eólica Qollpana I y II,11:00,21:00,"Mayor generación, condiciones climáticas favorables."
+2025-09-24,ENDEG,G,Central solar Oruro I y II,12:00,13:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-24,CESSA,D,Área Sucre,14:00,24:00,Mayor demanda a la prevista.
+2025-09-24,COBEE,G,Sistema Zongo,18:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-25,COBEE,G,Sistema Zongo,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-25,COBEE,G,Sistema Miguillas,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-25,CRE,D,Área Oriental,01:00,12:00,Menor demanda a la prevista.
+2025-09-25,ENDEG,G,Central eólica San Julián,01:00,12:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-25,ENDEG,G,Central eólica El Dorado,01:00,13:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-25,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-09-25,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-09-25,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-09-25,CRE,D,Área Oriental,18:00,24:00,Mayor demanda a la prevista.
+2025-09-25,COBEE,G,Sistema Zongo,20:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-26,COBEE,G,Sistema Miguillas,00:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-26,COBEE,G,Sistema Zongo,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-26,ENDE DELBENI,D,Área Trinidad,01:00,12:00,Menor demanda a la prevista.
+2025-09-26,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-09-26,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-09-26,ENDEG,G,Central solar Oruro I y II,07:00,16:00,"Mayor generación, condiciones climáticas favorables."
+2025-09-26,SETAR,D,Área Tarija,10:00,24:00,Mayor demanda a la prevista.
+2025-09-26,ENDEG,G,Central eólica San Julián,12:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-26,ENDEG,G,Central eólica El Dorado,12:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-26,COBEE,G,Sistema Zongo,15:00,17:00,Menores aportes laterales de agua a lo previsto.
+2025-09-26,COBEE,G,Sistema Zongo,18:00,21:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-27,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-27,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-27,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-09-27,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-27,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-27,CRE,D,Área Oriental,12:00,24:00,Mayor demanda a la prevista.
+2025-09-27,ENDEG,G,Central Termoeléctrica Warnes,13:51,24:00,Disponibilidad de unidades WAR20 y WAR21.
+2025-09-28,ENDE ANDINA,G,Central Termoeléctrica Warnes,00:00,24:00,Disponibilidad unidad WAR20.
+2025-09-28,ENDEG,G,Central eólica El Dorado,01:00,06:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-28,ENDEG,G,Central eólica San Julián,01:00,12:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-28,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-28,DELAPAZ,D,Área Norte,01:00,16:00,Mayor demanda a la prevista.
+2025-09-28,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-09-28,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2025-09-28,EMSC,CNR,Minera San Cristóbal,06:28,06:52,"Reducción de carga de 48.4 MW a 36.0 MW, ruptura de correas 220-CV-010, 220-CV-010."
+2025-09-28,ENDE GUARACACHI,G,Central solar Uyuni,09:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2025-09-28,COBEE,G,Sistema Zongo,10:00,22:00,Menores aportes laterales de agua a lo previsto.
+2025-09-28,CRE,D,Área Oriental,10:00,24:00,Menor demanda a la prevista.
+2025-09-28,ENDE CORANI,G,Central eólica Qollpana I y II,11:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-09-29,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-29,SETAR,D,Área Tarija,01:00,10:00,Mayor demanda a la prevista.
+2025-09-29,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-09-29,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-09-29,ENDE ANDINA,G,Central termoeléctrica Warnes,01:00,24:00,Disponibilidad de la unidad WAR20.
+2025-09-29,ENDEG,G,Central eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-29,ENDE CORANI,G,Central eólica Qollpana I y II,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-09-29,COBEE,G,Sistema Zongo,02:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-29,ENDEG,G,Central eólica San Julián,05:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-29,ENDEG,G,Central solar Oruro I y II,07:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2025-09-29,CRE,D,Área Oriental,10:00,24:00,Mayor demanda a la prevista.
+2025-09-29,COBEE,G,Sistema Zongo,11:00,17:00,Menores aportes laterales de agua a lo previsto.
+2025-09-29,ENDEG,G,Central Misicuni,11:00,18:00,"Menor generación, nivel alto del embalse de compensación."
+2025-09-29,ENDE DELBENI,D,Área Trinidad,16:00,24:00,Mayor demanda a la prevista.
+2025-09-29,ENDEG,G,Central Misicuni,21:00,24:00,"Menor generación, nivel alto del embalse de compensación."
+2025-09-30,COBEE,G,Sistema Miguillas,01:00,08:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-30,CRE,D,Área Oriental,01:00,13:00,Mayor demanda a la prevista.
+2025-09-30,ENDEG,G,Central eólica El Dorado,01:00,16:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-30,ENDEG,G,Central eólica San Julián,01:00,19:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-30,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-09-30,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-09-30,ENDEG,G,Central eólica Oruro I y II,10:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2025-09-30,COBEE,G,Sistema Miguillas,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-01,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-01,COBEE,G,Sistema Zongo,01:00,15:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-01,DELAPAZ,D,Área Norte,01:00,20:00,Mayor demanda a la prevista.
+2025-10-01,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-10-01,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2025-10-01,SETAR,D,Área Tarija,11:00,24:00,Menor demanda a la prevista.
+2025-10-01,ENDE DELBENI,D,Área Trinidad,12:00,24:00,Menor demanda a la prevista.
+2025-10-01,HB,G,Sistema Taquesi,16:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-01,COBEE,G,Sistema Zongo,17:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-02,HB,G,Sistema Taquesi,01:00,03:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-02,ENDEG,G,Central eólica El Dorado,01:00,07:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-02,COBEE,G,Sistema Miguillas,01:00,08:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-02,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-10-02,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2025-10-02,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-10-02,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-02,HB,G,Sistema Taquesi,05:00,12:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-02,ENDEG,G,Central solar Oruro I y II,08:00,16:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-02,ENDEG,G,Sistema Misicuni,10:05,24:00,"Menor generación, control de nivel de embalse de compensación."
+2025-10-02,SETAR,D,Área Tarija,13:00,24:00,Menor demanda a la prevista.
+2025-10-02,HB,G,Sistema Taquesi,15:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-03,HB,G,Sistema Taquesi,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-03,COBEE,G,Sistema Zongo,01:00,17:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-03,ENDE CORANI,G,Central eólica Qollpana I y II,01:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-03,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-10-03,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2025-10-03,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-10-03,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-03,ENDEG,G,Central eólica El Dorado,11:00,21:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-03,HB,G,Sistema Taquesi,11:30,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-03,ENDEG,G,Central eólica San Julián,15:00,22:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-04,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-04,ENDE DELBENI,D,Área Trinidad,01:00,11:00,Menor demanda a la prevista.
+2025-10-04,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-10-04,COBEE,G,Sistema Miguillas,02:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-04,COBEE,G,Sistema Zongo,14:00,16:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-04,COBEE,G,Sistema Zongo,21:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-05,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-10-05,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-10-05,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2025-10-05,COBEE,G,Sistema Zongo,05:00,08:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-05,CRE,D,Área Oriental,05:00,24:00,Mayor demanda a la prevista.
+2025-10-05,COBEE,G,Sistema Miguillas,06:00,17:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-05,ENDE DELBENI,D,Área Trinidad,06:00,24:00,Mayor demanda a la prevista.
+2025-10-05,COBEE,G,Sistema Zongo,12:00,19:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-05,ENDEG,G,Central eólica El Dorado,12:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-06,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-06,SETAR,D,Área Tarija,01:00,09:00,Mayor demanda a la prevista.
+2025-10-06,CRE,D,Área Oriental,01:00,12:00,Mayor demanda a la prevista.
+2025-10-06,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-10-06,COBEE,G,Sistema Miguillas,02:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-06,DELAPAZ,D,Área Norte,10:00,20:00,Mayor demanda a la prevista.
+2025-10-06,SETAR,D,Área Tarija,13:00,24:00,Menor demanda a la prevista.
+2025-10-06,ENDE DELBENI,D,Área Trinidad,18:00,24:00,Menor demanda a la prevista.
+2025-10-07,LAS LOMAS,CNR,Las Lomas,00:00,18:00,Menor demanda debido a recomposición de inventario.
+2025-10-07,ENDEG,G,Central eólica El Dorado,01:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-07,ENDE CORANI,G,Central eólica Qollpana I y II,01:00,19:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-07,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2025-10-07,SETAR,D,Área Tarija,01:00,24:00,Menor demanda a la prevista.
+2025-10-07,ENDEG,G,Central eólica San Julián,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-07,ENDE DELBENI,D,Área Trinidad,08:00,24:00,Menor demanda a la prevista.
+2025-10-07,ENDEG,G,Central solar Oruro I y II,10:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-07,CESSA,D,Área Sucre,12:00,24:00,Mayor demanda a la prevista.
+2025-10-07,ENDEG,G,Central solar Oruro I y II,13:00,16:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-07,HB,G,Sistema Taquesi,15:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-07,COBEE,G,Sistema Zongo,16:00,22:00,Menores aportes laterales de agua a lo previsto.
+2025-10-08,HB,G,Sistema Taquesi,00:00,05:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-08,COBEE,G,Sistema Zongo,00:00,08:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-08,COBEE,G,Sistema Miguillas,00:00,20:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-08,DELAPAZ,D,Área Norte,01:00,21:00,Mayor demanda a la prevista.
+2025-10-08,ENDEG,G,Central eólica Warnes,01:00,23:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-08,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2025-10-08,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-10-08,SEPSA,D,Área Potosí,08:00,24:00,Menor demanda a la prevista.
+2025-10-08,SETAR,D,Área Tarija,08:00,24:00,Menor demanda a la prevista.
+2025-10-08,HB,G,Sistema Taquesi,10:00,21:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-08,COBEE,G,Sistema Zongo,14:00,21:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-09,COBEE,G,Sistema Zongo,00:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-09,CRE,D,Área Oriental,01:00,17:00,Menor demanda a la prevista.
+2025-10-09,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-10-09,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2025-10-09,SETAR,D,Área Tarija,01:00,24:00,Menor demanda a la prevista.
+2025-10-09,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-10-09,ENDEG,G,Central eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-09,COBEE,G,Sistema Miguillas,02:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-09,DELAPAZ,D,Área Norte,08:00,24:00,Mayor demanda a la prevista.
+2025-10-09,COBEE,G,Sistema Taquesi,09:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-09,COBEE,G,Sistema Zongo,14:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-09,COBEE,G,Sistema Miguillas,18:00,21:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-09,ENDEG,G,Central eólica San Julián,19:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-10,COBEE,G,Sistema Miguillas,00:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-10,CESSA,D,Área Sucre,00:00,24:00,Mayor demanda a la prevista.
+2025-10-10,DELAPAZ,D,Área Norte,00:00,24:00,Mayor demanda a la prevista.
+2025-10-10,ENDE DELBENI,D,Área Trinidad,00:00,24:00,Menor demanda a la prevista.
+2025-10-10,COBEE,G,Sistema Zongo,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-10,HB,G,Sistema Taquesi,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-10,SEPSA,D,Área Sur,01:00,18:00,Menor demanda a la prevista.
+2025-10-10,LAS LOMAS,CNR,LAS LOMAS,09:19,17:00,"Menor de demanda, falta de material."
+2025-10-11,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-11,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-10-11,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-11,ENDEG,G,Central Eólica San Julián,02:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-11,COBEE,G,Sistema Miguillas,06:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-11,ENDEG,G,Central Solar Oruro I y II,07:00,16:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-12,COBEE,G,Sistema Zongo,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-12,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-10-12,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2025-10-12,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2025-10-12,COBEE,G,Sistema Miguilla,15:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-13,COBEE,G,Sistema Zongo,00:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-13,ENDE DELBENI,D,Área Trinidad,01:00,12:00,Mayor demanda a la prevista.
+2025-10-13,DELAPAZ,D,Área Norte,01:00,19:00,Mayor demanda a la prevista.
+2025-10-13,COBEE,G,Sistema Miguillas,03:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-13,ENDEG,G,Central eólica San Julián,07:00,16:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-13,ENDE CORANI,G,Central eólica Qollpana I y II,07:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-13,CRE,D,Área Oriental,10:00,17:00,Menor demanda a la prevista.
+2025-10-13,ENDEG,G,Central solar Oruro I y II,12:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-13,HB,G,Sistema Taquesi,14:00,23:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-13,COBEE,G,Sistema Zongo,16:00,21:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-14,COBEE,G,Sistema Zongo,01:00,07:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-14,ENDE DELBENI,D,Área Trinidad,01:00,13:00,Menor demanda a la prevista.
+2025-10-14,CESSA,D,Área Sucre,02:00,24:00,Mayor demanda a la prevista.
+2025-10-14,ENDE CORANI,G,Central eólica Qollpana I y II,03:00,06:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-14,HB,G,Sistema Taquesi,09:00,12:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-14,COBEE,G,Sistema Miguillas,10:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-14,CRE,D,Área Oriental,14:00,24:00,Mayor demanda a la prevista.
+2025-10-14,ENDEG,G,Central eólica El Dorado,15:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-14,COBEE,G,Sistema Zongo,18:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-14,HB,G,Sistema Taquesi,20:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-15,COBEE,G,Sistema Miguillas,01:00,10:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-15,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-10-15,ENDEG,G,Central eólica El Dorado,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-15,COBEE,G,Sistema Zongo,03:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-15,ENDE CORANI,G,Central eólica Qollpana I y II,04:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-15,HB,G,Sistema Taquesi,12:00,20:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-15,SETAR,D,Área Tarija,12:00,24:00,Mayor demanda a la prevista.
+2025-10-16,COBEE,G,Sistema Miguillas,01:00,11:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-16,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-16,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-10-16,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2025-10-16,HB,G,Sistema Taquesi,09:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-16,ENDE DELBENI,D,Área Trinidad,14:00,24:00,Mayor demanda a la prevista.
+2025-10-16,COBEE,G,Sistema Zongo,18:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-17,SETAR,D,Área Tarija,01:00,18:00,Mayor demanda a la prevista.
+2025-10-17,ENDEG,G,Central San Julián,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-17,ENDEG,G,Central El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-17,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-17,ENDE CORANI,G,Central Qollpana,06:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-17,COBEE,G,Sistema Miguillas,08:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-17,HB,G,Sistema Taquesi,12:00,23:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-18,COBEE,G,Sistema Miguilla,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-18,CRE,D,Área Oriental,01:00,07:00,Mayor demanda a la prevista.
+2025-10-18,ELFEC,D,Área Central,01:00,13:00,Mayor demanda a la prevista.
+2025-10-18,ENDE ORURO,D,Área Central,01:00,13:00,Mayor demanda a la prevista.
+2025-10-18,ENDE DELBENI,D,Área Trinidad,01:00,18:00,Mayor demanda a la prevista.
+2025-10-18,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-10-18,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-18,HB,G,Sistema Taquesi,06:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-18,ENDEG,G,Central eólica Warnes,07:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-18,CRE,D,Área Oriental,10:00,24:00,Menor demanda a la prevista.
+2025-10-18,COBEE,G,Sistema Miguilla,18:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-18,ENDE DELBENI,D,Área Trinidad,19:00,24:00,Menor demanda a la prevista.
+2025-10-19,HB,G,Sistema Taquesi,00:00,05:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-19,ENDEG,G,Central eólica San Julián,01:00,19:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-19,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-10-19,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2025-10-19,COBEE,G,Sistema Miguilla,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-19,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-19,HB,G,Sistema Taquesi,07:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-19,ENDE DELBENI,D,Área Trinidad,08:00,24:00,Menor demanda a la prevista.
+2025-10-19,ENDEG,G,Central eólica El Dorado,10:00,21:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-20,CRE,D,Área Oriental,01:00,15:00,Menor demanda a la prevista.
+2025-10-20,HB,G,Sistema Taquesi,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-20,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-20,COBEE,G,Sistema Miguilla,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-20,ENDEG,G,Central Solar Oruro I y II,07:00,16:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-20,ENDE CORANI,G,Central Eólica Qollpana,10:00,20:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-21,COBEE,G,Sistema Miguillas,01:00,17:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-21,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-21,ENDE CORANI,G,Central Eólica Qollpana,10:00,20:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-21,CRE,D,Área Oriental,10:00,24:00,Mayor demanda a la prevista.
+2025-10-21,HB,G,Sistema Taquesi,18:00,21:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-22,CRE,D,Área Oriental,01:00,16:00,Mayor demanda a la prevista.
+2025-10-22,COBEE,G,Sistema Zongo,01:00,21:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-22,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-22,ENDE CORANI,G,Central Eólica Qollpana,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-22,ENDEG,G,Central Eólica El Dorado,03:00,19:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-22,SETAR,D,Área Tarija,09:00,18:00,Mayor demanda a la prevista.
+2025-10-22,COBEE,G,Sistema Zongo,23:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-23,COBEE,G,Sistema Miguillas,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-23,COBEE,G,Sistema Zongo,00:00,15:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-23,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-10-23,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-10-23,ENDEG,G,Central eólica El Dorado,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-23,ENDE CORANI,G,Central eólica Qollpana I y II,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-23,ENDEG,G,Central eólica San Julián,02:00,12:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-23,ENDEG,G,Central eólica Warnes,06:00,13:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-23,ENDE GUARACACHI,G,Central solar Oruro I y II,07:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-23,SETAR,D,Área Tarija,07:00,24:00,Mayor demanda a la prevista.
+2025-10-23,COBEE,G,Sistema Zongo,15:00,17:00,Menores aportes laterales de agua a lo previsto.
+2025-10-23,CRE,D,Área Oriental,18:00,24:00,Mayor demanda a la prevista.
+2025-10-23,COBEE,G,Sistema Miguillas,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-23,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-24,COBEE,G,Sistema Miguillas,00:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-24,COBEE,G,Sistema Zongo,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-24,ENDEG,G,Central eólica El Dorado,01:00,06:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-24,ENDEG,G,Central eólica Warnes,01:00,09:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-24,CRE,D,Área Oriental,01:00,12:00,Mayor demanda a la prevista.
+2025-10-24,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-10-24,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2025-10-24,ENDEG,G,Central eólica San Julián,03:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-24,ENDE CORANI,G,Central eólica Qollpana I y II,05:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-24,CRE,D,Área Oriental,14:00,18:00,Menor demanda a la prevista.
+2025-10-24,ENDE DELBENI,D,Área Trinidad,14:00,24:00,Menor demanda a la prevista.
+2025-10-24,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-25,COBEE,G,Sistema Miguillas,01:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-25,SETAR,D,Área Tarija,01:00,12:00,Mayor demanda a la prevista.
+2025-10-25,CRE,D,Área Oriental,01:00,22:00,Menor demanda a la prevista.
+2025-10-25,ENDEG,G,Central eólica San Julián,01:00,23:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-25,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-10-25,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2025-10-25,COBEE,G,Sistema Zongo,03:00,14:00,Menores aportes laterales de agua a lo previsto.
+2025-10-25,ENDEG,G,Central eólica El Dorado,05:00,21:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-25,COBEE,G,Sistema Zongo,10:00,13:00,Menores aportes laterales de agua a lo previsto.
+2025-10-25,COBEE,G,Sistema Miguillas,10:00,13:00,Mantenimiento de la unidad ANG03.
+2025-10-25,ENDEG,G,Central eólica Warnes,11:00,20:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-26,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-26,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-26,ENDE DELBENI,D,Área Trinidad,01:00,21:00,Mayor demanda a la prevista.
+2025-10-26,ENDEG,G,Central Eólica Warnes,04:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-26,SETAR,D,Área Tarija,10:00,24:00,Menor demanda a la prevista.
+2025-10-26,ENDE CORANI,G,Central Eólica Qollpana,11:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-26,CRE,D,Área Oriental,11:00,24:00,Menor demanda a la prevista.
+2025-10-26,COBEE,G,Sistema Miguillas,15:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-26,COBEE,G,Sistema Zongo,15:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-27,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-27,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-10-27,COBEE,G,Sistema Zongo,02:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-27,CRE,D,Área Oriental,08:00,24:00,Menor demanda a la prevista.
+2025-10-27,ENDE CORANI,G,Central Eólica Qollpana,11:00,19:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-27,ENDEG,G,Central Eólica El Dorado,14:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-27,HB,G,Sistema Taquesi,19:00,23:30,Mayores aportes laterales de agua a lo previsto.
+2025-10-27,COBEE,G,Sistema Miguillas,19:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-27,COBEE,G,Sistema Zongo,19:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-28,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-28,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-10-28,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-28,COBEE,G,Sistema Zongo,02:00,05:00,Menores aportes laterales de agua a lo previsto.
+2025-10-28,ENDEG,G,Central Eólica El Dorado,05:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-28,CRE,D,Área Oriental,08:00,24:00,Menor demanda a la prevista.
+2025-10-28,COBEE,G,Sistema Zongo,09:00,14:00,Menores aportes laterales de agua a lo previsto.
+2025-10-28,ENDE CORANI,G,Central Eólica Qollpana,09:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-28,COBEE,G,Sistema Miguillas,10:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-28,ENDEG,G,Central Solar Oruro I y II,13:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-28,HB,G,Sistema Taquesi,14:45,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-28,ENDE CORANI,G,Central Santa Isabel,15:28,20:00,"Mayor generación, aportes laterales al río Vinto equivalentes a 30 MW."
+2025-10-28,COBEE,G,Sistema Miguillas,18:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-28,COBEE,G,Sistema Zongo,19:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-29,COBEE,G,Sistema Zongo,01:00,15:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-29,CESSA,D,Área Sucre,01:00,24:00,Menor demanda a la prevista.
+2025-10-29,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-10-29,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-29,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-29,HB,G,Sistema Taquesi,03:15,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-29,ENDEG,G,Central Eólica El Dorado,07:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-29,CRE,D,Área Oriental,08:00,24:00,Menor demanda a la prevista.
+2025-10-29,ENDE CORANI,G,Central Eólica Qollpana,10:00,23:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-29,SETAR,D,Área Tarija,12:00,24:00,Menor demanda a la prevista.
+2025-10-29,COBEE,G,Sistema Zongo,18:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-30,COBEE,G,Sistema Miguillas,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-30,HB,G,Sistema Taquesi,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-30,ENDEG,G,Central Eólica El Dorado,01:00,11:00,"Menor generación, condiciones climáticas desfavorables."
+2025-10-30,CESSA,D,Área Sucre,01:00,18:00,Menor demanda a la prevista.
+2025-10-30,SETAR,D,Área Tarija,01:00,24:00,Menor demanda a la prevista.
+2025-10-30,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-10-30,COBEE,G,Sistema Zongo,03:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-30,ENDEG,G,Central Eólica Warnes,03:00,10:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-30,CRE,D,Área Oriental,07:00,24:00,Menor demanda a la prevista.
+2025-10-30,COBEE,G,Sistema Zongo,10:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-30,ENDE CORANI,G,Central Eólica Qollpana I y II,12:00,21:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-31,HB,G,Sistema Taquesi,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-31,CESSA,D,Área Sucre,01:00,18:00,Menor demanda a la prevista.
+2025-10-31,COBEE,G,Sistema Miguillas,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-31,ENDE CORANI,G,Central Eólica Qollpana,01:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2025-10-31,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-10-31,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-10-31,CRE,D,Área Oriental,08:00,24:00,Menor demanda a la prevista.
+2025-11-01,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-01,ENDE CORANI,G,Central eólica Qollpana I y II,02:00,06:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-01,HB,G,Sistema Taquesi,08:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-01,COBEE,G,Sistema Miguillas,10:00,16:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-01,CRE,D,Área Oriental,18:00,24:00,Mayor demanda a la prevista.
+2025-11-01,ENDE DELBENI,D,Área Trinidad,18:00,24:00,Mayor demanda a la prevista.
+2025-11-02,ENDEG,G,Central eólica El Dorado,00:00,08:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-02,ENDEG,G,Central eólica San Julián,00:00,09:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-02,HB,G,Sistema Taquesi,00:00,10:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-02,CRE,D,Área Oriental,01:00,09:00,Mayor demanda a la prevista
+2025-11-02,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista
+2025-11-02,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista
+2025-11-02,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-02,ENDEG,G,Central eólica Warnes,05:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-02,COBEE,G,Sistema Miguillas,05:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-02,HB,G,Sistema Taquesi,15:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-03,COBEE,G,Sistema Miguillas,01:00,14:00,Menores aportes laterales de agua a lo previsto.
+2025-11-03,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-11-03,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2025-11-03,COBEE,G,Sistema Zongo,02:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-03,ENDE CORANI,G,Central Eólica Qollpana,08:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-03,CRE,D,Área Oriental,08:00,24:00,Mayor demanda a la prevista.
+2025-11-03,SETAR,D,Área Tarija,09:00,24:00,Mayor demanda a la prevista.
+2025-11-03,HB,G,Sistema Taquesi,14:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-03,ENDEG,G,Central Eólica El Dorado,16:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-04,COBEE,G,Sistema Zongo,01:00,05:00,Menores aportes laterales de agua a lo previsto.
+2025-11-04,COBEE,G,Sistema Miguillas,01:00,06:00,Menores aportes laterales de agua a lo previsto.
+2025-11-04,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2025-11-04,COBEE,G,Sistema Miguillas,07:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-04,SETAR,D,Área Tarija,09:00,24:00,Mayor demanda a la prevista.
+2025-11-04,ENDEG,G,Central Eólica El Dorado,10:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-04,ENDE CORANI,G,Central Eólica Qollpana,11:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-04,ENDEG,G,Central Solar Oruro I y II,12:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-04,DELAPAZ,D,Área Norte,14:00,22:00,Mayor demanda a la prevista.
+2025-11-04,COBEE,G,Sistema Zongo,14:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-05,CRE,D,Área Oriental,01:00,16:00,Mayor demanda a la prevista.
+2025-11-05,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2025-11-05,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-05,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-05,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-05,COBEE,G,Sistema Zongo,02:00,08:00,Menores aportes laterales de agua a lo previsto.
+2025-11-05,ENDEG,G,Central Eólica Warnes,08:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-05,DELAPAZ,D,Área Norte,11:00,22:00,Mayor demanda a la prevista.
+2025-11-05,ENDEG,G,Central Solar Oruro I y II,12:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-05,HB,G,Sistema Taquesi,14:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-05,COBEE,G,Sistema Zongo,16:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-06,ENDE DELBENI,D,Área Trinidad,01:00,07:00,Mayor demanda a la prevista.
+2025-11-06,COBEE,G,Sistema Miguillas,01:00,08:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-06,COBEE,G,Sistema Zongo,01:00,12:00,Menores aportes laterales de agua a lo previsto.
+2025-11-06,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-11-06,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-11-06,CRE,D,Área Oriental,07:00,24:00,Menor demanda a la prevista.
+2025-11-06,SEPSA,D,Área Potosí,08:00,24:00,Menor demanda a la prevista.
+2025-11-06,ENDE DELBENI,D,Área Trinidad,09:00,24:00,Menor demanda a la prevista.
+2025-11-06,LAS LOMAS,CNR,Las Lomas,11:00,18:00,Finalización de producción del día.
+2025-11-06,ENDE CORANI,G,Misicuni,12:00,18:00,Mayor generación debido a incremento de caudal a suministrar a SEMAPA.
+2025-11-06,ENDEG,G,Central eólica San Julián,12:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-06,ENDEG,G,Central eólica El Dorado,12:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-06,COBEE,G,Sistema Miguillas,13:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-06,HB,G,Sistema Taquesi,14:00,23:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-06,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-07,LAS LOMAS,CNR,Las Lomas,00:00,16:00,"Menor de demanda, falta de material."
+2025-11-07,CRE,D,Área Oriental,01:00,14:00,Menor demanda a la prevista.
+2025-11-07,COBEE,G,Sistema Zongo,01:00,14:00,Menores aportes laterales de agua a lo previsto.
+2025-11-07,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-07,ENDEG,G,Central eólica San Julián,01:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-07,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-11-07,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-11-07,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2025-11-07,ELFEC,D,Área Central,01:00,24:00,Mayor demanda a la prevista.
+2025-11-07,ENDEG,G,Central eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-07,EMSC,CNR,Minera San Cristóbal,16:19,19:54,"Menor demanda, debido a parada de Molino SAG por trabajos de retiro de bulldozer."
+2025-11-07,ENDEG,G,Central eólica San Julián,22:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-07,COBEE,G,Sistema Zongo,23:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-08,CRE,D,Área Oriental,01:00,05:00,Mayor demanda a la prevista.
+2025-11-08,COBEE,G,Sistema Zongo,01:00,08:00,Menores aportes laterales de agua a lo previsto.
+2025-11-08,DELAPAZ,D,Área Norte,01:00,14:00,Mayor demanda a la prevista.
+2025-11-08,ENDEG,G,Central eólica San Julián,01:00,15:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-08,ENDEG,G,Central eólica El Dorado,01:00,15:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-08,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-11-08,CRE,D,Área Oriental,09:00,24:00,Menor demanda a la prevista.
+2025-11-08,COBEE,G,Sistema Zongo,09:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-08,HB,G,Sistema Taquesi,10:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-08,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Mayor demanda a la prevista.
+2025-11-08,SETAR,D,Área Tarija,11:00,24:00,Menor demanda a la prevista.
+2025-11-08,ENDE CORANI,G,Central eólica Qollpana I y II,13:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-08,ENDEG,G,Central solar Oruro I y II,14:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-09,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-11-09,CRE,D,Área Oriental,10:00,22:00,Mayor demanda a la prevista.
+2025-11-09,HB,G,Sistema Taquesi,11:36,14:30,Menores aportes laterales de agua a lo previsto.
+2025-11-10,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-11-10,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-11-10,ENDE CORANI,G,Central eólica El Dorado,09:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-10,CRE,D,Área Oriental,13:00,22:00,Mayor demanda a la prevista.
+2025-11-10,COBEE,G,Sistema Zongo,17:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-10,HB,G,Sistema Taquesi,17:15,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-10,COBEE,G,Sistema Miguillas,21:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-11,COBEE,G,Sistema Miguillas,00:00,05:00,Menores aportes laterales de agua a lo previsto.
+2025-11-11,COBEE,G,Sistema Zongo,00:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-11,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-11-11,ENDE DELBENI,D,Área Trinidad,07:00,17:00,Menor demanda a la prevista.
+2025-11-11,ENDEG,G,Central Solar Oruro I y II,07:00,17:00,"Mayor generación, condiciones climáticas desfavorables."
+2025-11-11,ENDE CORANI,G,Central eólica Qollpana I y II,07:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-11,COBEE,G,Sistema Zongo,10:00,12:00,Menores aportes laterales de agua a lo previsto.
+2025-11-11,ENDEG,G,Central eólica El Dorado,10:00,24:00,"Menor generación, condiciones climáticas favorables."
+2025-11-11,ENDEG,G,Central eólica San Julián,11:00,24:00,"Menor generación, condiciones climáticas favorables."
+2025-11-11,HB,G,Sistema Taquesi,19:00,23:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-11,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-12,COBEE,G,Sistema Miguillas,00:00,03:00,Menores aportes laterales de agua a lo previsto.
+2025-11-12,COBEE,G,Sistema Zongo,00:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-12,ENDEG,G,Central eólica San Julián,01:00,24:00,"Menor generación, condiciones climáticas favorables."
+2025-11-12,ENDEG,G,Central eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas favorables."
+2025-11-12,ENDE DELBENI,D,Área Trinidad,06:00,24:00,Menor demanda a la prevista.
+2025-11-12,SETAR,D,Área Tarija,09:00,17:00,Mayor demanda a la prevista.
+2025-11-12,ENDE CORANI,G,Central Misicuni,10:00,24:00,Menor generación debido a riesgo de rebose.
+2025-11-12,COBEE,G,Sistema Miguillas,14:00,24:00,Indisponibilidad de unidades generadoras debido al mantenimiento de la línea ANG-MIG069.
+2025-11-12,HB,G,Sistema Taquesi,14:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-12,ENDE CORANI,G,Central eólica Qollpana I y II,15:00,17:00,"Menor generación, condiciones climáticas favorables."
+2025-11-13,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-11-13,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-11-13,COBEE,G,Sistema Zongo,03:00,06:00,Menor aportes laterales de agua a lo previsto.
+2025-11-13,ENDEG,G,Central Solar Oruro I y II,10:00,18:00,"Mayor generación, condiciones climáticas desfavorables."
+2025-11-13,CRE,D,Área Oriental,10:00,24:00,Menor demanda a la prevista.
+2025-11-13,SETAR,D,Área Tarija,10:00,24:00,Menor demanda a la prevista.
+2025-11-13,ENDEG,G,Central eólica San Julián,13:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-13,COBEE,G,Sistema Zongo,14:00,22:00,Menores aportes laterales de agua a lo previsto.
+2025-11-13,ENDEG,G,Central Eólica Warnes,15:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-13,HB,G,Sistema Taquesi,18:30,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-13,COBEE,G,Sistema Zongo,23:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-14,HB,G,Sistema Taquesi,00:00,03:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-14,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2025-11-14,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-11-14,ENDEG,G,Central eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-14,ENDEG,G,Central eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-14,ENDE CORANI,G,Central eólica Qollpana I y II,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-14,ENDE CORANI,G,Central Santa Isabel,01:06,14:00,Mayores aportes laterales de agua a lo previsto en río Vinto.
+2025-11-14,COBEE,G,Sistema Zongo,02:00,10:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-14,DELAPAZ,D,Área Norte,02:00,16:00,Mayor demanda a la prevista.
+2025-11-14,COBEE,G,Sistema Miguillas,04:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-14,EMSC,CNR,Minera San Cristóbal,07:42,12:06,Reducción de carga por trabajos de Molino SAG (Cambio de aspersores) y Molino Bolar 2 (Nueva línea de ciclones invertidos).
+2025-11-14,ENDE GUARACACHI,G,Central solar Uyuni,08:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-14,HB,G,Sistema Taquesi,08:15,12:30,Mayores aportes laterales de agua a lo previsto.
+2025-11-14,ENDEG,G,Central solar Oruro,13:00,14:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-14,COBEE,G,Sistema Taquesi,19:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-15,COBEE,G,Sistema Miguillas,01:00,03:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-15,ENDEG,G,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-11-15,COBEE,G,Sistema Zongo,07:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-15,COBEE,G,Sistema Miguillas,07:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-15,ENDEG,G,Central Eólica San Julián,12:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-15,CRE,D,Área Oriental,13:00,24:00,Mayor demanda a la prevista.
+2025-11-15,ENDE CORANI,G,Central Eólica Qollpana,13:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-15,ENDEG,G,Central Eólica El Dorado,15:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-15,HB,G,Sistema Taquesi,18:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-15,COBEE,G,Sistema Miguillas,19:00,22:00,Menores aportes laterales de agua a lo previsto.
+2025-11-16,ENDEG,G,Central Eólica San Julián,01:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-16,ENDE CORANI,G,Central Eólica Qollpana,01:00,20:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-16,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-11-16,ENDEG,G,Central Eólica Warnes,02:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-16,CRE,D,Área Oriental,03:00,24:00,Mayor demanda a la prevista.
+2025-11-16,COBEE,G,Sistema Zongo,05:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-16,COBEE,G,Sistema Miguillas,07:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-16,ENDE DELBENI,D,Área Trinidad,11:00,24:00,Mayor demanda a la prevista.
+2025-11-17,COBEE,G,Sistema Miguillas,00:00,06:00,Mayores aportes laterales a lo previsto.
+2025-11-17,ENDED,D,Área Trinidad,00:00,24:00,Menor demanda a la prevista.
+2025-11-17,ENDEG,G,Central Eólica El Dorado,01:00,16:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-17,ENDEG,G,Central Eólica San Julián,01:00,23:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-17,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-11-17,ENDE CORANI,G,Central eólica Qollpana I y II,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-17,COBEE,G,Sistema Zongo,02:00,04:00,Mayores aportes laterales a lo previsto.
+2025-11-17,CRE,D,Área Oriental,07:00,24:00,Menor demanda a la prevista.
+2025-11-17,HB,G,Sistema Taquesi,10:00,14:00,Menores aportes laterales a lo previsto.
+2025-11-17,ENDE TRANSMISION,T,Sistema Interconectado Nacional,16:43,24:00,Indisponibilidad de la línea en 230 kV Carrasco - Santivañez.
+2025-11-17,COBEE,G,Sistema Zongo,18:00,22:00,Mayores aportes laterales a lo previsto.
+2025-11-18,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-18,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-18,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2025-11-18,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-11-18,ENDEG,G,Central Solar Oruro II,07:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-18,COBEE,G,Sistema Zongo,15:00,17:00,Menores aportes laterales de agua a lo previsto.
+2025-11-18,HB,G,Sistema Taquesi,15:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-18,COBEE,G,Sistema Miguillas,17:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-19,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales a lo previsto.
+2025-11-19,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales a lo previsto.
+2025-11-19,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-11-19,COBEE,G,Sistema Zongo,07:00,10:00,Menores aportes laterales a lo previsto.
+2025-11-19,ENDE DELBENI,D,Área Tarija,09:00,18:00,Mayor demanda a la prevista.
+2025-11-19,CRE,D,Área Oriental,09:00,24:00,Menor demanda a la prevista.
+2025-11-19,COBEE,G,Sistema Zongo,13:00,17:00,Menores aportes laterales a lo previsto.
+2025-11-19,ENDE CORANI,G,Central eólica Qollpana I y II,13:00,22:00,"Mayor generación, condiciones climáticas desfavorables."
+2025-11-19,COBEE,G,Sistema Miguillas,14:00,19:00,Menores aportes laterales a lo previsto.
+2025-11-19,ENDEG,G,Central Eólica El Dorado,15:00,21:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-19,SETAR,D,Área Trinidad,15:00,24:00,Mayor demanda a la prevista.
+2025-11-19,COBEE,G,Sistema Zongo,18:00,22:00,Mayores aportes laterales a lo previsto.
+2025-11-19,HB,G,Sistema Taquesi,19:00,21:00,Mayores aportes laterales a lo previsto.
+2025-11-20,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-20,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-11-20,COBEE,G,Sistema Zongo,02:00,07:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-20,SETAR,D,Área Tarija,09:00,24:00,Mayor demanda a la prevista.
+2025-11-20,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Mayor demanda a la prevista.
+2025-11-20,COBEE,G,Sistema Miguillas,14:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-20,CRE,D,Área Oriental,19:00,24:00,Mayor demanda a la prevista.
+2025-11-21,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales a lo previsto.
+2025-11-21,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales a lo previsto.
+2025-11-21,SETAR,D,Área Tarija,01:00,10:00,Mayor demanda a la prevista.
+2025-11-21,ENDEG,G,Central Eólica San Julián,01:00,13:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-21,CRE,D,Área Oriental,10:00,24:00,Menor demanda a la prevista.
+2025-11-21,COBEE,G,Sistema Zongo,11:00,14:00,Menores aportes laterales a lo previsto.
+2025-11-21,ENDE DELBENI,D,Área Trinidad,11:00,24:00,Menor demanda a la prevista.
+2025-11-21,COBEE,G,Sistema Miguillas,14:00,17:00,Menores aportes laterales a lo previsto.
+2025-11-21,COBEE,G,Sistema Miguillas,18:00,21:00,Mayores aportes laterales a lo previsto.
+2025-11-21,CESSA,D,Área Sucre,18:00,24:00,Mayor demanda a la prevista.
+2025-11-22,COBEE,G,Sistema Zongo,01:00,05:00,Menores aportes laterales de agua a lo previsto.
+2025-11-22,COBEE,G,Sistema Zongo,07:00,09:00,Menores aportes laterales de agua a lo previsto.
+2025-11-22,COBEE,G,Sistema Miguillas,08:00,24:00,Menores aportes laterales de agua a lo previsto.
+2025-11-22,ENDE DELBENI,D,Área Trinidad,09:00,18:00,Menor demanda a la prevista.
+2025-11-22,SETAR,D,Área Tarija,10:00,24:00,Mayor demanda a la prevista.
+2025-11-22,EMSC,CNR,Minera San Cristóbal,10:37,11:56,"Reducción de demanda de 43.2 MW a 37.4 MW, por trabajos de limpieza en celdas de flotación de plomo de línea 1."
+2025-11-22,EMSC,CNR,Minera San Cristóbal,11:56,23:35,"Reducción de demanda de 43.2 MW a 37.4 MW, por trabajos de limpieza en celdas de flotación de plomo de línea 1."
+2025-11-22,COBEE,G,Sistema Zongo,12:00,15:00,Menores aportes laterales de agua a lo previsto.
+2025-11-22,CRE,D,Área Oriental,14:00,24:00,Mayor demanda a la prevista.
+2025-11-23,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2025-11-23,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-23,COBEE,G,Sistema Miguillas,07:00,14:00,Mayores aportes laterales a lo previsto.
+2025-11-23,COBEE,G,Sistema Zongo,07:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-23,ENDEG,G,Central Eólica El Dorado,08:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-23,ENDEG,G,Central Solar Oruro I y II,14:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-23,ENDE DELBENI,D,Área Trinidad,15:00,24:00,Mayor demanda a la prevista.
+2025-11-23,COBEE,G,Sistema Miguillas,17:00,22:00,Menores aportes laterales de agua a lo previsto.
+2025-11-23,HB,G,Sistema Taquesi,18:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-24,HB,G,Sistema Taquesi,00:00,02:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-24,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-24,ENDEG,G,Central Eólica El Dorado,01:00,08:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-24,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-24,ENDE CORANI,G,Central eólica Qollpana I y II,01:00,18:00,"Mayor generación, condiciones climáticas desfavorables."
+2025-11-24,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-11-24,COBEE,G,Sistema Miguillas,07:00,14:00,Menores aportes laterales de agua a lo previsto.
+2025-11-24,SETAR,D,Área Tarija,08:00,24:00,Mayor demanda a la prevista.
+2025-11-24,CRE,D,Área Oriental,10:00,24:00,Mayor demanda a la prevista.
+2025-11-24,ENDE DELBENI,D,Área Trinidad,11:00,24:00,Mayor demanda a la prevista.
+2025-11-24,COBEE,G,Sistema Zongo,15:00,17:00,Menores aportes laterales de agua a lo previsto.
+2025-11-25,CESSA,D,Área Sucre,01:00,17:00,Mayor demanda a la prevista.
+2025-11-25,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2025-11-25,COBEE,G,Sistema Miguillas,06:00,16:00,Menores aportes laterales de agua a lo previsto.
+2025-11-25,ENDE DELBENI,D,Área Trinidad,08:00,17:00,Mayor demanda a la prevista.
+2025-11-25,CRE,D,Área Oriental,12:00,24:00,Mayor demanda a la prevista.
+2025-11-26,SETAR,D,Área Tarija,01:00,17:00,Mayor demanda a la prevista.
+2025-11-26,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-11-26,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2025-11-26,COBEE,G,Sistema Miguillas,06:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-26,COBEE,G,Sistema Zongo,06:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-26,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Menor demanda a la prevista.
+2025-11-26,ENDEG,G,Central Eólica El Dorado,10:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-26,ENDEG,G,Central Eólica San Julián,13:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-26,ENDE CORANI,G,Central eólica Qollpana I y II,19:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-27,LAS LOMAS,CNR,Las Lomas,00:00,24:00,"Menor demanda a lo programado, debido a falta de material."
+2025-11-27,ENDE DELBENI,D,Área Trinidad,01:00,11:00,Menor demanda a la prevista.
+2025-11-27,ENDEG,G,Central eólica El Dorado,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-27,ENDE CORANI,G,Central eólica Qollpana I y II,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-27,COBEE,G,Sistema Miguillas,06:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-27,CRE,D,Área Oriental,06:00,24:00,Menor demanda a la prevista.
+2025-11-27,ENDEG,G,Central Solar Oruro I y II,07:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-27,SETAR,D,Área Tarija,09:00,24:00,Mayor demanda a la prevista.
+2025-11-27,ENDEG,G,Central eólica Warnes,10:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-27,COBEE,G,Sistema Miguillas,15:00,21:00,Menores aportes laterales de agua a lo previsto.
+2025-11-27,COBEE,G,Sistema Zongo,15:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-28,COBEE,G,Sistema Miguillas,01:00,06:00,Menores aportes laterales de agua a lo previsto.
+2025-11-28,COBEE,G,Sistema Zongo,01:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-28,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-11-28,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-11-28,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2025-11-28,ENDEG,G,Central eólica El Dorado,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-28,COBEE,G,Sistema Miguillas,10:00,11:00,Menores aportes laterales de agua a lo previsto.
+2025-11-28,COBEE,G,Sistema Zongo,12:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-28,COBEE,G,Sistema Zongo,17:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-28,ENDEG,G,Central eólica San Julián,18:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-29,ENDEG,G,Central eólica Warnes,01:00,10:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-29,ENDEG,G,Central eólica El Dorado,01:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2025-11-29,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-11-29,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2025-11-29,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2025-11-29,COBEE,G,Sistema Zongo,08:00,17:00,Menores aportes laterales de agua a lo previsto.
+2025-11-29,ENDE DELBENI,D,Área Trinidad,11:00,24:00,Mayor demanda a la prevista.
+2025-11-29,ENDE VALLE HERMOSO,G,Central Valle Hermoso,17:00,24:00,"Indisponibilidad de las unidades VHE02 y VHE03, restricción en suministro de gas."
+2025-11-29,ENDE VALLE HERMOSO,G,Central El Alto,17:25,24:00,"Indisponibilidad de las unidad ALT01, restricción en suministro de gas."
+2025-11-29,COBEE,G,Sistema Miguillas,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-30,ENDE VALLE HERMOSO,G,Central Valle Hermoso,00:00,24:00,"Indisponibilidad de las unidades VHE02 y VHE03, restricción en suministro de gas."
+2025-11-30,ENDE DELBENI,D,Área Trinidad,01:00,08:00,Mayor demanda a la prevista.
+2025-11-30,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-30,CRE,D,Área Oriental,01:00,16:00,Mayor demanda a la prevista.
+2025-11-30,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2025-11-30,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-11-30,COBEE,G,Sistema Zongo,03:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-30,ENDE GUARACACHI,G,Central Guaracachi,09:15,24:00,"Indisponibilidad de unidad GCH12, falla en bloque hidráulico de las válvulas de control. ."
+2025-11-30,ENDE DELBENI,D,Área Trinidad,10:00,22:00,Menor demanda a la prevista.
+2025-11-30,HB,G,Sistema Taquesi,14:15,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-11-30,COBEE,G,Sistema Miguillas,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-01,LAS LOMAS,CNR,Las Lomas,00:00,05:00,"Menor demanda a lo programado, debido a pruebas en baja tensión."
+2025-12-01,COBEE,G,Sistema Zongo,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-01,COBEE,G,Sistema Miguillas,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-01,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-12-01,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2025-12-01,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2025-12-01,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-12-01,ENDE CORANI,G,Central eólica Qollpana I y II,02:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-01,HB,G,Sistema Taquesi,04:00,08:30,Mayores aportes laterales de agua a lo previsto.
+2025-12-01,ENDEG,G,Central eólica Warnes,10:00,24:00,"Mayor generación, condiciones climáticas desfavorables."
+2025-12-01,COBEE,G,Sistema Zongo,16:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-01,COBEE,G,Sistema Miguillas,16:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-01,ENDEG,G,Central eólica El Dorado,20:00,24:00,"Mayor generación, condiciones climáticas desfavorables."
+2025-12-02,CRE,D,Área Oriental,01:00,13:00,Mayor demanda a la prevista.
+2025-12-02,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-12-02,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2025-12-02,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-02,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-02,ENDEG,G,Central eólica El Dorado,09:00,15:00,"Mayor generación, condiciones climáticas desfavorables."
+2025-12-02,ENDE DELBENI,D,Área Trinidad,11:00,24:00,Menor demanda a la prevista.
+2025-12-02,ENDE CORANI,G,Central Misicuni,11:00,24:00,"Menor generación, debido a caudal elevado en río Chijllawiri."
+2025-12-03,COBEE,G,Sistema Zongo,01:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-03,COBEE,G,Sistema Miguillas,01:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-03,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2025-12-03,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-12-03,ENDEG,G,Central eólica El Dorado,04:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-03,ENDEG,G,Central Solar Oruro I y II,07:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-03,COBEE,G,Sistema Zongo,17:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-03,HB,G,Sistema Taquesí,17:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-03,COBEE,G,Sistema Miguillas,18:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-04,HB,G,Sistema Taquesí,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-04,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-04,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-04,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-12-04,DELAPAZ,D,Área Norte,08:00,24:00,Mayor demanda a la prevista.
+2025-12-04,ENDEG,G,Central Solar Oruro I y II,15:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-04,COBEE,G,Sistema Zongo,17:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-05,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-05,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-05,DELAPAZ,D,Área Norte,01:00,18:00,Mayor demanda a la prevista.
+2025-12-05,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-12-05,HB,G,Sistema Taquesi,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-05,ENDEG,G,Central solar Oruro I y II,09:00,11:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-05,CRE,D,Área Oriental,09:00,24:00,Mayor demanda a la prevista.
+2025-12-05,ENDE CORANI,G,Central Misicuni,10:00,24:00,"Mayor generación, debido a erogación a río Chijllawiri."
+2025-12-05,ENDE GUARACACHI,G,Central solar Uyuni,12:00,13:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-05,ENDEG,G,Central solar Oruro I y II,16:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-05,COBEE,G,Sistema Zongo,17:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-05,COBEE,G,Sistema Miguillas,18:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-06,ENDE DELBENI,D,Área Trinidad,01:00,07:00,Menor demanda a la prevista.
+2025-12-06,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-12-06,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-06,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-06,ENDE DELBENI,D,Área Trinidad,15:00,24:00,Menor demanda a la prevista.
+2025-12-07,COBEE,G,Sistema Zongo,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-07,COBEE,G,Sistema Miguillas,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-07,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-12-07,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2025-12-07,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2025-12-07,ENDEG,G,Central solar Oruro I y II,06:00,09:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-07,ENDE DELBENI,D,Área Trinidad,06:00,24:00,Mayor demanda a la prevista.
+2025-12-08,SEPSA,D,Área Potosí,01:00,20:00,Menor demanda a la prevista.
+2025-12-08,COBEE,G,Sistema Zongo,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-08,ENDEG,G,Central solar Oruro I y II,07:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-08,COBEE,G,Sistema Miguillas,07:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-08,ENDEG,G,Central eólica El Dorado,07:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-08,SETAR,D,Área Tarija,10:00,22:00,Menor demanda a la prevista.
+2025-12-08,CRE,D,Área Oriental,10:00,24:00,Menor demanda a la prevista.
+2025-12-08,ENDEG,G,Central eólica Warnes,11:00,23:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-08,ENDE DELBENI,D,Área Trinidad,11:00,24:00,Menor demanda a la prevista.
+2025-12-08,ENDE CORANI,G,Central eólica Qollpana I y II,16:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-09,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-09,HB,G,Sistema Taquesi,01:00,18:00,Menores aportes laterales de agua a lo previsto.
+2025-12-09,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-12-09,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2025-12-09,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-09,ENDE DELBENI,D,Área Trinidad,09:00,24:00,Menor demanda a la prevista.
+2025-12-09,ENDE CORANI,G,Central eólica Qollpana I y II,10:00,19:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-09,COBEE,G,Sistema Miguillas,14:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-10,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-10,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-10,ENDE DELBENI,D,Área Trinidad,01:00,12:00,Menor demanda a la prevista.
+2025-12-10,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2025-12-10,ENDEG,G,Central solar Oruro I y II,07:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-10,EMSC,CNR,Minera San Cristóbal,08:00,11:55,"Reducción de carga de 45 MW a 9.0 MW, parada del Molino Bolas SAG para realizar el cambio de mallas de trómel y cambio de sentido de giro."
+2025-12-10,CRE,D,Área Oriental,09:00,24:00,Mayor demanda a la prevista.
+2025-12-10,COBEE,G,Sistema Zongo,14:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-10,COBEE,G,Sistema Miguillas,14:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-11,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-11,ENDEG,G,Central eólica San Julián,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-11,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-11,ENDE CORANI,G,Central eólica Qollpana I y II,02:00,20:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-11,SEPSA,D,Área Potosí,03:00,24:00,Menor demanda a la prevista.
+2025-12-11,SETAR,D,Área Tarija,08:00,17:00,Mayor demanda a la prevista.
+2025-12-11,CRE,D,Área Oriental,09:00,24:00,Menor demanda a la prevista.
+2025-12-11,ENDEG,G,Central solar Oruro I y II,14:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-12,COBEE,G,Sistema Zongo,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-12,COBEE,G,Sistema Miguillas,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-12,HB,G,Sistema Taquesi,04:00,12:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-12,ENDEG,G,Central solar Oruro I y II,07:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-12,DELAPAZ,D,Área Norte,08:00,18:00,Mayor demanda a la prevista.
+2025-12-13,COBEE,G,Sistema Zongo,01:00,21:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-13,COBEE,G,Sistema Miguillas,07:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-13,CRE,D,Área Oriental,09:00,24:00,Menor demanda a la prevista.
+2025-12-13,ENDE DELBENI,D,Área Trinidad,11:00,24:00,Mayor demanda a la prevista.
+2025-12-13,HB,G,Sistema Taquesi,14:45,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-13,COBEE,G,Sistema Miguillas,18:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-14,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-14,ENDE DELBENI,D,Área Trinidad,01:00,18:00,Mayor demanda a la prevista.
+2025-12-14,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-12-14,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-14,ENDE CORANI,G,Central eólica Qollpana I y II,12:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-14,COBEE,G,Sistema Miguillas,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-15,SETAR,D,Área Tarija,01:00,13:00,Mayor demanda a la prevista.
+2025-12-15,ENDEG,G,Central Eólica San Julián,01:00,19:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-15,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-12-15,COBEE,G,Sistema Miguilla,07:00,10:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-15,ENDE CORANI,G,Central eólica Qollpana I y II,07:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-15,COBEE,G,Sistema Zongo,09:00,17:00,Menores aportes laterales de agua a lo previsto.
+2025-12-15,CRE,D,Área Oriental,11:00,24:00,Mayor demanda a la prevista.
+2025-12-15,HB,G,Sistema Taquesi,18:00,21:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-16,ENDEG,G,Central Eólica El Dorado,01:00,20:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-16,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-16,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-16,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-16,COBEE,G,Sistema Zongo,02:00,04:00,Menores aportes laterales de agua a lo previsto.
+2025-12-16,CRE,D,Área Oriental,07:00,24:00,Menor demanda a la prevista.
+2025-12-16,SETAR,D,Área Tarija,07:00,24:00,Menor demanda a la prevista.
+2025-12-16,COBEE,G,Sistema Zongo,09:00,17:00,Menores aportes laterales de agua a lo previsto.
+2025-12-16,ENDEG,G,Central solar Oruro I y II,09:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-16,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Menor demanda a la prevista.
+2025-12-16,HB,G,Sistema Taquesi,17:15,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-17,COBEE,G,Sistema Miguillas,01:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-17,COBEE,G,Sistema Zongo,01:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-17,SETAR,D,Área Tarija,01:00,21:00,Menor demanda a la prevista.
+2025-12-17,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-12-17,CESSA,D,Área Sucre,04:00,17:00,Menor demanda a la prevista.
+2025-12-17,CRE,D,Área Oriental,06:00,24:00,Menor demanda a la prevista.
+2025-12-17,COBEE,G,Sistema Zongo,15:00,17:00,Menores aportes laterales de agua a lo previsto.
+2025-12-17,HB,G,Sistema Taquesi,17:15,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-17,COBEE,G,Sistema Zongo,18:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-17,COBEE,G,Sistema Miguillas,18:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-18,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-18,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-18,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-18,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-18,COBEE,G,Sistema Zongo,18:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-19,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-19,COBEE,G,Sistema Miguillas,01:00,11:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-19,ENDEG,G,Central Eólica San Julián,01:00,23:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-19,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-19,ENDEG,G,Central Eólica El Dorado,04:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-19,COBEE,G,Sistema Zongo,08:00,11:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-19,ENDEG,G,Central solar Oruro I y II,08:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-19,CRE,D,Área Oriental,09:00,24:00,Mayor demanda a la prevista.
+2025-12-19,SETAR,D,Área Tarija,11:00,24:00,Mayor demanda a la prevista.
+2025-12-19,COBEE,G,Sistema Miguillas,18:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-19,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-20,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-20,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-20,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-20,ENDEG,G,Central Eólica El Dorado,03:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-20,HB,G,Sistema Taquesi,03:15,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-20,ENDEG,G,Central Solar Oruro I y II,07:00,13:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-20,HB,G,Sistema Taquesi,08:15,10:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-20,CRE,D,Área Oriental,09:00,24:00,Mayor demanda a la prevista.
+2025-12-20,ENDE CORANI,G,Central Eólica Qollpana,10:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-21,COBEE,G,Sistema Miguillas,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-21,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-21,SETAR,D,Área Tarija,01:00,13:00,Mayor demanda a la prevista.
+2025-12-21,CESSA,D,Área Sucre,01:00,17:00,Menor demanda a la prevista.
+2025-12-21,ENDEG,G,Central Eólica Warnes,01:00,19:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-21,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2025-12-21,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-21,ENDE CORANI,G,Central eólica Qollpana I y II,02:00,15:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-21,ENDEG,G,Central Eólica San Julián,05:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-21,ENDEG,G,Central solar Oruro I y II,14:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-22,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-22,ENDEG,G,Central Eólica Warnes,01:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-22,ENDEG,G,Central eólica Qollpana I y II,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-22,ENDEG,G,Central Eólica El Dorado,04:00,10:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-22,ELFEC,D,Área Central,05:00,24:00,Menor demanda a la prevista.
+2025-12-22,CESSA,D,Área Sucre,07:00,17:00,Menor demanda a la prevista.
+2025-12-22,SETAR,D,Área Tarija,07:00,17:00,Menor demanda a la prevista.
+2025-12-23,COBEE,G,Sistema Miguillas,00:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-23,COBEE,G,Sistema Zongo,00:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-23,ELFEC,D,Área Central,01:00,20:00,Menor demanda a la prevista.
+2025-12-23,ENDEG,G,Central Eólica San Julián,01:00,23:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-23,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-23,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-23,COBEE,G,Sistema Miguillas,08:00,12:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-23,COBEE,G,Sistema Zongo,08:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-23,ENDE DELBENI,D,Área Trinidad,09:00,18:00,Menor demanda a la prevista.
+2025-12-23,CRE,D,Área Oriental,09:00,20:00,Menor demanda a la prevista.
+2025-12-23,ENDE CORANI,G,Sistema Misicuni,11:00,18:00,Menor generación debido a riesgo de rebose por pruebas de termografía.
+2025-12-23,COBEE,G,Sistema Zongo,18:00,20:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-23,ENDE CORANI,G,Sistema Misicuni,21:00,24:00,Menor generación debido a riesgo de rebose por pruebas de termografía.
+2025-12-24,COBEE,G,Sistema Miguillas,06:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-24,CRE,D,Área Oriental,08:00,24:00,Menor demanda a la prevista.
+2025-12-24,ENDE DELBENI,D,Área Trinidad,09:00,24:00,Menor demanda a la prevista.
+2025-12-24,COBEE,G,Sistema Zongo,12:00,19:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-25,SETAR,D,Área Tarija,01:00,12:00,Mayor demanda a la prevista.
+2025-12-25,DELAPAZ,D,Área Norte,01:00,14:00,Mayor demanda a la prevista.
+2025-12-25,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2025-12-25,SEPSA,D,Área Potosí,01:00,24:00,Mayor demanda a la prevista.
+2025-12-25,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-25,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-25,COBEE,G,Sistema Zongo,06:00,10:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-25,COBEE,G,Sistema Miguillas,07:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-25,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Menor demanda a la prevista.
+2025-12-25,COBEE,G,Sistema Zongo,16:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-26,COBEE,G,Sistema Zongo,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-26,HB,G,Sistema Taquesi,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-26,SEPSA,D,Área Potosí,01:00,24:00,Mayor demanda a la prevista.
+2025-12-26,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2025-12-26,COBEE,G,Sistema Miguillas,06:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-26,ENDE CORANI,G,Central Santa Isabel,10:12,17:10,"Mayor generación, mayores aportes laterales de agua al río Vinto."
+2025-12-26,CESSA,D,Área Sucre,11:00,24:00,Mayor demanda a la prevista.
+2025-12-26,ENDEG,G,Central solar Oruro I y II,14:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-26,SYNERGIA,G,Central Kanata,23:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-27,SYNERGIA,G,Central Kanata,01:00,15:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-27,COBEE,G,Sistema Miguillas,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-27,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-27,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-27,HB,G,Sistema Taquesi,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-27,ENDE CORANI,G,Central Eólica Qollpana,08:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-27,CRE,D,Área Oriental,09:00,24:00,Mayor demanda a la prevista.
+2025-12-27,ENDE CORANI,G,Central Santa Isabel,11:24,24:00,"Mayor generación, mayores aportes laterales al río Vinto."
+2025-12-27,SYNERGIA,G,Central Kanata,23:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-28,HB,G,Sistema Taquesi,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-28,ELFEC,D,Área Central,01:00,24:00,Menor demanda a la prevista.
+2025-12-28,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2025-12-28,SETAR,D,Área Tarija,01:00,24:00,Menor demanda a la prevista.
+2025-12-28,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-28,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-28,ENDE CORANI,G,Central eólica Qollpana I y II,11:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-28,ENDEG,G,Central solar Oruro I y II,12:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-29,HB,G,Sistema Taquesi,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-29,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-29,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-29,ELFEC,D,Área Central,01:00,24:00,Menor demanda a la prevista.
+2025-12-29,SETAR,D,Área Tarija,05:00,20:00,Menor demanda a la prevista.
+2025-12-29,ENDE CORANI,G,Central Santa Isabel,05:45,24:00,"Mayor generación, mayores aportes laterales de agua al río Vinto del orden de 36 MW."
+2025-12-29,ENDEG,G,Central solar Oruro I y II,07:00,12:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-29,ENDEG,G,Central eólica Qollpana I y II,10:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-29,ENDE CORANI,G,Sistema Misicuni,11:00,19:00,Mayor generación debido a nivel del embalse de compensación al lado bajo.
+2025-12-29,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-29,COBEE,G,Sistema Miguillas,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-30,COBEE,G,Sistema Zongo,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-30,COBEE,G,Sistema Miguillas,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-30,ENDEG,G,Central Eólica Qollpana I y II,01:00,19:00,"Menor generación, condiciones climáticas desfavorables."
+2025-12-30,SEPSA,D,Área Potosí,06:00,24:00,Menor demanda a la prevista.
+2025-12-30,SETAR,D,Área Tarija,09:00,24:00,Mayor demanda a la prevista.
+2025-12-30,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Mayor demanda a la prevista.
+2025-12-30,CESSA,D,Área Sucre,12:00,24:00,Mayor demanda a la prevista.
+2025-12-31,COBEE,G,Sistema Zongo,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-31,COBEE,G,Sistema Miguillas,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2025-12-31,DELAPAZ,D,Área Norte,01:00,21:00,Mayor demanda a la prevista.
+2025-12-31,ENDEG,G,Central Eólica San Julián,01:00,23:00,"Mayor generación, condiciones climáticas favorables."
+2025-12-31,CRE,D,Área Oriental,10:00,21:00,Mayor demanda a la prevista.
+2025-12-31,ENDEG,G,Central Solar Oruro I y II,14:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-01,COBEE,G,Sistema Zongo,00:00,14:00,Mayores aportes laterales a lo previsto.
+2026-01-01,COBEE,G,Sistema Miguillas,00:00,14:00,Mayores aportes laterales a lo previsto.
+2026-01-02,COBEE,G,Sistema Zongo,00:00,06:00,Mayores aportes laterales a lo previsto.
+2026-01-02,COBEE,G,Sistema Miguillas,00:00,06:00,Mayores aportes laterales a lo previsto.
+2026-01-02,ENDEG,G,Central Eólica San Julián,01:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-02,ENDEG,G,Central Eólica Warnes,01:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-02,ELFEC,D,Área Central,01:00,20:00,Menor demanda a la prevista.
+2026-01-02,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-01-02,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2026-01-02,ENDEG,G,Central solar Oruro I y II,11:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-02,CRE,D,Área Oriental,18:00,24:00,Mayor demanda a la prevista.
+2026-01-03,COBEE,G,Sistema Zongo,01:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-03,SEPSA,D,Área Sud,01:00,24:00,Menor demanda a la prevista.
+2026-01-03,ELFEC,D,Área Central,01:00,24:00,Menor demanda a la prevista.
+2026-01-03,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2026-01-03,ENDE ORURO,D,Área Central,01:00,24:00,Menor demanda a la prevista.
+2026-01-03,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-03,ENDEG,G,Central solar Oruro I y II,08:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-03,ENDE DELBENI,D,Área Trinidad,09:00,24:00,Mayor demanda a la prevista.
+2026-01-03,ENDE GUARACACHI,G,Central solar Uyuni,12:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-03,ENDE CORANI,G,Sistema Misicuni,13:25,18:00,Menor generación debido a nivel del embalse de compensación.
+2026-01-03,COBEE,G,Sistema Zongo,14:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-03,CESSA,D,Área Sucre,18:00,24:00,Mayor demanda a la prevista.
+2026-01-03,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-04,ENDE DELBENI,D,Área Trinidad,01:00,08:00,Mayor demanda a la prevista.
+2026-01-04,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-04,ENDEG,G,Central Eólica El Dorado,01:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-04,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2026-01-04,COBEE,G,Sistema Miguillas,02:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-04,ENDEG,G,Central Eólica San Julián,04:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-04,EMSC,CNR,Minera San Cristóbal,16:32,16:55,"Reducción de carga de 48.9 MW a 41.4 MW, apertura de interruptor recloser línea pozos."
+2026-01-05,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-05,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-05,ENDEG,G,Central Eólica El Dorado,01:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-05,ENDEG,G,Central Eólica Warnes,01:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-05,ENDEG,G,Central Solar Oruro I y II,07:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-05,CRE,D,Área Oriental,10:00,24:00,Mayor demanda a la prevista.
+2026-01-05,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Mayor demanda a la prevista.
+2026-01-05,DELAPAZ,D,Área Norte,11:00,21:00,Mayor demanda a la prevista.
+2026-01-05,SYNERGIA,G,Central Kanata,23:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-06,SYNERGIA,G,Central Kanata,00:00,11:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-06,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-06,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-06,ENDEG,G,Central Solar Oruro I y II,07:00,10:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-06,CRE,D,Área Oriental,10:00,16:00,Mayor demanda a la prevista.
+2026-01-07,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-07,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-07,ENDE DELBENI,D,Área Triniddad,01:00,17:00,Mayor demanda a la prevista.
+2026-01-07,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-01-07,ENDE CORANI,G,Central eólica Qollpana I y II,04:00,19:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-07,CESSA,D,Área Sucre,07:00,23:00,Mayor demanda a la prevista.
+2026-01-07,CRE,D,Área Oriental,09:00,24:00,Mayor demanda a la prevista.
+2026-01-07,SETAR,D,Área Tarija,09:00,24:00,Mayor demanda a la prevista.
+2026-01-07,ENDEG,G,Central Eólica El Dorado,09:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-08,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-08,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-08,ENDEG,G,Central Eólica El Dorado,01:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-08,ENDEG,G,Central Eólica San Julián,01:00,21:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-08,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-01-08,ENDE DELBENI,D,Área Trinidad,11:00,24:00,Menor demanda a la prevista.
+2026-01-08,ENDEG,G,Central Solar Oruro I y II,13:00,15:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-08,COBEE,G,Sistema Miguillas,14:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-08,COBEE,G,Sistema Zongo,18:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-09,COBEE,G,Sistema Miguillas,01:00,16:00,Menores aportes laterales de agua a lo previsto.
+2026-01-09,SETAR,D,Área Tarija,01:00,17:00,Mayor demanda a la prevista.
+2026-01-09,ENDEG,G,Central solar Oruro I y II,07:00,09:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-09,CRE,D,Área Oriental,09:00,16:00,Menor demanda a la prevista.
+2026-01-09,CESSA,D,Área Sucre,09:00,24:00,Mayor demanda a la prevista.
+2026-01-09,ENDEG,G,Central solar Oruro I y II,11:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-09,COBEE,G,Sistema Miguillas,21:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-10,ENDE CORANI,G,Central Eólica Qollpana,01:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-10,ENDEG,G,Central Eólica El Dorado,06:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-10,ENDEG,G,Central Solar Oruro I y II,07:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-10,DELAPAZ,D,Área Norte,07:00,18:00,Menor demanda a la prevista.
+2026-01-10,CRE,D,Área Oriental,13:00,17:00,Mayor demanda a la prevista.
+2026-01-10,ENDE DELBENI,D,Área Trinidad,13:00,24:00,Mayor demanda a la prevista.
+2026-01-10,COBEE,G,Sistema Zongo,14:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-10,COBEE,G,Sistema Zongo,19:00,21:00,Menores aportes laterales de agua a lo previsto.
+2026-01-11,ENDEG,G,Central Eólica San Julián,01:00,12:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-11,ENDEG,G,Central Eólica Warnes,01:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-11,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-01-11,ELFEC,D,Área Central,07:00,24:00,Menor demanda a la prevista.
+2026-01-11,CRE,D,Área Oriental,08:00,24:00,Menor demanda a la prevista.
+2026-01-11,SEPSA,D,Área Potosí,09:00,24:00,Menor demanda a la prevista.
+2026-01-11,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Menor demanda a la prevista.
+2026-01-11,ENDEG,G,Central solar Oruro I y II,12:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-11,COBEE,G,Sistema Miguillas,14:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-01-11,COBEE,G,Sistema Zongo,20:00,23:00,Menores aportes laterales de agua a lo previsto.
+2026-01-12,CRE,D,Área Oriental,01:00,13:00,Menor demanda a la prevista.
+2026-01-12,ENDE DELBENI,D,Área Trinidad,01:00,15:00,Menor demanda a la prevista.
+2026-01-12,COBEE,G,Sistema Zongo,06:00,19:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-12,ENDEG,G,Central Misicuni,07:40,24:00,"Menor generación, control de nivel de embalse de compensación."
+2026-01-12,EMSC,CNR,Minera San Cristóbal,07:46,09:43,"Reducción de carga, cambio de sentido de giro de molino SAG."
+2026-01-12,ENDE GUARACACHI,G,Central Solar Uyuni,10:00,13:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-12,COBEE,G,Sistema Miguillas,10:00,14:00,Menores aportes laterales de agua a lo previsto.
+2026-01-12,ENDEG,G,Central Solar Oruro I y II,15:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-13,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-13,COBEE,G,Sistema Miguillas,01:00,06:00,Menores aportes laterales de agua a lo previsto.
+2026-01-13,HB,G,Sistema Taquesi,01:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-13,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2026-01-13,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-13,ENDE CORANI,G,Central Corani,04:00,12:31,Mayores aportes laterales de agua en Río Vinto.
+2026-01-13,ENDEG,G,Central Solar Oruro I y II,10:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-14,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-14,COBEE,G,Sistema Miguillas,03:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-14,ENDEG,G,Central Eólica El Dorado,04:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-14,ENDE CORANI,G,Central Corani,04:30,12:00,Mayores aportes laterales de agua en Río Vinto.
+2026-01-14,ENDEG,G,Central Solar Oruro I y II,09:00,12:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-14,CRE,D,Área Oriental,10:00,24:00,Menor demanda a la prevista.
+2026-01-15,HB,G,Sistema Taquesi,00:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-15,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-15,SEPSA,D,Área Potosí,01:00,18:00,Menor demanda a la prevista.
+2026-01-15,CESSA,D,Área Sucre,01:00,24:00,Menor demanda a la prevista.
+2026-01-15,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-01-15,ENDE CORANI,G,Central eólica Qollpana I y II,04:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-15,ENDEG,G,Central solar Oruro I y II,11:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-15,ENDE DELBENI,D,Área Trinidad,13:00,24:00,Menor demanda a la prevista.
+2026-01-15,ENDE CORANI,G,Central Corani,15:00,17:24,"Menor generación, regulación de embalse de compensación."
+2026-01-16,SETAR,D,Área Tarija,01:00,14:00,Mayor demanda a la prevista.
+2026-01-16,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-01-16,ENDEG,G,Central solar Oruro I y II,15:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-17,COBEE,G,Sistema Zongo,00:00,08:00,Mayores aportes laterales a lo previsto.
+2026-01-17,COBEE,G,Sistema Miguilla,00:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-17,CESSA,D,Área Sucre,01:00,24:00,Menor demanda a la prevista.
+2026-01-17,CRE,D,Área Oriental,08:00,24:00,Mayor demanda a la prevista.
+2026-01-17,ENDE GUARACACHI,G,Central solar Uyuni,11:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-17,ELFEC,D,Área Central,13:00,24:00,Menor demanda a la prevista.
+2026-01-17,ENDE ORURO,D,Área Central,13:00,24:00,Menor demanda a la prevista.
+2026-01-17,ENDEG,G,Central eólica Warnes,13:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-17,CESSA,D,Área Trinidad,14:00,24:00,Menor demanda a la prevista.
+2026-01-18,COBEE,G,Sistema Zongo,00:00,18:00,Mayores aportes laterales a lo previsto.
+2026-01-18,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-01-18,ENDEG,G,Central Eólica El Dorado,03:00,13:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-18,COBEE,G,Sistema Miguillas,05:00,06:00,Mayores aportes laterales a lo previsto.
+2026-01-18,ENDEG,G,Central solar Oruro I y II,07:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-18,SEPSA,D,Área Potosí,08:00,24:00,Menor demanda a la prevista.
+2026-01-19,COBEE,G,Sistema Zongo,00:00,06:00,Mayores aportes laterales a lo previsto.
+2026-01-19,COBEE,G,Sistema Miguillas,00:00,06:00,Mayores aportes laterales a lo previsto.
+2026-01-19,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-01-19,SETAR,D,Área Tarija,07:00,24:00,Menor demanda a la prevista.
+2026-01-19,SEPSA,D,Área Potosí,08:00,24:00,Menor demanda a la prevista.
+2026-01-19,ENDEG,G,Central solar Oruro I y II,09:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-19,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Menor demanda a la prevista.
+2026-01-19,CRE,D,Área Oriental,12:00,24:00,Menor demanda a la prevista.
+2026-01-19,COBEE,G,Sistema Zongo,17:00,19:00,Mayores aportes laterales a lo previsto.
+2026-01-20,ENDE DELBENI,D,Área Trinidad,01:00,13:00,Menor demanda a la prevista.
+2026-01-20,ENDEG,G,Central Eólica El Dorado,01:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-20,SEPSA,D,Área Potosí,01:00,18:00,Menor demanda a la prevista.
+2026-01-20,CESSA,D,Área Sucre,01:00,24:00,Menor demanda a la prevista.
+2026-01-20,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-01-20,ENDEG,G,Central solar Oruro I y II,07:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-20,SETAR,D,Área Tarija,09:00,24:00,Menor demanda a la prevista.
+2026-01-20,COBEE,G,Sistema Miguillas,15:00,21:00,Menores aportes laterales de agua a lo previsto.
+2026-01-21,SYNERGIA,G,Central Kanata,00:00,11:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-21,COBEE,G,Sistema Zongo,00:00,14:00,Menores aportes laterales de agua a lo previsto.
+2026-01-21,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-01-21,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-01-21,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-01-21,ENDEG,G,Central Eólica El Dorado,02:00,12:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-21,ENDEG,G,Central solar Oruro I y II,08:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-21,ENDE DELBENI,D,Área Trinidad,08:00,20:00,Menor demanda a la prevista.
+2026-01-21,ENDEG,G,Central Eólica San Julián,08:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-21,SETAR,D,Área Tarija,09:00,24:00,Menor demanda a la prevista.
+2026-01-21,LAS LOMAS,CNR,Las Lomas,09:53,18:00,"Menor demanda a lo programado, debido a falta de materia prima."
+2026-01-21,CRE,D,Área Oriental,15:00,24:00,Mayor demanda a la prevista.
+2026-01-21,COBEE,G,Sistema Miguillas,18:00,19:00,Menores aportes laterales de agua a lo previsto.
+2026-01-22,SEPSA,D,Área Potosí,01:00,17:00,Menor demanda a la prevista.
+2026-01-22,SETAR,D,Área Tarija,07:00,24:00,Menor demanda a la prevista.
+2026-01-22,ENDE CORANI,G,Central Misicuni,08:00,17:00,"Mayor generación, debido a culminación de trabajos de mantenimiento de la línea MIS-COL115 antes de lo previsto, en fecha 21/01/2026."
+2026-01-22,DELAPAZ,D,Área Norte,09:00,18:00,Mayor demanda a la prevista.
+2026-01-22,CESSA,D,Área Sucre,10:00,24:00,Mayor demanda a la prevista.
+2026-01-22,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Mayor demanda a la prevista.
+2026-01-22,LAS LOMAS,CNR,Las Lomas,11:20,18:00,"Menor demanda a lo programado, debido a falta de materia prima."
+2026-01-22,ENDEG,G,Central solar Oruro I y II,16:00,19:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-22,ENDE CORANI,G,Central Misicuni,21:00,24:00,"Menor generación, debido a control de nivel de embalse."
+2026-01-23,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-01-23,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-01-23,ENDE DELBENI,D,Área Trinidad,08:00,24:00,Mayor demanda a la prevista.
+2026-01-23,CRE,D,Área Oriental,09:00,24:00,Mayor demanda a la prevista.
+2026-01-24,COBEE,G,Sistema Zongo,01:00,02:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-24,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2026-01-24,COBEE,G,Sistema Zongo,04:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-24,CESSA,D,Área Sucre,05:00,24:00,Mayor demanda a la prevista.
+2026-01-24,ENDE GUARACACHI,G,Central solar Uyuni,08:00,10:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-24,ENDEG,G,Central solar Oruro I y II,08:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-24,CRE,D,Área Oriental,09:00,24:00,Mayor demanda a la prevista.
+2026-01-24,ENDEG,G,Central solar Oruro I y II,13:00,16:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-24,ENDEG,G,Central eólica El Dorado,13:00,21:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-25,ENDE DELBENI,D,Área Trinidad,01:00,18:00,Mayor demanda a la prevista.
+2026-01-25,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2026-01-25,COBEE,G,Sistema Miguillas,02:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-26,COBEE,G,Sistema Miguillas,00:00,07:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-26,ENDEG,G,Central Eólica El Dorado,01:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-26,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-01-26,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-01-26,COBEE,G,Sistema Zongo,04:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-26,CRE,D,Área Oriental,11:00,24:00,Mayor demanda a la prevista.
+2026-01-26,ENDEG,G,Central solar Oruro I y II,15:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-27,COBEE,G,Sistema Zongo,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-27,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-01-27,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-01-27,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2026-01-27,ENDE DELBENI,D,Área Trinidad,08:00,24:00,Menor demanda a la prevista.
+2026-01-27,ENDEG,G,Central Eólica El Dorado,12:00,23:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-27,ENDE CORANI,G,Central Misicuni,12:00,24:00,"Menor generación, debido a caudal alto del río Chijllawiri."
+2026-01-28,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-28,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-01-28,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-28,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-28,COBEE,G,Sistema Miguillas,07:00,08:00,Menores aportes laterales de agua a lo previsto.
+2026-01-28,CRE,D,Área Oriental,07:00,24:00,Menor demanda a la prevista.
+2026-01-28,COBEE,G,Sistema Miguillas,09:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-28,ENDE GUARACACHI,G,Central Solar Uyuni,11:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-28,ENDEG,G,Central Solar Oruro I y II,12:00,13:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-29,COBEE,G,Sistema Zongo,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-29,COBEE,G,Sistema Miguillas,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-29,ENDEG,G,Central eólica San Julián,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-29,ENDEG,G,Central eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-29,ENDEG,G,Central eólica Warnes,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-29,ENDE GUARACACHI,G,Central solar Uyuni,11:00,13:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-29,ENDE CORANI,G,Central Misicuni,11:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-30,COBEE,G,Sistema Zongo,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-01-30,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-01-30,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-01-30,ENDEG,G,Central solar Oruro I y II,11:00,12:00,"Menor generación, condiciones climáticas desfavorables."
+2026-01-31,CRE,D,Área Oriental,0.416666666,24:00,Mayor demanda a la prevista.
+2026-01-31,ENDEG,G,Central Eólica Warnes,01:00,12:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-31,ENDEG,G,Central Eólica San Julián,01:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-01-31,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-01-31,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-01-31,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-01-31,ENDEG,G,Central solar Oruro I y II,08:00,15:00,"Mayor generación, condiciones climáticas desfavorables."
+2026-01-31,ENDE DELBENI,D,Área Trinidad,09:00,24:00,Mayor demanda a la prevista.
+2026-02-01,CRE,D,Área Oriental,01:00,10:00,Mayor demanda a la prevista.
+2026-02-01,ENDEG,G,Central Eólica El Dorado,01:00,23:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-01,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-02-01,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-01,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-01,COBEE,G,Sistema Miguillas,02:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-01,CESSA,D,Área Sucre,05:00,24:00,Mayor demanda a la prevista.
+2026-02-01,ENDEG,G,Central Solar Oruro I y II,07:00,13:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-01,ENDE CORANI,G,Central Eólica Qollpana,07:00,21:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-01,COBEE,G,Sistema Zongo,10:00,13:00,Menores aportes laterales de agua a lo previsto.
+2026-02-02,ENDEG,G,Central Eólica San Julián,01:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-02,CESSA,D,Área Sucre,01:00,14:00,Mayor demanda a la prevista.
+2026-02-02,SEPSA,D,Área Potosí,01:00,18:00,Menor demanda a la prevista.
+2026-02-02,ENDEG,G,Central Eólica Warnes,01:00,19:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-02,ENDE CORANI,G,Sistema Miguillas,06:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-02,ENDE CORANI,G,Sistema Zongo,06:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-02,ENDE CORANI,G,Central Misicuni,10:00,24:00,"Menor generación, debido a riesgo de rebose."
+2026-02-02,ENDEG,G,Central solar Oruro I y II,13:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-03,SYNERGIA,G,Central Kanata,00:00,10:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-03,COBEE,G,Sistema Miguillas,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-03,CRE,D,Área Oriental,10:00,24:00,Menor demanda a la prevista.
+2026-02-03,COBEE,G,Sistema Zongo,14:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-03,CESSA,D,Área Sucre,14:00,24:00,Mayor demanda a la prevista.
+2026-02-04,ENDEG,G,Central Eólica El Dorado,01:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-04,ENDEG,G,Central Eólica Warnes,01:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-04,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-04,ENDE DELBENI,D,Área Trinidad,08:00,24:00,Menor demanda a la prevista.
+2026-02-04,CRE,D,Área Oriental,09:00,20:00,Menor demanda a la prevista.
+2026-02-05,COBEE,G,Sistema Miguillas,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-05,ENDE DELBENI,D,Área Trinidad,01:00,12:00,Menor demanda a la prevista.
+2026-02-05,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-02-05,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-02-05,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-02-05,ENDEG,G,Central eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-05,ENDEG,G,Central eólica Warnes,06:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-05,ENDEG,G,Central solar Oruro I y II,08:00,13:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-06,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-02-06,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-02-06,ENDEG,G,Central eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-06,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-06,ENDEG,G,Central eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-06,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a los previstos.
+2026-02-06,HB,G,Sistema Taquesi,01:00,24:00,Menores aportes laterales de agua a los previstos.
+2026-02-06,ENDEG,G,Central solar Oruro I y II,08:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-06,CRE,D,Área Oriental,12:00,24:00,Mayor demanda a la prevista.
+2026-02-06,EMSC,CNR,Minera San Cristóbal,12:13,13:08,"Reducción de demanda de 47.9 MW a 31.7 MW, reducción de tonelaje por falta de agua de proceso."
+2026-02-06,ENDE GUARACACHI,G,Central solar Uyuni,14:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-07,COBEE,G,Sistema Miguillas,00:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-07,ENDEG,G,Central Eólica San Julián,01:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-07,CRE,D,Área Oriental,01:00,16:00,Mayor demanda a la prevista.
+2026-02-07,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-02-07,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-02-07,ENDEG,G,Central solar Oruro I y II,12:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-07,DELAPAZ,D,Área Norte,13:00,24:00,Mayor demanda a la prevista.
+2026-02-08,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-08,HB,G,Sistema Taquesi,01:00,12:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-08,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-08,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-02-08,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-02-08,CRE,D,Área Oriental,09:00,24:00,Mayor demanda a la prevista.
+2026-02-08,ENDE DELBENI,D,Área Trinidad,11:00,24:00,Mayor demanda a la prevista.
+2026-02-09,COBEE,G,Sistema Zongo,01:00,05:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-09,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-09,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2026-02-09,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-02-09,HB,G,Sistema Taquesi,18:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-09,COBEE,G,Sistema Miguillas,19:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-02-10,COBEE,G,Sistema Zongo,01:00,05:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-10,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-10,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2026-02-10,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-02-10,ENDE GUARACACHI,G,Central Solar Uyuni,12:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-10,ENDE DELBENI,D,Área Trinidad,13:00,21:00,Mayor demanda a la prevista.
+2026-02-10,COBEE,G,Sistema Miguillas,14:00,23:00,Menores aportes laterales de agua a lo previsto.
+2026-02-11,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-11,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-11,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-02-11,ENDE DELBENI,D,Área Trinidad,09:00,24:00,Menor demanda la prevista.
+2026-02-11,CRE,D,Área Oriental,10:00,24:00,Menor demanda la prevista.
+2026-02-11,ENDEG,G,Central Solar Oruro I y II,11:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-11,COBEE,G,Sistema Miguillas,12:00,18:00,Menores aportes laterales de agua a lo previsto.
+2026-02-11,COBEE,G,Sistema Zongo,15:00,19:00,Menores aportes laterales de agua a lo previsto.
+2026-02-11,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-11,HB,G,Sistema Taquesi,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-12,COBEE,G,Sistema Zongo,00:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-12,COBEE,G,Sistema Miguillas,00:00,11:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-12,HB,G,Sistema Taquesi,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-12,ENDE DELBENI,D,Área Trinidad,01:00,16:00,Mayor demanda a la prevista.
+2026-02-12,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-02-12,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-02-12,ENDEG,G,Central solar Oruro I y II,09:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-12,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-13,COBEE,G,Sistema Zongo,00:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-13,HB,G,Sistema Taquesi,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-13,ENDE DELBENI,D,Área Trinidad,01:00,10:00,Menor demanda a la prevista.
+2026-02-13,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-02-13,COBEE,G,Sistema Miguillas,14:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-13,CESSA,D,Área Sucre,16:00,24:00,Mayor demanda a la prevista.
+2026-02-14,COBEE,G,Sistema Zongo,00:00,19:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-14,CESSA,D,Área Sucre,01:00,24:00,Menor demanda a la prevista.
+2026-02-14,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-02-14,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-02-14,SETAR,D,Área Tarija,01:00,24:00,Menor demanda a la prevista.
+2026-02-14,HB,G,Sistema Taquesi,06:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-14,CRE,D,Área Oriental,07:00,24:00,Menor demanda a la prevista.
+2026-02-14,COBEE,G,Sistema Miguillas,07:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-14,ENDEG,G,Central Eólica El Dorado,11:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-14,ENDEG,G,Central Eólica San Julián,11:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-14,ENDEG,G,Central solar Oruro I y II,12:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-15,EMDEECRUZ,D,Área Oriental,01:00,11:00,Menor demanda a la prevista.
+2026-02-15,ENDEG,G,Central eólica San Julián,01:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-15,ENDEG,G,Central eólica Warnes,01:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-15,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-02-15,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-02-15,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-02-15,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-02-15,ENDEG,G,Central eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-15,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-15,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-15,HB,G,Sistema Taquesi,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-16,COBEE,G,Sistema Zongo,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-16,EMDEECRUZ,D,Área Oriental,01:00,11:00,Menor demanda a la prevista.
+2026-02-16,ENDEG,G,Central eólica El Dorado,01:00,20:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-16,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-02-16,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-02-16,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-02-16,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-16,ENDE CORANI,G,Central eólica Qollpana I y II,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-16,HB,G,Sistema Taquesi,06:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-16,ENDE GUARACACHI,G,Central solar Uyuni,10:00,11:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-16,ENDEG,G,Central solar Oruro I y II,12:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-16,ENDE GUARACACHI,G,Central solar Uyuni,16:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-17,EMDEECRUZ,D,Área Oriental,00:00,11:00,Menor demanda a la prevista.
+2026-02-17,COBEE,G,Sistema Zongo,00:00,20:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-17,COBEE,G,Sistema Miguillas,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-17,HB,G,Sistema Taquesi,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-17,DELAPAZ,D,Área Norte,01:00,18:00,Mayor demanda a la prevista.
+2026-02-17,CRE,D,Área Oriental,01:00,18:00,Menor demanda a la prevista.
+2026-02-17,ENDEG,G,Central solar Oruro I y II,07:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-17,ENDEG,G,Central Eólica El Dorado,07:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-17,SETAR,D,Área Tarija,10:00,24:00,Mayor demanda a la prevista.
+2026-02-18,HB,G,Sistema Taquesi,00:00,12:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-18,COBEE,G,Sistema Zongo,00:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-18,EMDEECRUZ,D,EMDEECRUZ,00:00,17:00,"Menor demanda, falta de materia prima."
+2026-02-18,LAS LOMAS,CNR,LAS LOMAS,00:00,19:00,"Menor demanda, mantenimiento correctivo área de acería."
+2026-02-18,COBEE,G,Sistema Miguillas,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-18,CESSA,D,Área Sucre,01:00,14:00,Menor demanda a la prevista.
+2026-02-18,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-02-18,ENDE CORANI,G,Misicuni,10:00,18:00,Mayor generación a la prevista a solicitud de SEMAPA.
+2026-02-18,ENDEG,G,Central Eólica San Julián,10:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-18,ENDEG,G,Central solar Oruro I y II,12:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-18,ENDE CORANI,G,Misicuni,21:00,24:00,Mayor generación a la prevista a solicitud de SEMAPA.
+2026-02-19,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-02-19,ENDEG,G,Central Eólica Warnes,04:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-19,COBEE,G,Sistema Zongo,06:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-19,COBEE,G,Sistema Miguillas,06:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-19,ENDEG,G,Central Eólica San Julián,06:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-19,ELFEC,D,Área Central,08:00,24:00,Mayor demanda a la prevista.
+2026-02-19,LAS LOMAS,CNR,Las Lomas,13:00,18:00,Menor demanda a la prevista.
+2026-02-19,ENDEG,G,Central solar Oruro I y II,14:00,18:00,"Mayor generación, condiciones climáticas desfavorables."
+2026-02-20,COBEE,G,Sistema Zongo,00:00,07:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-20,COBEE,G,Sistema Miguillas,00:00,19:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-20,CESSA,D,Área Sucre,01:00,18:00,Menor demanda a la prevista.
+2026-02-20,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-02-20,ENDEG,G,Central eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-20,ENDE DELBENI,D,Área Trinidad,12:00,24:00,Menor demanda a la prevista.
+2026-02-20,COBEE,G,Sistema Miguillas,23:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-21,COBEE,G,Sistema Miguillas,00:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-21,COBEE,G,Sistema Zongo,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-21,CESSA,D,Área Sucre,01:00,11:00,Menor demanda a la prevista.
+2026-02-21,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-21,ENDEG,G,Central Eólica San Julián,02:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-21,COBEE,G,Sistema Miguillas,06:00,14:00,"Menor generación, debido a indisponibilidad de unidades generadoras."
+2026-02-21,SEPSA,D,Área Potosí,07:00,18:00,Menor demanda a la prevista.
+2026-02-21,ENDEG,G,Central Eólica El Dorado,08:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-21,COBEE,G,Sistema Zongo,17:00,19:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-22,ENDEG,G,Central Eólica Warnes,01:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-22,ENDEG,G,Central Eólica El Dorado,01:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-22,COBEE,G,Sistema Miguillas,01:00,20:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-22,CRE,D,Área Oriental,01:00,22:00,Mayor demanda a la prevista.
+2026-02-22,COBEE,G,Sistema Zongo,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-22,ENDEG,G,Central Eólica San Julián,03:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-22,ENDEG,G,Central Solar Oruro I y II,07:00,10:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-22,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Mayor demanda a la prevista.
+2026-02-23,COBEE,G,Sistema Miguillas,01:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-23,COBEE,G,Sistema Zongo,01:00,10:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-23,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-23,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-23,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-23,ENDEG,G,Central Solar Oruro I y II,07:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-23,CRE,D,Área Oriental,10:00,24:00,Menor demanda a la prevista.
+2026-02-23,ENDE CORANI,G,Central Misicuni,11:00,18:00,"Mayor generación, cambio de suministro en hidrante 7 e hidrante 8."
+2026-02-23,COBEE,G,Sistema Miguillas,20:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-24,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-24,COBEE,G,Sistema Miguillas,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-24,CRE,D,Área Oriental,09:00,24:00,Menor demanda a la prevista.
+2026-02-24,ENDE DELBENI,D,Área Trinidad,09:00,24:00,Menor demanda a la prevista.
+2026-02-24,ENDEG,G,Central Solar Oruro I y II,10:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-02-24,COBEE,G,Sistema Zongo,16:00,19:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-25,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-25,COBEE,G,Sistema Miguillas,01:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-25,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-02-25,CRE,D,Área Oriental,07:00,16:00,Menor demanda a la prevista.
+2026-02-25,SETAR,D,Área Tarija,08:00,24:00,Menor demanda a la prevista.
+2026-02-26,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-26,COBEE,G,Sistema Miguillas,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-26,ENDEG,G,Central Solar Oruro I y II,07:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-26,COBEE,G,Sistema Zongo,17:00,19:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-26,CRE,D,Área Oriental,19:00,24:00,Mayor demanda a la prevista.
+2026-02-27,COBEE,G,Sistema Miguillas,00:00,11:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-27,ENDEG,G,Central eólica San Julián,01:00,07:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-27,CRE,D,Área Oriental,06:00,24:00,Mayor demanda a la prevista.
+2026-02-27,SETAR,D,Área Tarija,09:00,24:00,Menor demanda a la prevista.
+2026-02-27,HB,G,Sistema Taquesi,12:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-27,ENDE DELBENI,D,Área Trinidad,12:00,24:00,Mayor demanda a la prevista.
+2026-02-27,COBEE,G,Sistema Miguillas,20:00,24:00,Menores aportes laterales de agua a lo previsto e indisponibilidad de la unidad CRB.
+2026-02-28,COBEE,G,Sistema Zongo,00:00,05:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-28,COBEE,G,Sistema Miguillas,00:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-02-28,HB,G,Sistema Taquesi,00:00,08:00,Menores aportes laterales de agua a lo previsto.
+2026-02-28,SEPSA,D,Área Potosí,01:00,18:00,Menor demanda a la prevista.
+2026-02-28,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-02-28,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2026-02-28,ENDE CORANI,G,Central eólica Qollpana I y II,10:00,19:00,"Mayor generación, condiciones climáticas favorables."
+2026-02-28,CRE,D,Área Oriental,12:00,24:00,Menor demanda a la prevista.
+2026-02-28,COBEE,G,Sistema Miguillas,14:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-01,HB,G,Sistema Taquesi,01:00,06:00,Menores aportes laterales de agua a lo previsto.
+2026-03-01,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2026-03-01,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-01,CRE,D,Área Oriental,08:00,24:00,Mayor demanda a la prevista.
+2026-03-02,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-02,HB,G,Sistema Taquesi,01:00,12:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-02,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-02,ENDEG,G,Central Solar Oruro I y II,07:00,16:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-02,ENDEG,G,Central Eólica El Dorado,10:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-02,CRE,D,Área Oriental,12:00,24:00,Mayor demanda a la prevista.
+2026-03-02,ENDE DELBENI,D,Área Trinidad,12:00,24:00,Mayor demanda a la prevista.
+2026-03-02,ENDE CORANI,G,Central Eólica Qollpana,12:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-02,COBEE,G,Sistema Zongo,15:00,16:00,Menores aportes laterales de agua a lo previsto.
+2026-03-02,COBEE,G,Sistema Zongo,20:00,21:00,Menores aportes laterales de agua a lo previsto.
+2026-03-03,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-03,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-03,ENDEG,G,Central Eólica Warnes,01:00,13:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-03,ENDE CORANI,G,Central Eólica Qollpana,02:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-03,CRE,D,Área Oriental,11:00,24:00,Mayor demanda a la prevista.
+2026-03-03,ENDEG,G,Central Solar Oruro I y II,12:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-03,ENDEG,G,Central Eólica El Dorado,13:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-04,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-04,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-03-04,COBEE,G,Sistema Miguillas,20:00,21:00,Menores aportes laterales de agua a lo previsto.
+2026-03-05,HB,G,Sistema Taquesi,00:15,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-05,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-05,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-05,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-03-05,ENDEG,G,Central Solar Oruro I y II,12:00,14:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-05,HB,G,Sistema Taquesi,12:15,15:00,Menores aportes laterales de agua a lo previsto.
+2026-03-05,COBEE,G,Sistema Miguillas,14:00,19:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-06,COBEE,G,Sistema Zongo,01:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-06,DELAPAZ,D,Área Norte,01:00,21:00,Mayor demanda a la prevista.
+2026-03-06,SETAR,D,Área Tarija,01:00,24:00,Menor demanda a la prevista.
+2026-03-06,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-03-06,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-06,HB,G,Sistema Taquesi,02:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-06,CRE,D,Área Oriental,10:00,24:00,Mayor demanda a la prevista.
+2026-03-07,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-03-07,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-03-07,ENDE DELBENI,D,Área Trinidad,04:00,16:00,Menor demanda a la prevista.
+2026-03-07,SETAR,D,Área Tarija,09:00,24:00,Menor demanda a la prevista.
+2026-03-07,ENDEG,G,Central solar Oruro I y II,15:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-08,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-08,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-08,ENDE DELBENI,D,Área Trinidad,08:00,24:00,Mayor demanda a la prevista.
+2026-03-08,COBEE,G,Sistema Miguillas,15:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-09,COBEE,G,Sistema Miguillas,01:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-09,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-03-09,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-09,SETAR,D,Área Tarija,09:00,24:00,Menor demanda a la prevista.
+2026-03-09,CRE,D,Área Oriental,11:00,24:00,Menor demanda a la prevista.
+2026-03-09,ENDEG,G,Central solar Oruro I y II,13:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-10,ENDEG,G,Central Eólica El Dorado,01:00,06:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-10,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-10,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-10,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-03-10,CRE,D,Área Oriental,10:00,24:00,Menor demanda a la prevista.
+2026-03-10,ENDEG,G,Central Solar Oruro I y II,11:00,13:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-10,COBEE,G,Sistema Miguillas,14:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-11,HB,G,Sistema Taquesi,00:15,07:00,Menores aportes laterales de agua a lo previsto.
+2026-03-11,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales agua a lo previsto.
+2026-03-11,COBEE,G,Sistema Miguillas,01:00,08:00,Mayores aportes laterales agua a lo previsto.
+2026-03-11,ENDE DELBENI,D,Área Trinidad,01:00,10:00,Menor demanda a la prevista.
+2026-03-11,LAS LOMAS,CNR,LAS LOMAS,03:07,04:31,Reducción de carga por fuga de aceite hidráulico de procero de acería.
+2026-03-11,DELAPAZ,D,Área Norte,07:00,21:00,Mayor demanda a la prevista.
+2026-03-11,ENDEG,G,Central Solar Oruro I y II,14:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-12,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-12,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-12,DELAPAZ,D,Área Norte,01:00,21:00,Mayor demanda a la prevista.
+2026-03-12,ENDE DELBENI,D,Área Trinidad,05:00,24:00,Menor demanda a la prevista.
+2026-03-12,CRE,D,Área Oriental,09:00,24:00,Menor demanda a la prevista.
+2026-03-12,SETAR,D,Área Tarija,10:00,24:00,Menor demanda a la prevista.
+2026-03-12,ENDEG,G,Central Misicuni,10:31,24:00,Menor generación por trabajos de ABC.
+2026-03-12,ENDEG,G,Central Solar Oruro I y II,12:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-13,COBEE,G,Sistema Zongo,01:00,05:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-13,SETAR,D,Área Tarija,01:00,17:00,Menor demanda a la prevista.
+2026-03-13,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-03-13,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-03-13,ENDE DELBENI,D,Área Trinidad,09:00,24:00,Menor demanda a la prevista.
+2026-03-13,COBEE,G,Sistema Zongo,09:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-03-13,LAS LOMAS,CNR,LAS LOMAS,10:00,15:00,"Menor demanda, problemas mecánicos en el área de acería."
+2026-03-13,ENDEG,G,Central solar Oruro I y II,11:00,16:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-14,ENDEG,G,Central Eólica Warnes,01:00,09:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-14,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-03-14,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-03-14,ENDEG,G,Central eólica Qollpana I y II,06:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-14,COBEE,G,Sistema Zongo,06:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-14,COBEE,G,Sistema Miguillas,06:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-15,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-15,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-15,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-15,ENDEG,G,Central Solar Oruro I y II,08:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-15,ENDE DELBENI,D,Área Trinidad,18:00,24:00,Mayor demanda a la prevista.
+2026-03-16,COBEE,G,Sistema Zongo,01:00,10:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-16,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-16,ENDEG,G,Central Eólica El Dorado,01:00,21:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-16,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-16,ENDE DELBENI,D,Área Trinidad,03:00,15:00,Menor demanda a la prevista.
+2026-03-16,ENDE CORANI,G,Central Misicuni,10:14,24:00,"Menor generación, trabajos de la ABC."
+2026-03-16,EMSC,CNR,Minera San Cristóbal,17:42,17:52,"Reducción de carga de 45.6 MW a 36.6 MW, debido a falla de alarma de rotura de correa 220-CV-010."
+2026-03-17,HB,G,Sistema Taquesi,01:00,07:00,Menores aportes laterales de agua a lo previsto.
+2026-03-17,ENDEG,G,Central Eólica El Dorado,01:00,19:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-17,LAS LOMAS,CNR,Planta Las Lomas,10:00,17:00,"Reducción de demanda, debido a mantenimiento correctivo en la Planta."
+2026-03-17,CRE,D,Área Oriental,12:00,16:00,Menor demanda a la prevista.
+2026-03-18,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-18,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-03-18,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-03-18,ENDE CORANI,G,Central Santa Isabel,07:21,12:07,Mayores aportes laterales de agua en río Vinto.
+2026-03-18,COBEE,G,Sistema Zongo,08:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-03-18,CRE,D,Área Oriental,10:00,24:00,Menor demanda a la prevista.
+2026-03-19,HB,G,Sistema Taquesi,00:00,07:00,Menores aportes laterales de agua a lo previsto.
+2026-03-19,CESSA,D,ÁreaSucre,01:00,24:00,Mayor demanda a la prevista.
+2026-03-19,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-03-19,COBEE,G,Sistema Miguillas,09:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-03-19,CRE,D,Área Oriental,14:00,17:00,Menor demanda a la prevista.
+2026-03-19,COBEE,G,Sistema Zongo,14:00,17:00,Menores aportes laterales de agua a lo previsto.
+2026-03-20,HB,G,Sistema Taquesi,00:00,07:00,Menores aportes laterales de agua a lo previsto.
+2026-03-20,ENDEG,G,Central eólica El Dorado,01:00,11:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-20,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-03-20,ENDEG,G,Central eólica Warnes,06:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-20,ENDEG,G,Central eólica San Julián,07:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-20,COBEE,G,Sistema Miguillas,08:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-03-20,COBEE,G,Sistema Zongo,09:00,17:00,Menores aportes laterales de agua a lo previsto.
+2026-03-20,ENDE CORANI,G,Central eólica Qollpana I y II,10:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-20,SETAR,D,Área Tarija,10:00,24:00,Mayor demanda a la prevista.
+2026-03-20,ENDEG,G,Central solar Oruro I y II,15:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-21,COBEE,G,Sistema Zongo,01:00,03:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-21,ENDE CORANI,G,Central eólica Qollpana I y II,01:00,06:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-21,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-03-21,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-03-21,HB,G,Sistema Taquesi,05:30,14:00,Menores aportes laterales de agua a lo previsto.
+2026-03-21,ENDEG,G,Central solar Oruro I y II,08:00,12:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-21,CRE,D,Área Oriental,08:00,24:00,Menor demanda a la prevista.
+2026-03-21,COBEE,G,Sistema Zongo,14:00,18:00,Menores aportes laterales de agua a lo previsto.
+2026-03-21,COBEE,G,Sistema Miguillas,19:00,21:00,Menores aportes laterales de agua a lo previsto.
+2026-03-22,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-22,ENDEG,G,Central Eólica El Dorado,01:00,13:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-22,ENDEG,G,Central Eólica San Julián,01:00,20:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-22,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-03-22,COBEE,G,Sistema Zongo,03:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-22,ELFEC,D,Área Central,04:00,22:00,Menor demanda a la prevista.
+2026-03-22,DELAPAZ,D,Área Norte,07:00,18:00,Menor demanda a la prevista.
+2026-03-22,HB,G,Sistema Taquesi,08:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-03-22,ENDE DELBENI,D,Área Trinidad,09:00,18:00,Menor demanda a la prevista.
+2026-03-22,COBEE,G,Sistema Zongo,14:00,17:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-22,COBEE,G,Sistema Miguillas,15:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-23,HB,G,Sistema Taquesi,00:15,12:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-23,COBEE,G,Sistema Zongo,01:00,05:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-23,SYNERGIA,G,Central Kanata,01:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-23,ENDE CORANI,G,Central Eólica Qollpana,01:00,19:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-23,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-03-23,ENDE CORANI,G,Central Misicuni,05:00,18:00,"Mayor generación, suspensión de trabajos programados de la ABC."
+2026-03-23,ENDEG,G,Central Solar Oruro I y II,14:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-24,COBEE,G,Sistema Zongo,01:00,10:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-24,ENDEG,G,Central Eólica Warnes,01:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-24,COBEE,G,Sistema Miguillas,02:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-24,ENDE GUARACACHI,G,Central Solar Uyuni,07:00,16:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-24,ENDE CORANI,G,Sistema Corani,07:07,08:13,"Mayor generación, mayores aportes laterales de agua al río Vinto del orden de 23 MW."
+2026-03-24,ENDEG,G,Central Solar Oruro I y II,08:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-24,ENDE CORANI,G,Sistema Corani,08:13,11:09,"Mayor generación, mayores aportes laterales de agua al río Vinto del orden de 30 MW."
+2026-03-24,CRE,D,Área Oriental,09:00,16:00,Menor demanda a la prevista.
+2026-03-24,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Menor demanda a la prevista.
+2026-03-25,HB,G,Sistema Taquesi,01:00,12:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-25,ENDE DELBENI,D,Área Trinidad,01:00,14:00,Menor demanda a la prevista.
+2026-03-25,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-25,COBEE,G,Sistema Miguillas,01:00,15:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-25,EMSC,CNR,Minera San Cristóbal,08:00,11:50,"Menor demanda, debido a parada de Molino SAG, Molino Bolas N° 1 y 2."
+2026-03-25,ENDEG,G,Central Solar Oruro I y II,09:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-25,DELAPAZ,D,Área Norte,19:00,21:00,Mayor demanda a la prevista.
+2026-03-25,CRE,D,Área Oriental,19:00,22:00,Mayor demanda a la prevista.
+2026-03-26,HB,G,Sistema Taquesi,00:15,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-26,ENDEG,G,Central Eólica Warnes,01:00,13:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-26,COBEE,G,Sistema Zongo,07:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-26,COBEE,G,Sistema Miguillas,08:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-26,CRE,D,Área Oriental,11:00,17:00,Menor demanda a la prevista.
+2026-03-26,ENDE GUARACACHI,G,Central Solar Uyuni,11:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-26,ENDEG,G,Central Solar Oruro I y II,13:00,16:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-26,ENDE CORANI,G,Central Misicuni,19:00,20:00,"Mayor generación, embalses Escalerani y Huara Huara se encuentran llenos."
+2026-03-27,HB,G,Sistema Taquesi,00:00,12:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-27,COBEE,G,Sistema Zongo,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-27,COBEE,G,Sistema Miguillas,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-27,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-03-27,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-03-27,ENDEG,G,Central solar Oruro I y II,14:00,16:00,"Menor generación, condiciones climáticas desfavorables."
+2026-03-28,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-03-28,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2026-03-28,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-28,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-28,HB,G,Sistema Taquesi,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-28,ENDEG,G,Central solar Oruro I y II,08:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-29,HB,G,Sistema Taquesi,00:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-29,COBEE,G,Sistema Zongo,01:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-29,COBEE,G,Sistema Miguillas,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-29,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-03-29,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-03-29,SETAR,D,Área Tarija,09:00,24:00,Mayor demanda a la prevista.
+2026-03-30,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-30,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-30,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-03-30,HB,G,Sistema Taquesi,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-30,ENDEG,G,Central solar Oruro I y II,08:00,10:00,"Mayor generación, condiciones climáticas favorables."
+2026-03-30,CRE,D,Área Oriental,13:00,24:00,Mayor demanda a la prevista.
+2026-03-30,COBEE,G,Sistema Zongo,14:00,20:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-30,COBEE,G,Sistema Miguillas,15:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-31,COBEE,G,Sistema Zongo,07:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-31,COBEE,G,Sistema Miguillas,07:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-31,COBEE,G,Sistema Miguillas,21:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-03-31,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-01,COBEE,G,Sistema Zongo,00:00,08:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-01,COBEE,G,Sistema Miguillas,00:00,08:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-01,LAS LOMAS,CNR,Las Lomas,01:00,17:00,"Menor demanda a la prevista, falta de materia prima."
+2026-04-01,ENDEG,G,Central eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-01,ENDEG,G,Central solar Oruro I y II,10:00,14:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-01,CRE,D,Área Oriental,10:00,17:00,Mayor demanda a la prevista.
+2026-04-01,ENDEG,G,Central eólica El Dorado,10:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-01,ENDE GUARACACHI,G,Central solar Uyuni,13:00,16:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-01,ENDE CORANI,G,Central Misicuni,20:00,20:00,Regulación de embalse de compensación.
+2026-04-02,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-02,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-02,ENDEG,G,Central Eólica San Julián,01:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-02,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-04-02,ENDEG,G,Central solar Oruro I y II,12:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-02,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-03,COBEE,G,Sistema Miguillas,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-03,COBEE,G,Sistema Zongo,00:00,17:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-03,ENDEG,G,Central Eólica Warnes,01:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-03,ENDEG,G,Central Eólica San Julián,01:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-03,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-04-03,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-04-03,SEPSA,D,Área Potosí,01:00,24:00,Mayor demanda a la prevista.
+2026-04-03,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2026-04-03,CRE,D,Área Oriental,10:00,24:00,Mayor demanda a la prevista.
+2026-04-03,COBEE,G,Sistema Miguillas,19:00,21:00,"Menor generación, optimización de recurso hídrico."
+2026-04-04,ENDE CORANI,G,Central Corani,01:00,07:00,Menores aportes laterales de agua en el lago Corani.
+2026-04-04,COBEE,G,Sistema Zongo,01:00,15:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-04,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2026-04-04,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-04,ELFEC,D,Área Central,06:00,18:00,Mayor demanda a la prevista.
+2026-04-04,ENDE ORURO,D,Área Central,06:00,18:00,Mayor demanda a la prevista.
+2026-04-04,CESSA,D,Área Sucre,06:00,24:00,Mayor demanda a la prevista.
+2026-04-04,CRE,D,Área Oriental,09:00,24:00,Mayor demanda a la prevista.
+2026-04-04,ENDEG,G,Central solar Oruro I y II,12:00,18:00,"Menor generación, condiciones climáticas adversas."
+2026-04-05,CRE,D,Área Oriental,01:00,12:00,Mayor demanda a la prevista
+2026-04-05,COBEE,G,Central Corani,01:00,17:24,Menores aportes laterales de agua en el Lago Corani.
+2026-04-05,COBEE,G,Sistema Zongo,01:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-05,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista
+2026-04-05,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista
+2026-04-05,ELFEC,D,Área Central,01:00,24:00,Mayor demanda a la prevista
+2026-04-05,ENDE ORURO,D,Área Central,01:00,24:00,Mayor demanda a la prevista
+2026-04-05,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-05,ENDEG,G,Central solar Oruro I y II,08:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-05,ENDE GUARACACHI,G,Central solar Uyuni,08:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-05,CRE,D,Área Oriental,14:00,24:00,Menor demanda la prevista.
+2026-04-05,ENDE CORANI,G,Central eólica Qollpana I y II,15:00,19:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-06,COBEE,G,Sistema Zongo,01:00,06:00,Aportes laterales mayores a lo previsto.
+2026-04-06,COBEE,G,Sistema Miguillas,01:00,06:00,Aportes laterales mayores a lo previsto.
+2026-04-06,ENDEG,G,Central Eólica El Dorado,01:00,08:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-06,ENDE CORANI,G,Central Corani,01:00,18:29,Menores aportes en el Lago Corani.
+2026-04-06,CESSA,D,Área Sucre,01:00,22:00,Mayor demanda a la prevista.
+2026-04-06,SETAR,D,Área Tarija,01:00,24:00,Menor demanda a la prevista.
+2026-04-06,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-04-06,ENDE CORANI,G,Central eólica Qollpana I y II,02:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-06,ENDEG,G,Central Eólica San Julián,07:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-06,DELAPAZ,D,Área Norte,08:00,20:00,Mayor demanda a la prevista.
+2026-04-06,COBEE,G,Sistema Miguillas,11:00,17:00,Aportes laterales mayores a lo previsto.
+2026-04-07,CESSA,D,Área Sucre,01:00,21:00,Mayor demanda a la prevista.
+2026-04-07,ENDE CORANI,G,Central eólica Qollpana I y II,01:00,21:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-07,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-07,COBEE,G,Sistema Miguillas,06:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-07,COBEE,G,Sistema Zongo,06:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-07,ENDEG,G,Central Eólica El Dorado,08:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-07,SETAR,D,Área Tarija,09:00,24:00,Menor demanda a la prevista.
+2026-04-07,CRE,D,Área Oriental,10:00,24:00,Menor demanda a la prevista.
+2026-04-07,ENDEG,G,Central Eólica Warnes,12:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-07,COBEE,G,Sistema Miguillas,19:00,21:00,"Menor generación, optimización de recurso hídrico."
+2026-04-08,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-08,ENDE CORANI,G,Central eólica Qollpana I y II,01:00,07:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-08,COBEE,G,Sistema Miguillas,01:00,16:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-08,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-04-08,SETAR,D,Área Tarija,01:00,24:00,Menor demanda a la prevista.
+2026-04-08,ENDE DELBENI,D,Área Trinidad,03:00,24:00,Menor demanda a la prevista.
+2026-04-08,ENDEG,G,Central Eólica El Dorado,04:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-08,ENDE CORANI,G,Misicuni,11:00,24:00,Regulación de embalse de compensación.
+2026-04-09,ENDE CORANI,G,Central eólica Qollpana I y II,00:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-09,ENDEG,G,Central Eólica San Julián,01:00,13:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-09,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-09,SEPSA,D,Área Potosí,01:00,19:00,Menor demanda a la prevista.
+2026-04-09,COBEE,G,Sistema Miguilla,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-09,SETAR,D,Área Tarija,01:00,24:00,Menor demanda a la prevista.
+2026-04-09,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-04-09,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-09,CRE,D,Área Oriental,10:00,24:00,Menor demanda a la prevista.
+2026-04-09,ENDE CORANI,G,Sistema Corani,13:30,15:33,Mayores aportes laterales al rio vinto equivalente a 25 MW.
+2026-04-09,ENDEG,G,Central solar Oruro I y II,15:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-09,COBEE,G,Sistema Zongo,18:00,20:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-10,ENDEG,G,Central eólica El Dorado,01:00,13:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-10,SETAR,D,Área Tarija,01:00,24:00,Menor demanda a la prevista.
+2026-04-10,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-04-10,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-10,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-10,ENDE CORANI,G,Central eólica Qollpana I y II,02:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-10,ENDEG,G,Central solar Oruro I y II,07:00,12:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-10,CRE,D,Área Oriental,09:00,24:00,Menor demanda a la prevista.
+2026-04-11,COBEE,G,Sistema Zongo,01:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-11,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-11,ENDE CORANI,G,Central Eólica Qollpana,01:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-11,ENDE GUARACACHI,G,Central Solar Uyuni,08:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-11,ENDEG,G,Central Eólica El Dorado,09:00,21:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-11,DELAPAZ,D,Área Norte,10:00,21:00,Mayor demanda a la prevista.
+2026-04-11,COBEE,G,Sistema Zongo,12:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-11,COBEE,G,Sistema Miguillas,15:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-11,CRE,D,Área Oriental,19:00,21:00,Mayor demanda a la prevista.
+2026-04-11,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-11,COBEE,G,Sistema Miguillas,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-12,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-12,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-12,ENDEG,G,Central Eólica El Dorado,01:00,22:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-12,ENDEG,G,Central Eólica San Julián,04:00,21:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-12,ENDE CORANI,G,Central Eólica Qollpana,06:00,20:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-12,ENDE DELBENI,D,Área Trinidad,09:00,24:00,Mayor demanda a la prevista.
+2026-04-12,CRE,D,Área Oriental,12:00,24:00,Mayor demanda a la prevista.
+2026-04-13,COBEE,G,Sistema Zongo,01:00,04:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-13,HB,G,Sistema Taquesi,01:00,06:00,Menores aportes laterales de agua a lo previsto.
+2026-04-13,COBEE,G,Sistema Miguillas,01:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-13,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2026-04-13,ENDEG,G,Central Eólica Warnes,05:00,19:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-13,ENDE CORANI,G,Central Eólica Qollpana,08:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-13,ENDE CORANI,G,Central Santa Isabel,10:00,14:15,Mayor generación por mayores aportes laterales de agua en río Vinto.
+2026-04-13,ENDEG,G,Central Eólica El Dorado,16:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-13,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-14,COBEE,G,Sistema Miguillas,01:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-14,COBEE,G,Sistema Zongo,01:00,10:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-14,ENDE CORANI,G,Central Eólica Qollpana,01:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-14,ENDEG,G,Central Eólica El Dorado,04:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-14,ENDEG,G,Central Eólica San Julián,06:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-14,CRE,D,Área Oriental,08:00,17:00,Menor demanda a la prevista.
+2026-04-14,LAS LOMAS,CNR,Las Lomas,11:09,17:00,"Menor demanda, fuga de agua en área de horno eléctrico."
+2026-04-14,COBEE,G,Sistema Zongo,12:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-14,COBEE,G,Sistema Miguillas,18:00,20:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-14,ENDE CORANI,G,Central Misicuni,19:00,20:00,"Menor generación, riesgo de rebose en embalse de compensación."
+2026-04-15,COBEE,G,Sistema Miguillas,01:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-15,COBEE,G,Sistema Zongo,01:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-15,HB,G,Sistema Taquesi,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-15,DELAPAZ,D,Área Norte,01:00,22:00,Mayor demanda a la prevista.
+2026-04-15,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Mayor demanda a la prevista.
+2026-04-15,CRE,D,Área Oriental,12:00,17:00,Menor demanda a la prevista.
+2026-04-15,COBEE,G,Sistema Miguillas,15:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-04-15,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-16,ENDEG,G,Central Eólica San Julián,01:00,07:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-16,COBEE,G,Sistema Miguillas,01:00,08:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-16,ENDEG,G,Central Eólica Warnes,01:00,12:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-16,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-16,CRE,D,Área Oriental,08:00,17:00,Menor demanda a la prevista.
+2026-04-16,ENDEG,G,Central Solar Oruro I y II,10:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-16,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Menor demanda a la prevista.
+2026-04-16,COBEE,G,Sistema Miguillas,16:00,17:00,Menores aportes laterales de agua a lo previsto.
+2026-04-16,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-17,COBEE,G,Sistema Zongo,00:00,23:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-17,ENDEG,G,Central eólicas Warnes,00:00,24:00,"Menor generación, condiciones climáticas adversas."
+2026-04-17,COBEE,G,Sistema Miguillas,00:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-04-17,ENDE DELBENI,D,Área Trinidad,01:00,14:00,Menor demanda a la prevista.
+2026-04-17,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-04-17,CRE,D,Área Oriental,10:00,16:00,Mayor demanda a la prevista.
+2026-04-18,COBEE,G,Sistema Miguillas,01:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-18,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-04-18,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-04-18,COBEE,G,Sistema Zongo,06:00,10:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-18,SETAR,D,Área Tarija,08:00,24:00,Mayor demanda a la prevista.
+2026-04-18,ENDEG,G,Central Eólica El Dorado,10:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-18,COBEE,G,Sistema Miguillas,10:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-04-18,HB,G,Sistema Taquesi,15:00,17:00,Optimización de recursos hídricos.
+2026-04-19,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-19,COBEE,G,Sistema Miguillas,01:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-19,CRE,D,Área Oriental,01:00,17:00,Menor demanda a la prevista.
+2026-04-19,DELAPAZ,D,Área Norte,01:00,21:00,Mayor demanda a la prevista.
+2026-04-19,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-19,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-19,ENDEG,G,Central Eólica Warnes,03:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-19,ENDEG,G,Central Solar Oruro I y II,07:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-19,COBEE,G,Sistema Miguillas,14:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-19,COBEE,G,Sistema Zongo,14:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-19,HB,G,Sistema Taquesi,14:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-19,COBEE,G,Sistema Miguillas,20:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-20,ENDEG,G,Central Eólica San Julián,01:00,09:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-20,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-20,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-04-20,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-20,HB,G,Sistema Taquesi,03:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-20,ENDEG,G,Central solar Oruro I y II,09:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-20,CRE,D,Área Oriental,11:00,24:00,Menor demanda a la prevista.
+2026-04-20,ENDE DELBENI,D,Área Trinidad,11:00,24:00,Menor demanda a la prevista.
+2026-04-20,HB,G,Sistema Taquesi,14:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-20,COBEE,G,Sistema Zongo,15:00,21:00,Menores aportes laterales de agua a lo previsto.
+2026-04-20,CESSA,D,Área Sucre,18:00,24:00,Mayor demanda a la prevista.
+2026-04-21,ENDE DELBENI,D,Área Trinidad,00:00,16:00,Menor demanda a la prevista.
+2026-04-21,CESSA,D,Área Sucre,00:00,24:00,Mayor demanda a la prevista.
+2026-04-21,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-21,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-21,DELAPAZ,D,Área Norte,07:00,21:00,Mayor demanda a la prevista.
+2026-04-21,CRE,D,Área Oriental,11:00,21:00,Mayor demanda a la prevista.
+2026-04-21,COBEE,G,Sistema Miguillas,14:00,19:00,Menores aportes laterales de agua a lo previsto.
+2026-04-21,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-21,COBEE,G,Sistema Miguillas,23:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-04-22,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-22,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-22,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-04-22,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-04-22,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-22,ENDE CORANI,G,Sistema Corani,05:05,07:40,Mayores aportes laterales al rio vinto equivalente a 18 MW.
+2026-04-22,ENDE DELBENI,D,Área Trinidad,07:00,24:00,Menor demanda a la prevista.
+2026-04-22,CRE,D,Área Oriental,08:00,24:00,Menor demanda a la prevista.
+2026-04-22,EMSC,CNR,Minera San Cristóbal,09:01,10:25,"Reducción de demanda de 45.0 MW a 20.1 MW, inspección de bobina del rotor del Molino SAG."
+2026-04-22,ENDEG,G,Central solar Oruro I y II,11:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-22,ENDEG,G,Central Eólica San Julián,11:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-22,COBEE,G,Sistema Miguillas,13:00,16:00,Menores aportes laterales de agua a lo previsto.
+2026-04-22,COBEE,G,Sistema Zongo,18:00,20:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-23,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-23,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-04-23,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-04-23,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-04-23,ENDE DELBENI,D,Área Trinidad,01:24,24:00,Menor demanda a la prevista.
+2026-04-23,COBEE,G,Sistema Miguillas,02:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-23,ENDEG,G,Central Eólica El Dorado,02:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-04-23,ENDEG,G,Central solar Oruro I y II,14:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-23,COBEE,G,Sistema Miguillas,14:00,17:00,Menores aportes laterales de agua a lo previsto.
+2026-04-23,ENDEG,G,Central Eólica Warnes,17:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-23,COBEE,G,Sistema Zongo,17:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-23,HB,G,Sistema Taquesi,17:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-23,COBEE,G,Sistema Miguillas,18:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-23,LAS LOMAS,CNR,Las Lomas,23:00,24:00,"Menor demanda a la prevista, por mantenimiento preventivo en acería."
+2026-04-24,HB,G,Sistema Taquesi,00:00,10:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-24,LAS LOMAS,CNR,Las Lomas,00:00,17:00,"Menor demanda a la prevista, por mantenimiento preventivo en acería."
+2026-04-24,COBEE,G,Sistema Zongo,01:00,10:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-24,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-24,CRE,D,Área Oriental,01:00,15:00,Menor demanda a la prevista.
+2026-04-24,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-04-24,ENDE CORANI,G,Central eólica Qollpana,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-24,ENDE CORANI,G,Central Misicuni,07:00,18:00,Mayor generación debido a suspensión de trabajos de mantenimiento en la línea Colcapirhua - Misicuni.
+2026-04-24,ENDEG,G,Central solar Oruro I y II,09:00,18:00,"Menor generación, condiciones climáticas adversas."
+2026-04-24,COBEE,G,Sistema Zongo,13:00,23:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-24,COBEE,G,Sistema Miguillas,15:00,17:00,"Menores generación, falla en la unidad CRB."
+2026-04-24,CRE,D,Área Oriental,18:00,24:00,Mayor demanda a la prevista.
+2026-04-24,HB,G,Sistema Taquesi,18:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-25,SEPSA,D,Área Potosí,01:00,17:00,Menor demanda a la prevista.
+2026-04-25,ENDE CORANI,G,Central Eólica Qollpana I y II,01:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-25,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-04-25,ENDEG,G,Central solar Oruro I y II,07:00,16:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-25,COBEE,G,Sistema Miguillas,08:00,14:00,Menores aportes laterales de agua a lo previsto.
+2026-04-25,COBEE,G,Sistema Zongo,09:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-25,SETAR,D,Área Tarija,09:00,24:00,Menor demanda a la prevista.
+2026-04-25,ENDE DELBENI,D,Área Trinidad,09:00,24:00,Mayor demanda a la prevista.
+2026-04-25,HB,G,Sistema Taquesi,09:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-25,ENDE CORANI,G,Sistema Corani,09:07,15:06,Mayores aportes laterales al rio vinto equivalente a 30 MW.
+2026-04-25,CRE,D,Área Oriental,12:00,24:00,Mayor demanda a la prevista.
+2026-04-25,CESSA,D,Área Sucre,16:00,24:00,Mayor demanda a la prevista.
+2026-04-26,ENDEG,G,Central Eólica Warnes,01:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-26,DELAPAZ,D,Área Norte,01:00,16:00,Mayor demanda a la prevista.
+2026-04-26,ENDE CORANI,G,Central Eólica Qollpana,01:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-26,COBEE,G,Sistema Miguillas,07:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-26,ENDEG,G,Central Solar Oruro I y II,07:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-26,ENDE CORANI,G,Central Misicuni,07:00,18:00,"Mayor generación, suspensión de trabajos de mantenimiento."
+2026-04-26,CRE,D,Área Oriental,19:00,24:00,Menor demanda a la prevista.
+2026-04-27,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-27,ENDE CORANI,G,Central Misicuni,07:00,17:00,Mayor generación debido a suspensión de trabajos de mantenimiento.
+2026-04-27,CRE,D,Área Oriental,07:00,24:00,Menor demanda a la prevista.
+2026-04-27,SEPSA,D,Área Potosí,08:00,17:00,Menor demanda a la prevista.
+2026-04-27,COBEE,G,Sistema Miguillas,09:00,14:00,Menor generación debido a optimización de recursos hídricos.
+2026-04-27,COBEE,G,Sistema Zongo,09:00,14:00,Menores aportes laterales de agua a lo previsto.
+2026-04-27,ENDE DELBENI,D,Área Trinidad,12:00,24:00,Menor demanda a la prevista.
+2026-04-27,ENDEG,G,Central Eólica San Julián,12:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-27,ENDEG,G,Central Eólica El Dorado,16:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-04-27,CESSA,D,Área Sucre,18:00,24:00,Mayor demanda a la prevista.
+2026-04-28,COBEE,G,Sistema Zongo,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-28,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-04-28,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-04-28,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-04-28,COBEE,G,Sistema Miguillas,07:00,23:00,Menores aportes laterales de agua a lo previsto.
+2026-04-28,CRE,D,Área Oriental,09:00,17:00,Menor demanda a la prevista.
+2026-04-28,HB,G,Sistema Taquesi,10:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-29,COBEE,G,Sistema Miguillas,00:00,07:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-29,COBEE,G,Sistema Zongo,00:00,15:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-29,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-04-29,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-04-29,COBEE,G,Sistema Miguillas,08:00,23:00,Menores aportes laterales de agua a lo previsto.
+2026-04-29,CRE,D,Área Oriental,09:00,17:00,Menor demanda a la prevista.
+2026-04-29,HB,G,Sistema Taquesi,10:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-29,ENDE CORANI,G,Central Misicuni,15:00,18:00,Mayor generación debido a mayor erogación por el río Chocaya.
+2026-04-30,COBEE,G,Sistema Miguillas,00:00,08:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-30,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-30,CESSA,D,Área Sucre,01:00,16:00,Mayor demanda a la prevista.
+2026-04-30,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-04-30,SETAR,D,Área Tarija,01:00,24:00,Menor demanda a la prevista.
+2026-04-30,HB,G,Sistema Taquesi,06:00,09:00,Menores aportes laterales de agua a lo previsto.
+2026-04-30,COBEE,G,Sistema Miguillas,09:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-04-30,CRE,D,Área Oriental,10:00,17:00,Menor demanda a la prevista.
+2026-04-30,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Mayor demanda a la prevista.
+2026-04-30,ENDE CORANI,G,Central Misicuni,13:00,24:00,Mayor generación debido a mayor erogación por el río Chocaya.
+2026-04-30,COBEE,G,Sistema Zongo,18:00,23:00,Mayores aportes laterales de agua a lo previsto.
+2026-04-30,CESSA,D,Área Sucre,18:00,24:00,Mayor demanda a la prevista.
+2026-05-01,ENDEG,G,Central Eólica Warnes,01:00,08:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-01,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-05-01,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2026-05-01,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-01,ENDE CORANI,G,Central Eólica Qollpana I y II,05:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-01,COBEE,G,Sistema Zongo,07:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-01,ELFEC,D,Área Central,07:00,17:00,Menor demanda a la prevista.
+2026-05-01,SETAR,D,Área Tarija,07:00,18:00,Menor demanda a la prevista.
+2026-05-01,SEPSA,D,Área Potosí,07:00,24:00,Menor demanda a la prevista.
+2026-05-01,COBEE,G,Sistema Miguillas,07:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-05-01,ENDE DELBENI,D,Área Trinidad,11:00,24:00,Mayor demanda a la prevista.
+2026-05-01,ENDEG,G,Central Eólica El Dorado,12:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-01,HB,G,Sistema Taquesi,14:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-02,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-05-02,ELFEC,D,Área Central,01:00,24:00,Menor demanda a la prevista.
+2026-05-02,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2026-05-02,COBEE,G,Sistema Miguillas,02:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-02,ENDEG,G,Central Eólica Warnes,02:00,20:00,"Menor generación, condiciones climáticas desfavorables."
+2026-05-02,HB,G,Sistema Taquesi,03:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-02,ENDEG,G,Central Eólica San Julián,03:00,19:00,"Menor generación, condiciones climáticas desfavorables."
+2026-05-02,ENDEG,G,Central Eólica El Dorado,03:00,19:00,"Menor generación, condiciones climáticas desfavorables."
+2026-05-02,COBEE,G,Sistema Zongo,04:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-02,CESSA,D,Área Sucre,07:00,24:00,Mayor demanda a la prevista.
+2026-05-02,COBEE,G,Sistema Miguillas,15:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-05-02,HB,G,Sistema Taquesi,19:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-02,COBEE,G,Sistema Zongo,20:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-03,COBEE,G,Sistema Zongo,01:00,03:00,"Menor generación, indisponibilidad de unidades generadoras."
+2026-05-03,ENDEG,G,Central Eólica San Julián,01:00,12:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-03,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-03,ENDEG,G,Central Eólica Warnes,01:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-03,ENDEG,G,Central Eólica El Dorado,01:00,21:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-03,COBEE,G,Sistema Zongo,04:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-04,COBEE,G,Sistema Zongo,00:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-04,COBEE,G,Sistema Miguillas,00:00,12:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-04,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-05-04,ENDE CORANI,G,Central Eólica Qollpana I y II,04:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-04,ENDEG,G,Central Eólica El Dorado,07:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-04,ENDEG,G,Central Eólica San Julián,09:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-04,COBEE,G,Sistema Zongo,10:00,12:00,Menores aportes laterales de agua a lo previsto.
+2026-05-04,ENDE DELBENI,D,Área Trinidad,11:00,24:00,Mayor demanda a la prevista.
+2026-05-04,ENDEG,G,Central Eólica Warnes,11:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-04,CRE,D,Área Oriental,12:00,24:00,Mayor demanda a la prevista.
+2026-05-04,COBEE,G,Sistema Miguillas,14:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-05-04,HB,G,Sistema Taquesi,14:30,23:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-05,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-05,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-05-05,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2026-05-05,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-05,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-05,COBEE,G,Sistema Zongo,04:00,05:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-05,ENDE CORANI,G,Central Eólica Qollpana I y II,07:00,12:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-05,CESSA,D,Área Sucre,11:00,24:00,Mayor demanda a la prevista.
+2026-05-05,COBEE,G,Sistema Miguillas,14:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-05-05,HB,G,Sistema Taquesi,18:45,21:30,Mayores aportes laterales de agua a lo previsto.
+2026-05-06,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales a lo previsto.
+2026-05-06,SEPSA,D,Área Potosí,01:00,16:00,Menor demanda a la prevista.
+2026-05-06,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2026-05-06,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-06,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-06,COBEE,G,Sistema Zongo,03:00,06:00,Mayores aportes laterales a lo previsto.
+2026-05-06,CESSA,D,Área Sucre,09:00,24:00,Mayor demanda a la prevista.
+2026-05-06,COBEE,G,Sistema Miguillas,14:00,22:00,Menores aportes laterales a lo previsto.
+2026-05-06,COBEE,G,Sistema Zongo,18:00,22:00,Mayores aportes laterales a lo previsto.
+2026-05-06,HB,G,Sistema Taquesi,18:30,21:00,Mayores aportes laterales a lo previsto.
+2026-05-07,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-07,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-07,ENDE DELBENI,D,Área Trinidad,01:00,12:00,Mayor demanda a la prevista.
+2026-05-07,ENDE CORANI,G,Central Eólica Qollpana I y II,01:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-05-07,ENDEG,G,Central Eólica El Dorado,01:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-07,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-05-07,COBEE,G,Sistema Zongo,08:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-07,COBEE,G,Sistema Miguillas,09:00,15:00,Menores aportes laterales de agua a lo previsto.
+2026-05-08,LAS LOMAS,CNR,LAS LOMAS,00:00,17:00,"Menor demanda, falta de material chatarra."
+2026-05-08,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-05-08,COBEE,G,Sistema Miguillas,02:00,05:00,Mayores aportes laterales a lo previsto.
+2026-05-08,COBEE,G,Sistema Zongo,03:00,23:00,Mayores aportes laterales a lo previsto.
+2026-05-08,COBEE,G,Sistema Miguillas,06:00,24:00,Menores aportes laterales a lo previsto.
+2026-05-08,ENDEG,G,Central Misicuni,11:00,18:00,Control de nivel de embalse.
+2026-05-08,ENDE DELBENI,D,Área Trinidad,14:00,24:00,Menor demanda a la prevista.
+2026-05-09,ENDEG,G,Central Eólica El Dorado,01:00,10:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-09,SEPSA,D,Área Potosí,01:00,17:00,Menor demanda a la prevista.
+2026-05-09,COBEE,G,Sistema Miguillas,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-09,ENDE CORANI,G,Central Eólica Qollpana I y II,01:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-09,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-05-09,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-05-09,COBEE,G,Sistema Zongo,06:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-09,CRE,D,Área Oriental,09:00,24:00,Menor demanda a la prevista.
+2026-05-10,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-10,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-10,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-05-10,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-05-10,COBEE,G,Sistema Zongo,08:00,14:00,Menores aportes laterales de agua a lo previsto.
+2026-05-10,ENDEG,G,Central Eólica San Julián,08:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-10,DELAPAZ,D,Área Norte,11:00,17:00,Menor demanda a la prevista.
+2026-05-10,ENDEG,G,Central Solar Oruro I y II,11:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-05-11,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-11,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-11,SEPSA,D,Área Potosí,01:00,17:00,Menor demanda a la prevista.
+2026-05-11,ENDEG,G,Central Eólica San Julián,01:00,20:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-11,ENDEG,G,Central Eólica Warnes,01:00,21:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-11,ENDEG,G,Central Eólica El Dorado,01:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-11,ELFEC,D,Área Central,01:00,24:00,Menor demanda a la prevista.
+2026-05-11,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-05-11,SETAR,D,Área Tarija,01:00,24:00,Menor demanda a la prevista.
+2026-05-11,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-05-11,COBEE,G,Sistema Miguillas,09:00,14:00,Menores aportes laterales de agua a lo previsto.
+2026-05-11,COBEE,G,Sistema Zongo,12:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-12,ENDE DELBENI,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-05-12,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-05-12,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-05-12,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-05-12,ENDE GUARACACHI,G,Central Solar Uyuni,07:00,13:00,"Menor generación, condiciones climáticas desfavorables."
+2026-05-12,COBEE,G,Sistema Zongo,10:00,13:00,Menores aportes laterales de agua a lo previsto.
+2026-05-12,ENDEG,G,Central Solar Oruro I y II,12:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-05-12,COBEE,G,Sistema Miguillas,16:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-05-13,COBEE,G,Sistema Miguillas,01:00,05:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-13,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-13,DELAPAZ,D,Área Norte,01:00,18:00,Menor demanda a la prevista.
+2026-05-13,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-05-13,COBEE,G,Sistema Miguillas,06:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-05-13,COBEE,G,Sistema Zongo,09:00,12:00,Menores aportes laterales de agua a lo previsto.
+2026-05-13,HB,G,Sistema Taquesi,18:30,21:00,Mayores aportes laterales de agua a lo previsto.
