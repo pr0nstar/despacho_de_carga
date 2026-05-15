@@ -1,7 +1,7 @@
 name: Update Eventos
 on:
   schedule:
-    - cron: '0 11 * * 1'
+    - cron: '0 11 * * *'
 jobs:
   update:
     name: update
