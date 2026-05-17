@@ -102114,3 +102114,8 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-05-13,ENDE ANDINA,G,TRWAR23011,13:34,14:13,Falsa alarma en monitor de temperatura.,Forzado,-,-,-
 2026-05-13,ENDE ANDINA,G,WAR11,13:34,18:10,"Disparo, falsa alarma en monitor de temperatura en el transformador TRWAR23011.",Forzado,-,-,-
 2026-05-13,ENDE CORANI,G,QOL09,15:04,17:41,Falla sistema filtros 1,Forzado,-,-,-
+2026-05-14,DELAPAZ,D,6 de Agosto,10:49,10:49,"No determinada, operó relé 50P, 1.99 MW.",Forzado,-,-,-
+2026-05-14,DELAPAZ,D,BAPTISTA SAAVEDRA,15:07,15:07,"No determinada, operó relé 50N, 2.73 MW.",Forzado,-,-,-
+2026-05-14,ENDEG,G,SJU04,15:25,24:00,Falla en sistema hidráulico.,Forzado,-,-,-
+2026-05-14,ENDE GUARACACHI,G,SJA02,18:00,19:36,"Falla en el arranque, problemas con carbones de excitatriz.",Forzado,-,-,-
+2026-05-14,DELAPAZ,D,ALIANZA,18:12,18:12,"No determinada, operó relé 50N, 1.3 MW.",Forzado,-,-,-
