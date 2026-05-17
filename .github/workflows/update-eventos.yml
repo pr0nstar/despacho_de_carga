@@ -22,7 +22,16 @@ jobs:
       - name: update data
         run: |
           python update/update_events.py
+      - name: git status
+        id: git-status
+        run: |
+          git config --global user.email "eduardo.mantarraya@gmail.com"
+          git config --global user.name "mantarraya"
+          echo ::set-output name=result::$(git status | tr -d "\n" | grep -c "nothing to commit")
       - name: commit
+        if: steps.git-status.outputs.result == 0
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git pull
           git add -A
