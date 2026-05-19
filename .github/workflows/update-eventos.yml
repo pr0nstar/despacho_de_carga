@@ -40,7 +40,6 @@ jobs:
       - name: commit
         if: steps.git-status.outputs.has_changes == 'true'
         run: |
-          git pull --rebase origin main
           git add -A
           git commit -m "[ci] actualización eventos"
           git push origin HEAD:main
