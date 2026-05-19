@@ -1,7 +1,12 @@
 name: Update Demanda
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 10 * * *'
+
+permissions:
+  contents: write
+
 jobs:
   update:
     name: update
@@ -27,13 +32,15 @@ jobs:
         run: |
           git config --global user.email "eduardo.mantarraya@gmail.com"
           git config --global user.name "mantarraya"
-          echo ::set-output name=result::$(git status | tr -d "\n" | grep -c "nothing to commit")
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          fi
       - name: commit
-        if: steps.git-status.outputs.result == 0
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        if: steps.git-status.outputs.has_changes == 'true'
         run: |
-          git pull
+          git pull --rebase origin main
           git add -A
           git commit -m "[ci] actualización demanda"
-          git push -q "https://$GH_TOKEN@github.com/pr0nstar/despacho_de_carga.git" main
+          git push origin HEAD:main
