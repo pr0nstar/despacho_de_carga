@@ -87948,3 +87948,12 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-05-14,ENDE GUARACACHI,G,GCH12,00:00,24:00,0.00 MW,Falta de sal para enfriamiento de ablandador de agua de caldera N° 10.
 2026-05-14,ENDE GUARACACHI,G,GCH09,00:00,24:00,0.00 MW,Calentamiento de carcasa de turbina GCH12.
 2026-05-14,CE,G,BUL01,16:58,22:58,0.00 MW,Restricción en suministro de gas por parte de YPFB Chaco.
+2026-05-15,ENDE GUARACACHI,G,GCH10,00:00,23:52,0.00 MW,Falta de sal para enfriamiento de ablandador de agua de caldera N° 10.
+2026-05-15,ENDE GUARACACHI,G,GCH12,00:00,24:00,0.00 MW,Falta de sal para enfriamiento de ablandador de agua de caldera N° 10.
+2026-05-15,ENDE GUARACACHI,G,GCH09,00:00,24:00,0.00 MW,Calentamiento de carcasa de turbina GCH12.
+2026-05-16,ENDE GUARACACHI,G,GCH09,00:00,24:00,0.00 MW,Calentamiento de carcasa de turbina GCH12.
+2026-05-16,ENDE GUARACACHI,G,GCH12,00:00,24:00,0.00 MW,Falta de sal para enfriamiento de ablandador de agua de caldera N° 10.
+2026-05-16,ENDE GUARACACHI,G,GCH10,19:41,24:00,0.00 MW,Falta de sal para enfriamiento de ablandador de agua de caldera N° 10.
+2026-05-17,ENDE GUARACACHI,G,GCH10,00:00,24:00,0.00 MW,Falta de sal para enfriamiento de ablandador de agua de caldera N° 10.
+2026-05-17,ENDE GUARACACHI,G,GCH12,00:00,24:00,0.00 MW,Falta de sal para enfriamiento de ablandador de agua de caldera N° 10.
+2026-05-17,ENDE GUARACACHI,G,GCH09,00:00,24:00,0.00 MW,Calentamiento de carcasa de turbina GCH12.
