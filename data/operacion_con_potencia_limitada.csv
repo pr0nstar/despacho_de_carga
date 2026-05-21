@@ -87960,3 +87960,6 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-05-18,ENDE GUARACACHI,G,GCH10,00:00,24:00,0.00 MW,Falta de sal para enfriamiento de ablandador de agua de caldera N° 10.
 2026-05-18,ENDE GUARACACHI,G,GCH12,00:00,24:00,0.00 MW,Falta de sal para enfriamiento de ablandador de agua de caldera N° 10.
 2026-05-18,ENDE GUARACACHI,G,GCH09,00:00,24:00,0.00 MW,Calentamiento de carcasa de turbina GCH12.
+2026-05-19,ENDE GUARACACHI,G,GCH10,00:00,24:00,0.00 MW,Falta de sal para enfriamiento de ablandador de agua de caldera N° 10.
+2026-05-19,ENDE GUARACACHI,G,GCH12,00:00,24:00,0.00 MW,Falta de sal para enfriamiento de ablandador de agua de caldera N° 10.
+2026-05-19,ENDE GUARACACHI,G,GCH09,00:00,24:00,0.00 MW,Calentamiento de carcasa de turbina GCH12.

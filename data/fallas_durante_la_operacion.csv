@@ -102131,3 +102131,7 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-05-17,DELAPAZ,D,Alto Lima,16:08,16:08,"No determinada, operó relé 50 P, 1.26 MW.",Forzado,-,-,-
 2026-05-18,COBEE,G,SAI,11:30,13:17,"Disparo, falla en módulo de regulador de velocidad.",Forzado,-,-,-
 2026-05-18,DELAPAZ,D,Garita,16:26,16:42,"No determinada, operó relé 50 P, 1.70 MW.",Forzado,-,-,-
+2026-05-19,DELAPAZ,D,16 de Julio,10:18,10:18,"No determinada, operó relé 51N, 1.52 MW.",Forzado,-,-,-
+2026-05-19,ELFEC,D,T-1,10:25,10:25,"No determinada, operó relé 51P, 1.1 MW.",Forzado,-,-,-
+2026-05-19,DELAPAZ,D,CHOQUETANGA,14:02,14:02,"No determinada, operó relé 50N, 0.26 MW.",Forzado,-,-,-
+2026-05-19,DELAPAZ,D,SECKEJAHUIRA,15:21,15:21,"No determinada, operó relé 50N, 2.96 MW.",Forzado,-,-,-
