@@ -25281,3 +25281,14 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-05-19,COBEE,G,Sistema Zongo,15:00,17:00,Menores aportes laterales de agua a lo previsto.
 2026-05-19,COBEE,G,Sistema Miguillas,17:00,21:00,Menores aportes laterales de agua a lo previsto.
 2026-05-19,HB,G,Sistema Taquesi,18:15,21:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-20,LAS LOMAS,CNR,Las Lomas,00:00,17:00,"Menor demanda a la prevista, por recomposición de inventario."
+2026-05-20,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-20,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-20,DELAPAZ,D,Área Norte,01:00,17:00,Menor demanda a la prevista.
+2026-05-20,CRE,D,Área Oriental,01:00,17:00,Menor demanda a la prevista.
+2026-05-20,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-05-20,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-20,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-20,ENDE CORANI,G,Central Eólica Qollpana,11:00,20:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-20,COBEE,G,Sistema Zongo,15:00,18:00,Menores aportes laterales de agua a lo previsto.
+2026-05-20,COBEE,G,Sistema Miguillas,17:00,21:00,Menores aportes laterales de agua a lo previsto.

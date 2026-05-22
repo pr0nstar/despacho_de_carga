@@ -102135,3 +102135,8 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-05-19,ELFEC,D,T-1,10:25,10:25,"No determinada, operó relé 51P, 1.1 MW.",Forzado,-,-,-
 2026-05-19,DELAPAZ,D,CHOQUETANGA,14:02,14:02,"No determinada, operó relé 50N, 0.26 MW.",Forzado,-,-,-
 2026-05-19,DELAPAZ,D,SECKEJAHUIRA,15:21,15:21,"No determinada, operó relé 50N, 2.96 MW.",Forzado,-,-,-
+2026-05-20,ENDEG,G,ORU21,06:45,09:10,Falla de comunicación de controlador de los inversores.,Forzado,-,-,-
+2026-05-20,ENDEG,G,ORU23,06:45,09:58,Falla de comunicación de controlador de los inversores.,Forzado,-,-,-
+2026-05-20,DELAPAZ,D,2 DE FEBRERO,07:01,07:08,"No determinada, operó relé 51P, 1.44 MW.",Forzado,-,-,-
+2026-05-20,SEPSA,D,CASA BLANCA,11:25,11:31,"No determinada, operó relé 50P, 8.0 MW.",Forzado,-,-,-
+2026-05-20,DELAPAZ,D,MARISCAL SANTA CRUZ,14:03,14:08,"No determinada, operó relé 50N, 1.72 MW.",Forzado,-,-,-
