@@ -102143,3 +102143,30 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-05-21,ENDEG,G,ORU31,06:51,09:45,Falla de comunicación de controlador de los inversores.,Forzado,-,-,-
 2026-05-21,ENDEG,G,ORU32,06:51,10:27,Falla de comunicación de controlador de los inversores.,Forzado,-,-,-
 2026-05-21,DELAPAZ,D,CORAZÓN DE JESUS,09:04,09:04,"No determinada, operó relé 50N, 0.98 MW.",Forzado,-,-,-
+2026-05-22,SETAR,D,YAG-VIM069,06:41,08:11,Conexión suelta de fase S en bahía del interruptor B792 de S/E Villamontes,Forzado,-,-,166
+2026-05-22,SETAR,D,TRVIM06901,06:50,08:10,Desconexión de la línea YAG-VIM069.,Forzado,-,-,166
+2026-05-22,DELAPAZ,D,CPTAR06901,09:20,24:00,"Falla en el mecanismo de operación del interruptor B3-434 de S/E Tarapacá.,",Forzado,-,-,-
+2026-05-22,ENDED,D,CAMARGO,22:22,23:06,"Desconexión de emergencia, punto caliente en puente seccionador 502-b, 1.04 MW.",Forzado,-,-,-
+2026-05-23,DELAPAZ,D,PUERTO ACOSTA,03:21,03:21,"No determinada, operó relé 50P, 1.35 MW.",Forzado,-,-,-
+2026-05-23,SETAR,D,YAG-VIM069,06:42,07:05,"No determinada, operó la protección de distancia en zona 1.",Forzado,-,-,167
+2026-05-23,SETAR,D,TRVIM06901,07:01,07:05,Desconexión de la línea YAG-VIM069.,Forzado,-,-,167
+2026-05-23,ENDEG,G,ORU22,13:49,24:00,Falla de comunicación en controlador.,Forzado,-,-,-
+2026-05-23,SETAR,D,TRYAU06901,14:45,14:54,"No determinada, operó protección de sobrecorriente, 5.5 MW.",Forzado,-,-,168
+2026-05-23,DELAPAZ,D,LURIBAY,15:55,15:55,"No determinada, operó relé 50N, 0.35 MW.",Forzado,-,-,-
+2026-05-23,SYNERGIA,G,KAN,17:39,18:05,"Disparo, alta vibración en cojinetes.",Forzado,-,-,-
+2026-05-23,SDB,G,CHT-QUE024,19:16,19:17,Operó relé 50/51.,Forzado,-,-,-
+2026-05-23,ENDE ORURO,D,CRC-TKA024,19:16,24:00,Puente suelto en línea de media tensión.,Forzado,-,-,-
+2026-05-23,SDB,G,QUE01,19:16,24:00,"Disparo, desconexión de la línea CRC-TKA024.",Forzado,-,-,-
+2026-05-23,SDB,G,QUE02,19:16,24:00,"Disparo, desconexión de la línea CRC-TKA024.",Forzado,-,-,-
+2026-05-24,ENDEG,G,SJU05,06:10,06:20,Falla en sistema convertidor.,Forzado,-,-,-
+2026-05-24,ENDEG,G,SJU05,06:22,06:26,Falla en sistema convertidor.,Forzado,-,-,-
+2026-05-24,ENDEG,G,SJU02,12:39,24:00,Falla por error de señal.,Forzado,-,-,-
+2026-05-24,SDB,G,QUE02,16:20,16:21,Proceso de restitución.,Forzado,-,-,-
+2026-05-24,COBEE,G,CAH01,16:45,24:00,"Disparo, desconexión de línea en 115 kV Huaji-Tiquimani.",Forzado,-,-,-
+2026-05-24,COBEE,G,CHU01,16:45,24:00,"Disparo, desconexión de la línea en 115 kV Huaji-Tiquimani.",Forzado,-,-,-
+2026-05-24,COBEE,G,HAC-CAH115,16:45,24:00,"Cadena de aisladores flameados en estructura 44F, debido a condiciones atmosféricas.",Forzado,-,-,-
+2026-05-24,COBEE,G,CHU-TIQ115,16:45,24:00,"Cadena de aisladores flameados en estructura 44F, debido a condiciones atmosféricas.",Forzado,-,-,-
+2026-05-24,COBEE,G,CHU-HAC115,16:45,24:00,"Cadena de aisladores flameados en estructura 44F, debido a condiciones atmosféricas.",Forzado,-,-,-
+2026-05-24,COBEE,G,CAH-HUA115,16:45,24:00,"Cadena de aisladores flameados en estructura 44F, debido a condiciones atmosféricas.",Forzado,-,-,-
+2026-05-24,COBEE,G,CHU02,17:29,20:03,"Disparo, falsa señal de disparo de la protección 87T.",Forzado,-,-,-
+2026-05-24,COBEE,G,CHU02,23:52,24:00,"Disparo, baja presión de penstock.",Forzado,-,-,-

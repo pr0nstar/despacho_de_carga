@@ -25304,3 +25304,28 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-05-21,CRE,D,Área Oriental,14:00,17:00,Menor demanda a la prevista.
 2026-05-21,COBEE,G,Sistema Zongo,14:00,18:00,Menores aportes laterales de agua a lo previsto.
 2026-05-21,COBEE,G,Sistema Miguillas,15:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-05-22,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-22,DELAPAZ,D,Área Norte,01:00,17:00,Menor demanda a la prevista.
+2026-05-22,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-05-22,SETAR,D,Área Tarija,09:00,20:00,Mayor demanda a la prevista.
+2026-05-22,CESSA,D,Área Sucre,10:00,24:00,Mayor demanda a la prevista.
+2026-05-22,CRE,D,Área Oriental,13:00,17:00,Menor demanda a la prevista.
+2026-05-22,COBEE,G,Sistema Zongo,13:00,17:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-22,COBEE,G,Sistema Miguillas,17:00,22:00,Menores aportes laterales a lo previsto.
+2026-05-23,ENDEG,G,Central Eólica Warnes,01:00,12:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-23,COBEE,G,Sistema Zongo,01:00,21:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-23,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-05-23,ENDE GUARACACHI,G,Central Solar Uyuni,08:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-05-23,EMSC,CNR,Minera San Cristóbal,08:26,09:37,"Menor demanda de 43.0 MW a 22.4 MW, debido a parada de Molino N° 2 y Molino SAG."
+2026-05-23,CRE,D,Área Oriental,10:00,20:00,Menor demanda a la prevista.
+2026-05-23,COBEE,G,Sistema Miguillas,14:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-05-24,COBEE,G,Sistema Miguillas,01:00,06:00,Menores aportes laterales de agua a lo previsto.
+2026-05-24,CRE,D,Área Oriental,01:00,17:00,Menor demanda a la prevista.
+2026-05-24,COBEE,G,Sistema Zongo,01:00,17:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-24,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-05-24,ENDEG,G,Central Solar Oruro I y II,13:00,14:00,"Menor generación, condiciones climáticas desfavorables."
+2026-05-24,COBEE,G,Sistema Miguillas,15:00,17:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-24,ENDEG,G,Central Solar Oruro I y II,16:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-05-24,COBEE,G,Sistema Zongo,18:00,19:00,"Menor generación, indisponibilidad de unidades CHU01, CAH01 y CHU02."
+2026-05-24,HB,G,Sistema Taquesi,18:15,23:45,Mayores aportes laterales de agua a lo previsto.
+2026-05-24,COBEE,G,Sistema Zongo,20:00,24:00,"Menor generación, indisponibilidad de unidades CHU01, CAH01."
