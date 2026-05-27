@@ -41,6 +41,7 @@ COLUMNS = {
     66: ['fecha', 'de_hrs', 'a_hrs', 'descripcion'],
     24: ['fecha', 'agente', 'cat', 'componente', 'de_hrs', 'a_hrs', 'causa', 'tipo', 'edac', 'n_inf', 'agente_afectado'],
 }
+DAY_DIFF = 5
 
 
 class RequestException(Exception):
@@ -134,5 +135,5 @@ def do_update(year, month):
 ###############################################################################
 
 if __name__ == '__main__':
-    now = pd.to_datetime('now') - pd.DateOffset(days=1)
+    now = pd.to_datetime('now') - pd.DateOffset(days=DAY_DIFF)
     do_update(now.year, now.month)

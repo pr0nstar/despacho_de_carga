@@ -18,6 +18,7 @@ URL = 'https://www.cndc.bo/media/archivos/boletindiario/deener_{:02n}{:02n}{}.zi
 FN = './dump/demanda/{}{:02n}{:02n}.zip'
 DATA = './data_demanda'
 CSV = './data_demanda/{}.csv'
+DAY_DIFF = 5
 
 
 ###############################################################################
@@ -129,8 +130,8 @@ def do_merge(df):
 
 
 def do_update():
-    base_date = read_latest_date().normalize() + pd.DateOffset(days=1)
-    end_date = pd.to_datetime('now').normalize() - pd.DateOffset(days=1)
+    base_date = read_latest_date().normalize() + pd.DateOffset(days=DAY_DIFF)
+    end_date = pd.to_datetime('now').normalize() - pd.DateOffset(days=DAY_DIFF)
 
     if base_date > end_date:
         return
