@@ -102170,3 +102170,9 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-05-24,COBEE,G,CAH-HUA115,16:45,24:00,"Cadena de aisladores flameados en estructura 44F, debido a condiciones atmosféricas.",Forzado,-,-,-
 2026-05-24,COBEE,G,CHU02,17:29,20:03,"Disparo, falsa señal de disparo de la protección 87T.",Forzado,-,-,-
 2026-05-24,COBEE,G,CHU02,23:52,24:00,"Disparo, baja presión de penstock.",Forzado,-,-,-
+2026-05-25,DELAPAZ,D,ACI-CHG069,00:53,12:07,"Condiciones climáticas, nieve, 0.39 MW.",Forzado,-,-,169
+2026-05-25,DELAPAZ,D,ANCORAIMES,02:52,06:59,"No determinada, operó relé 51N, 0.84 MW.",Forzado,-,-,-
+2026-05-25,DELAPAZ,D,Panorámica,17:39,17:39,"No determinada, operó relé 50P, 1.36 MW.",Forzado,-,-,-
+2026-05-25,ELFEC,D,L-6,18:08,18:12,"Desconexión de reconectador L-6R, debido a árbol sobre línea de media tensión, 1.5 MW.",Forzado,-,-,-
+2026-05-25,SYNERGIA,G,KAN-QUI024,18:09,18:22,Fuertes vientos.,Forzado,-,-,-
+2026-05-25,SYNERGIA,G,KAN,18:09,18:22,"Disparo, desconexión de línea KAN-QUI024.",Forzado,-,-,-
