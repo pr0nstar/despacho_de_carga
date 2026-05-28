@@ -102176,3 +102176,12 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-05-25,ELFEC,D,L-6,18:08,18:12,"Desconexión de reconectador L-6R, debido a árbol sobre línea de media tensión, 1.5 MW.",Forzado,-,-,-
 2026-05-25,SYNERGIA,G,KAN-QUI024,18:09,18:22,Fuertes vientos.,Forzado,-,-,-
 2026-05-25,SYNERGIA,G,KAN,18:09,18:22,"Disparo, desconexión de línea KAN-QUI024.",Forzado,-,-,-
+2026-05-26,ENDEG,G,ORU37,06:48,09:45,Falla en comunicaciones.,Forzado,-,-,-
+2026-05-26,ENDEG,G,ORU17,06:49,09:08,Falla en comunicaciones.,Forzado,-,-,-
+2026-05-26,COBEE,G,CHU-TIQ115,11:51,14:50,Falla en circuito de mando remoto del interruptor A3-101.,Forzado,-,-,-
+2026-05-26,SEPSA,D,CASA BLANCA,11:55,11:59,"No determinada, operó relé 50N, 8.6 MW.",Forzado,-,-,-
+2026-05-26,ENDE ANDINA,G,WAR30,19:07,19:22,"Disparo, pérdida de presión de aceite lubricante.",Forzado,-,-,-
+2026-05-26,ENDE ANDINA,G,WAR30,19:22,24:00,Falla en sistema de virado.,Forzado,-,-,-
+2026-05-26,ENDE ANDINA,G,WAR32,19:28,24:00,"Disparo, pérdida de presión de vacío e indisponibilidad de unidad WAR30.",Forzado,-,-,-
+2026-05-26,ENDE ANDINA,G,WAR31,19:28,24:00,"Disparo, pérdida de presión de vacío e indisponibilidad de unidad WAR30.",Forzado,-,-,-
+2026-05-26,ENDE DELBENI,D,YUCUMO RURAL,20:04,20:04,"No determinada, operó relé 50N, 0.2 MW.",Forzado,-,-,-

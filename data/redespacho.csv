@@ -25340,3 +25340,13 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-05-25,ENDEG,G,Central Eólica San Julián,18:00,24:00,"Mayor generación, condiciones climáticas favorables."
 2026-05-25,COBEE,G,Sistema Miguillas,19:00,24:00,Mayores aportes laterales de agua a lo previsto.
 2026-05-25,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-26,ENDE DELBENI,D,Área Trinidad,00:00,24:00,Menor demanda a la prevista.
+2026-05-26,COBEE,G,Sistema Zongo,01:00,08:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-26,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-26,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-26,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-26,HB,G,Sistema Taquesi,05:30,12:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-26,COBEE,G,Sistema Zongo,09:00,12:00,"Menor generación, debido a indisponibilidad de la línea TIQ - HUA115"
+2026-05-26,COBEE,G,Sistema Zongo,13:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-05-26,ENDE CORANI,G,Central Eólica Qollpana,13:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-05-26,COBEE,G,Sistema Miguillas,15:00,17:00,Mayores aportes laterales de agua a lo previsto.
