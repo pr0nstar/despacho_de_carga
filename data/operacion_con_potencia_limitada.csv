@@ -87986,3 +87986,8 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-05-26,ENDE GUARACACHI,G,GCH12,00:00,24:00,0.00 MW,Falta de sal para enfriamiento de ablandador de agua de caldera N° 10.
 2026-05-26,ENDE ANDINA,G,WAR31,19:07,19:28,0.00 MW,Indisponibilidad de unidad WAR30.
 2026-05-26,ENDE ANDINA,G,WAR32,19:07,19:28,0.00 MW,Indisponibilidad de unidad WAR30.
+2026-05-27,ENDE GUARACACHI,G,GCH12,00:00,12:02,0.00 MW,Falta de sal para enfriamiento de ablandador de agua de caldera N° 10.
+2026-05-27,ENDE GUARACACHI,G,GCH10,00:00,12:19,0.00 MW,Falta de sal para enfriamiento de ablandador de agua de caldera N° 10.
+2026-05-27,ENDE GUARACACHI,G,GCH09,00:00,12:31,0.00 MW,Calentamiento de carcasa de turbina GCH12.
+2026-05-27,CE,G,BUL01,11:34,18:08,0.00 MW,Restricción de gas a la central.
+2026-05-27,CE,G,BUL01,18:08,23:10,0.00 MW,Restricción de gas a la central.

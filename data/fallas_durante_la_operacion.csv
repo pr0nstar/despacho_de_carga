@@ -102185,3 +102185,20 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-05-26,ENDE ANDINA,G,WAR32,19:28,24:00,"Disparo, pérdida de presión de vacío e indisponibilidad de unidad WAR30.",Forzado,-,-,-
 2026-05-26,ENDE ANDINA,G,WAR31,19:28,24:00,"Disparo, pérdida de presión de vacío e indisponibilidad de unidad WAR30.",Forzado,-,-,-
 2026-05-26,ENDE DELBENI,D,YUCUMO RURAL,20:04,20:04,"No determinada, operó relé 50N, 0.2 MW.",Forzado,-,-,-
+2026-05-27,DELAPAZ,D,CARANAVI,00:42,00:42,"No determinada, operó relé 50P, 1.64 MW.",Forzado,-,-,-
+2026-05-27,ENDEG,G,SJU01,01:24,01:33,Falla de error de señal.,Forzado,-,-,-
+2026-05-27,ENDEG,G,SJU01,05:29,05:38,Falla de error de señal.,Forzado,-,-,-
+2026-05-27,ENDEG,G,ORU28,06:49,09:16,Falla de comunicación de controladores de inversores.,Forzado,-,-,-
+2026-05-27,SEPSA,D,CASA BLANCA,09:11,09:16,"No determinada, operó relé 50N, 7.5 MW.",Forzado,-,-,-
+2026-05-27,ENDE ANDINA,G,WAR05,09:29,10:11,Retraso en el arranque.,Forzado,-,-,-
+2026-05-27,ENDEG,G,ORU22,13:17,13:26,Falla de comunicación de controladores de inversores.,Forzado,-,-,-
+2026-05-27,SYNERGIA,G,KAN,18:37,18:56,"Disparo, no determinada operó relé de bajo voltaje.",Forzado,-,-,-
+2026-05-27,DELAPAZ,D,CARANAVI,19:47,19:47,"No determinada, operó relé 50P, 2.37 MW.",Forzado,-,-,-
+2026-05-27,ELFEC,D,T-6,19:52,22:05,"No determinada, 2.67 MW.",Forzado,-,-,-
+2026-05-27,ELFEC,D,T-1,19:52,22:05,"No determinada, 1.9 MW.",Forzado,-,-,-
+2026-05-27,ELFEC,D,T-2,19:52,22:08,"No determinada, 1.29 MW.",Forzado,-,-,-
+2026-05-27,ELFEC,D,T-4,19:52,22:09,"No determinada, 1.26 MW.",Forzado,-,-,-
+2026-05-27,ELFEC,D,V-3,19:52,22:11,"No determinada, 4.0 MW.",Forzado,-,-,-
+2026-05-27,ELFEC,D,V-2,19:52,22:14,"No determinada, 1.53 MW.",Forzado,-,-,-
+2026-05-27,ELFEC,D,V-1,19:52,22:14,"No determinada, 1.0 MW.",Forzado,-,-,-
+2026-05-27,ELFEC,D,T-5,19:53,22:09,"No determinada, 1.39 MW.",Forzado,-,-,-
