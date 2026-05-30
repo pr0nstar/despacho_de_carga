@@ -87991,3 +87991,8 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-05-27,ENDE GUARACACHI,G,GCH09,00:00,12:31,0.00 MW,Calentamiento de carcasa de turbina GCH12.
 2026-05-27,CE,G,BUL01,11:34,18:08,0.00 MW,Restricción de gas a la central.
 2026-05-27,CE,G,BUL01,18:08,23:10,0.00 MW,Restricción de gas a la central.
+2026-05-28,CE,G,BUL01,06:12,14:55,0.00 MW,Restricción de gas a la central.
+2026-05-28,CE,G,BUL01,14:55,17:09,0.00 MW,Problemas en chilers.
+2026-05-28,CE,G,BUL01,17:09,18:11,0.00 MW,Restricción de gas a la central.
+2026-05-28,CE,G,BUL01,18:11,22:32,0.00 MW,Restricción de gas a la central.
+2026-05-28,CE,G,BUL01,22:32,23:26,0.00 MW,Restricción de gas a la central.

@@ -25360,3 +25360,7 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-05-27,ENDEG,G,Central eólica El Dorado,15:00,24:00,"Menor generación, condiciones climáticas desfavorables."
 2026-05-27,ENDE CORANI,G,Central eólica Qollpana I y II,15:00,24:00,"Mayor generación, condiciones climáticas favorables."
 2026-05-27,COBEE,G,Sistema Zongo,22:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-05-28,COBEE,G,Sistema Zongo,01:00,07:00,Menores aportes laterales de agua a lo previsto.
+2026-05-28,COBEE,G,Sistema Zongo,09:00,11:00,Menores aportes laterales de agua a lo previsto.
+2026-05-28,COBEE,G,Sistema Miguillas,15:00,23:00,Menores aportes laterales de agua a lo previsto.
+2026-05-28,COBEE,G,Sistema Zongo,16:00,17:00,Menores aportes laterales de agua a lo previsto.

@@ -102202,3 +102202,8 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-05-27,ELFEC,D,V-2,19:52,22:14,"No determinada, 1.53 MW.",Forzado,-,-,-
 2026-05-27,ELFEC,D,V-1,19:52,22:14,"No determinada, 1.0 MW.",Forzado,-,-,-
 2026-05-27,ELFEC,D,T-5,19:53,22:09,"No determinada, 1.39 MW.",Forzado,-,-,-
+2026-05-28,ENDE ANDINA,G,WAR21,00:18,05:44,"Disparo, falla en válvula de aislación de gas combustible.",Forzado,-,-,-
+2026-05-28,ENDEG,G,ORU36,06:46,09:27,Falla de comunicación de controladores de inversores.,Forzado,-,-,-
+2026-05-28,ENDEG,G,SJU01,14:20,14:29,Falla en sistema de seguridad del HUB.,Forzado,-,-,-
+2026-05-28,ENDE CORANI,G,SIS05,21:26,22:24,"Disparo, cierre de válvula 500 por baja presión de aceite.",Forzado,-,-,-
+2026-05-28,ENDE ANDINA,G,ERI52,22:09,22:54,"Disparo, falla en alabes guía en entrada de aire al compresor de turbina de gas.",Forzado,-,-,-
