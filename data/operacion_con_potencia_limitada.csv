@@ -87996,3 +87996,6 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-05-28,CE,G,BUL01,17:09,18:11,0.00 MW,Restricción de gas a la central.
 2026-05-28,CE,G,BUL01,18:11,22:32,0.00 MW,Restricción de gas a la central.
 2026-05-28,CE,G,BUL01,22:32,23:26,0.00 MW,Restricción de gas a la central.
+2026-05-29,CE,G,BUL01,08:35,18:06,0.00 MW,Restricción de gas a la central.
+2026-05-29,CE,G,BUL01,18:06,20:02,0.00 MW,Restricción de gas a la central.
+2026-05-29,CE,G,BUL01,20:02,22:49,0.00 MW,Restricción de gas a la central.
