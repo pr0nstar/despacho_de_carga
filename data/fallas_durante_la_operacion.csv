@@ -102215,12 +102215,13 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-05-29,DELAPAZ,D,MARISCAL SANTA CRUZ,14:47,14:47,"No determinada, operó relé 50N, 0.73 MW.",Forzado,-,-,-
 2026-05-29,ENDE GUARACACHI,G,GCH04,14:51,24:00,"Falla en el arranque, falla en sincronización.",Forzado,-,-,-
 2026-05-29,ENDE GUARACACHI,G,GCH01,15:12,15:14,Retraso en el arranque.,Forzado,-,-,-
+2026-05-29,ENDEG,G,SJU08,15:21,24:00,Falla en celda HV.,Forzado,-,-,-
 2026-05-29,ENDE GUARACACHI,G,SJA02,18:15,18:45,"Falla en el arranque, problemas en válvula 1100 de la turbina.",Forzado,-,-,-
 2026-05-29,ENDE VALLE HERMOSO,G,VHE07,19:46,24:00,"Disparo, falla sistema de control.",Forzado,-,-,-
 2026-05-29,ENDEG,G,SJU01,19:53,20:02,Falla por error de señal.,Forzado,-,-,-
 2026-05-29,ENDEG,G,SJU01,20:21,20:24,Falla por error de señal.,Forzado,-,-,-
 2026-05-29,ENDE ANDINA,G,WAR31,21:51,22:07,"Disparo, bajo flujo de agua de alimentación de alta presión.",Forzado,-,-,-
-2026-05-29,ENDE ANDINA,G,WAR32,23:02,24:00,Parada de emergencia por fuga de vapor en válvula de seguridad del caldero.,Forzado,-,-,-
+2026-05-29,ENDE ANDINA,G,WAR32,23:02,24:00,Pararda de emergencia por fuga de vapor en válvula de seguridad del caldero.,Forzado,-,-,-
 2026-05-30,ENDE DELBENI,D,IM-45,08:16,08:17,"No determinada, operó relé 51, 0.045 MW.",Forzado,-,-,-
 2026-05-30,ENDEG,G,ORU22,12:09,12:15,Falla en sistema de excitación.,Forzado,-,-,-
 2026-05-31,DELAPAZ,D,TRKEN11501,15:31,15:39,"Desconexión de emergencia, falsa alarma de relé Buchholz.",Forzado,-,-,-
