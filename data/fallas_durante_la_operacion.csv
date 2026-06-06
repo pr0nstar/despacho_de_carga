@@ -102226,3 +102226,8 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-05-30,ENDEG,G,ORU22,12:09,12:15,Falla en sistema de excitación.,Forzado,-,-,-
 2026-05-31,DELAPAZ,D,TRKEN11501,15:31,15:39,"Desconexión de emergencia, falsa alarma de relé Buchholz.",Forzado,-,-,-
 2026-05-31,DELAPAZ,D,Los Andes,17:27,17:27,"No determinada, operó relé 50N, 2.3 MW.",Forzado,-,-,-
+2026-06-01,SEPSA,D,CASA BLANCA,11:00,11:04,"No determinada, operó relé 50N, 7.23 MW.",Forzado,-,-,-
+2026-06-01,DELAPAZ,D,CHARAPAQUI,12:31,12:31,"No determinada, operó relé 50N, 3.32 MW.",Forzado,-,-,-
+2026-06-02,ENDEG,G,ORU17,06:54,24:00,"Falla, baja aislación en inversor.",Forzado,-,-,-
+2026-06-02,ENDEG,G,ORU13,06:54,24:00,"Falla, baja aislación en inversor.",Forzado,-,-,-
+2026-06-02,ENDE GUARACACHI,G,SJA02,18:15,19:15,"Falla en el arranque, falla en gobernador de arranque.",Forzado,-,-,-

@@ -25390,3 +25390,18 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-05-31,COBEE,G,Sistema Miguillas,01:00,17:00,Mayores aportes laterales de agua a lo previsto.
 2026-05-31,DELAPAZ,D,Área Norte,01:00,22:00,Mayor demanda a la prevista.
 2026-05-31,ENDE DELBENI,D,Área Trinidad,12:00,24:00,Mayor demanda a la prevista.
+2026-06-01,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-06-01,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-06-01,DELAPAZ,D,Área Norte,09:00,21:00,Mayor demanda a la prevista.
+2026-06-01,CRE,D,Área Oriental,10:00,24:00,Mayor demanda a la prevista.
+2026-06-01,ENDE DELBENI,D,Área Trinidad,11:00,17:00,Mayor demanda a la prevista.
+2026-06-01,COBEE,G,Sistema Zongo,16:00,18:00,Menores aportes laterales de agua a lo previsto.
+2026-06-02,COBEE,G,Sistema Zongo,00:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2026-06-02,COBEE,G,Sistema Miguillas,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-06-02,ENDEG,G,Central eólica Warnes,01:00,07:00,"Mayor generación, condiciones climáticas favorables."
+2026-06-02,ENDEG,G,Central eólica San Julián,01:00,08:00,"Mayor generación, condiciones climáticas favorables."
+2026-06-02,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2026-06-02,ENDE DELBENI,D,Área Trinidad,07:00,24:00,Mayor demanda a la prevista.
+2026-06-02,ENDEG,G,Central eólica El Dorado,13:00,24:00,"Menor generación, condiciones climáticas adversas."
+2026-06-02,COBEE,G,Sistema Miguillas,15:00,23:00,Menores aportes laterales de agua a lo previsto.
+2026-06-02,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.

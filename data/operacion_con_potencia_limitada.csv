@@ -87999,3 +87999,10 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-05-29,CE,G,BUL01,08:35,18:06,0.00 MW,Restricción de gas a la central.
 2026-05-29,CE,G,BUL01,18:06,20:02,0.00 MW,Restricción de gas a la central.
 2026-05-29,CE,G,BUL01,20:02,22:49,0.00 MW,Restricción de gas a la central.
+2026-06-01,CE,G,BUL01,11:27,18:04,0.00 MW,Restricción de gas a la central.
+2026-06-01,CE,G,BUL01,18:04,19:25,0.00 MW,Restricción de gas a la central.
+2026-06-01,CE,G,BUL01,19:25,22:48,0.00 MW,Restricción de gas a la central.
+2026-06-02,GBE,G,GBE01,09:45,24:00,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-02,CE,G,BUL01,14:02,18:03,0.00 MW,Restricción de gas a la central.
+2026-06-02,CE,G,BUL01,18:03,19:21,0.00 MW,Restricción de gas a la central.
+2026-06-02,CE,G,BUL01,19:21,22:39,0.00 MW,Restricción de gas a la central.
