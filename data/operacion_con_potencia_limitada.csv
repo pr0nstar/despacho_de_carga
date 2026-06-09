@@ -88006,3 +88006,34 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-06-02,CE,G,BUL01,14:02,18:03,0.00 MW,Restricción de gas a la central.
 2026-06-02,CE,G,BUL01,18:03,19:21,0.00 MW,Restricción de gas a la central.
 2026-06-02,CE,G,BUL01,19:21,22:39,0.00 MW,Restricción de gas a la central.
+2026-06-03,GBE,G,GBE01,00:00,24:00,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-03,CE,G,BUL01,13:47,18:06,0.00 MW,Restricción de gas a la central.
+2026-06-03,CE,G,BUL01,18:06,21:29,0.00 MW,Restricción de gas a la central.
+2026-06-04,GBE,G,GBE01,00:00,24:00,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-04,ENDE GUARACACHI,G,GCH10,19:01,22:11,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-04,ENDE GUARACACHI,G,GCH12,19:01,22:11,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-04,ENDE GUARACACHI,G,GCH12,22:11,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-04,ENDE GUARACACHI,G,GCH10,22:11,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-05,ENDE GUARACACHI,G,GCH10,00:00,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-05,ENDE GUARACACHI,G,GCH12,00:00,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-05,GBE,G,GBE01,00:00,24:00,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-06,GBE,G,GBE01,00:00,08:45,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-06,ENDE GUARACACHI,G,GCH10,00:00,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-06,ENDE GUARACACHI,G,GCH12,00:00,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-06,GBE,G,GBE01,08:45,09:15,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-06,GBE,G,GBE01,09:15,15:00,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-06,GBE,G,GBE01,15:00,16:45,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-06,GBE,G,GBE01,16:45,17:15,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-06,GBE,G,GBE01,17:15,19:00,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-06,GBE,G,GBE01,19:00,19:30,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-06,GBE,G,GBE01,19:30,20:15,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-06,GBE,G,GBE01,20:15,21:15,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-06,GBE,G,GBE01,21:15,21:45,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-06,GBE,G,GBE01,21:45,24:00,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-07,GBE,G,GBE01,00:00,19:00,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-07,ENDE GUARACACHI,G,GCH10,00:00,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-07,ENDE GUARACACHI,G,GCH12,00:00,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-07,GBE,G,GBE01,19:00,20:30,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-07,GBE,G,GBE01,20:30,21:45,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-07,GBE,G,GBE01,21:45,22:30,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
+2026-06-07,GBE,G,GBE01,22:30,24:00,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.

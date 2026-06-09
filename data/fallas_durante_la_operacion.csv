@@ -102231,3 +102231,35 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-06-02,ENDEG,G,ORU17,06:54,24:00,"Falla, baja aislación en inversor.",Forzado,-,-,-
 2026-06-02,ENDEG,G,ORU13,06:54,24:00,"Falla, baja aislación en inversor.",Forzado,-,-,-
 2026-06-02,ENDE GUARACACHI,G,SJA02,18:15,19:15,"Falla en el arranque, falla en gobernador de arranque.",Forzado,-,-,-
+2026-06-03,COBEE,G,CAH01,13:24,16:25,"Disparo, pérdida de alimentación en bombas del sistema hidráulico.",Forzado,-,-,-
+2026-06-04,ENDE DELBENI,D,IM-54,00:15,00:16,"Contacto de animal (carachupa) con línea de M.T., 2.75 MW.",Forzado,-,-,-
+2026-06-04,ENDE,T,MOX-TRI115,02:34,02:34,"No determinada, opero relé diferencial de línea.",Forzado,-,-,170
+2026-06-04,ENDE GUARACACHI,G,GCH10,08:51,09:14,Retraso en el arranque.,Forzado,-,-,-
+2026-06-04,ELFEC,D,TRVTU23001,21:51,24:00,"No determinada, apertura del interruptor principal de M.T., 6.13 MW.",Forzado,-,-,-
+2026-06-05,CRE,D,TRYAP11502,00:22,09:47,"Contacto de ave con seccionador de M.T., apertura del interruptor principal de M.T., 2.9 MW.",Forzado,-,-,-
+2026-06-05,ENDEG,G,ORU04,06:52,07:09,Falla en comunicación del inversor.,Forzado,-,-,-
+2026-06-05,ENDEG,G,SJU02,12:45,13:03,Alta temperatura en convertidor.,Forzado,-,-,-
+2026-06-05,ENDE GUARACACHI,G,YUN-TYU02401,16:55,24:00,Transferencia de disparo.,Forzado,-,-,-
+2026-06-05,ENDE GUARACACHI,G,YUN01,16:55,24:00,"Disparo, desconexión de la línea LTA-TYU02401.",Forzado,-,-,-
+2026-06-05,ENDE GUARACACHI,G,SJA02,16:55,24:00,Desconexión de la línea LTA-TYU02401.,Forzado,-,-,-
+2026-06-05,ENDE GUARACACHI,G,SJA01,16:55,24:00,Desconexión de la línea LTA-TYU02401.,Forzado,-,-,-
+2026-06-05,ENDE GUARACACHI,G,YUN02,16:55,24:00,"Disparo, desconexión de la línea LTA-TYU02401.",Forzado,-,-,-
+2026-06-05,ENDE GUARACACHI,G,SJA-TYU02401,16:55,24:00,Transferencia de disparo.,Forzado,-,-,-
+2026-06-05,ENDE GUARACACHI,G,LTA-TYU02401,16:55,24:00,Falla en la mufla de la fase C.,Forzado,-,-,-
+2026-06-05,DELAPAZ,D,Chasquipampa,18:07,18:29,"Contacto de camión con línea de M.T, 2.35 MW.",Forzado,-,-,-
+2026-06-05,CRE,D,ALI_06_15,19:00,19:06,"No determinada, operó relé de sobrecorriente, 0.9 MW.",Forzado,-,-,-
+2026-06-05,ENDE CORANI,G,SIS05,19:40,20:14,"Disparo, anomalía en sensor de flujo de lubricación de cojinetes del generador.",Forzado,-,-,-
+2026-06-06,ENDEG,G,ORU10,06:53,24:00,Problemas de comunicaciones del inversor.,Forzado,-,-,-
+2026-06-06,ENDEG,G,ORU13,06:53,24:00,Problemas de comunicaciones del inversor.,Forzado,-,-,-
+2026-06-06,DELAPAZ,D,TUPAC KATARI,14:54,16:15,"Fuertes vientos, 3.12 MW.",Forzado,-,-,-
+2026-06-06,ENDE TRANSMISION,T,SEN-MAZ115,16:20,16:20,"No determinada, operó relé diferencial.",Forzado,-,-,171
+2026-06-06,ENDE TRANSMISION,T,KEN-SEN11502,16:20,16:20,"No determinada, operó relé diferencial.",Forzado,-,-,171
+2026-06-06,ENDE TRANSMISION,T,KEN-SEN11501,16:20,16:20,"No determinada, operó relé diferencial.",Forzado,-,-,171
+2026-06-06,ELFEC,D,T-2,19:11,24:00,"No determinada, 1.3 MW.",Forzado,-,-,-
+2026-06-06,ELFEC,D,V-3,19:11,24:00,"No determinada, 4.25 MW.",Forzado,-,-,-
+2026-06-06,ELFEC,D,T-4,19:11,24:00,"No determinada, 1.28 MW.",Forzado,-,-,-
+2026-06-06,ELFEC,D,V-2,19:11,24:00,"No determinada, 1.68 MW.",Forzado,-,-,-
+2026-06-07,DELAPAZ,D,CARURA,03:18,03:18,"No determinada, operó relé 50P, 0.26 MW.",Forzado,-,-,-
+2026-06-07,DELAPAZ,D,Huayna Potosí,08:31,08:52,"No determinada, operó relé 51P, 1.29 MW.",Forzado,-,-,-
+2026-06-07,COBEE,G,HUA02,09:57,11:18,"Disparo, falla en alimentación del regulador de velocidad.",Forzado,-,-,-
+2026-06-07,DELAPAZ,D,URUJARA,15:22,15:31,"Terceros, choque de vehículo con poste de media tensión, 0.49 MW.",Forzado,-,-,-
