@@ -102263,3 +102263,8 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-06-07,DELAPAZ,D,Huayna Potosí,08:31,08:52,"No determinada, operó relé 51P, 1.29 MW.",Forzado,-,-,-
 2026-06-07,COBEE,G,HUA02,09:57,11:18,"Disparo, falla en alimentación del regulador de velocidad.",Forzado,-,-,-
 2026-06-07,DELAPAZ,D,URUJARA,15:22,15:31,"Terceros, choque de vehículo con poste de media tensión, 0.49 MW.",Forzado,-,-,-
+2026-06-08,DELAPAZ,D,Industrial 1,07:29,07:29,"No determinada, operó relé 50N, 1.4 MW.",Forzado,-,-,-
+2026-06-08,DELAPAZ,D,ATAAC11502,12:35,15:29,Desconexión de emergencia por problemas en correa de cambiador de taps.,Forzado,-,-,-
+2026-06-08,COBEE,G,ZON,17:45,24:00,"Disparo, falla en servomotor de válvula principal.",Forzado,-,-,-
+2026-06-08,ENDE GUARACACHI,G,TRUNA11501,18:05,24:00,Opero relé 50/51 P.,Forzado,-,-,-
+2026-06-08,ENDE GUARACACHI,G,UNA01,18:05,24:00,Desconexión del transformador TRUNA11501.,Forzado,-,-,-

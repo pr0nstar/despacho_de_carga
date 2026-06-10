@@ -25441,3 +25441,14 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-06-07,ENDE CORANI,G,Central Eólica Qollpana,10:00,20:00,"Mayor generación, condiciones climáticas favorables."
 2026-06-07,ENDEG,G,Central Eólica El Dorado,10:00,23:00,"Mayor generación, condiciones climáticas favorables."
 2026-06-07,COBEE,G,Sistema Zongo,19:00,21:00,Menores aportes laterales de agua a lo previsto.
+2026-06-08,LAS LOMAS,CNR,Las Lomas,01:00,07:04,Trabajos de verificación de equipos.
+2026-06-08,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-06-08,ENDEG,G,Central eólica Warnes,01:00,16:00,"Menor generación, condiciones climáticas desfavorables."
+2026-06-08,ENDE DELBENI,D,Área Trinidad,01:00,18:00,Mayor demanda a la prevista.
+2026-06-08,ENDEG,G,Central eólica El Dorado,01:00,19:00,"Menor generación, condiciones climáticas desfavorables."
+2026-06-08,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-06-08,COBEE,G,Sistema Miguilla,02:00,05:00,Mayores aportes laterales de agua a lo previsto.
+2026-06-08,ENDEG,G,Central eólica San Julián,02:00,20:00,"Menor generación, condiciones climáticas desfavorables."
+2026-06-08,COBEE,G,Sistema Miguilla,15:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-06-08,ENDE CORANI,G,Central eólica Qollpana I y II,15:00,23:00,"Mayor generación, condiciones climáticas favorables."
+2026-06-08,ENDE CORANI,G,Misicuni,15:00,24:00,Reprogramación de ajuste de caudal río Chijllawiri.
