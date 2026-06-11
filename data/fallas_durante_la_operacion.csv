@@ -102268,3 +102268,6 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-06-08,COBEE,G,ZON,17:45,24:00,"Disparo, falla en servomotor de válvula principal.",Forzado,-,-,-
 2026-06-08,ENDE GUARACACHI,G,TRUNA11501,18:05,24:00,Opero relé 50/51 P.,Forzado,-,-,-
 2026-06-08,ENDE GUARACACHI,G,UNA01,18:05,24:00,Desconexión del transformador TRUNA11501.,Forzado,-,-,-
+2026-06-09,DELAPAZ,D,Bella Vista,17:20,18:18,"No determinada, operó relé 51N, 2.2 MW.",Forzado,-,-,-
+2026-06-09,DELAPAZ,D,Aduana,18:23,18:23,"No determinada, operó relé 50N, 1.82 MW.",Forzado,-,-,-
+2026-06-09,DELAPAZ,D,HUAYLLARA,23:15,23:15,"No determinada, operó relé 51N, 0.3 MW.",Forzado,-,-,-
