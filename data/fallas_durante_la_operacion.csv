@@ -102271,3 +102271,19 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-06-09,DELAPAZ,D,Bella Vista,17:20,18:18,"No determinada, operó relé 51N, 2.2 MW.",Forzado,-,-,-
 2026-06-09,DELAPAZ,D,Aduana,18:23,18:23,"No determinada, operó relé 50N, 1.82 MW.",Forzado,-,-,-
 2026-06-09,DELAPAZ,D,HUAYLLARA,23:15,23:15,"No determinada, operó relé 51N, 0.3 MW.",Forzado,-,-,-
+2026-06-10,DELAPAZ,D,HUAYLLARA,00:30,00:30,"No determinada, operó relé 51P, 0.3 MW.",Forzado,-,-,-
+2026-06-10,ENDEG,G,EDO01,01:22,24:00,Indisponible.,Forzado,-,-,-
+2026-06-10,ENDE DELBENI,D,SAN BORJA RURAL,02:00,02:01,"No determinada, operó protección de sobrecorriente, 0.23 MW.",Forzado,-,-,-
+2026-06-10,ENDE GUARACACHI,G,YUN-TYU02401,03:27,03:38,Operó protección de sobrecorriente.,Forzado,-,-,-
+2026-06-10,ENDE GUARACACHI,G,YUN02,03:27,03:55,Desconexión de la línea YUN-TYU02401.,Forzado,-,-,-
+2026-06-10,ENDE GUARACACHI,G,YUN01,03:27,03:55,Desconexión de la línea YUN-TYU02401.,Forzado,-,-,-
+2026-06-10,ENDE GUARACACHI,G,YUN-TYU02401,05:17,05:57,Fuertes vientos.,Forzado,-,-,-
+2026-06-10,ENDE GUARACACHI,G,YUN01,05:17,06:15,Desconexión de la línea YUN-TYU02401.,Forzado,-,-,-
+2026-06-10,ENDE GUARACACHI,G,YUN02,05:17,06:15,Desconexión de la línea YUN-TYU02401.,Forzado,-,-,-
+2026-06-10,ENDE DELBENI,D,SAN BORJA RURAL,05:28,05:29,"No determinada, operó protección de sobrecorriente, 0.23 MW.",Forzado,-,-,-
+2026-06-10,ENDE DELBENI,D,SAN BORJA RURAL,06:26,06:27,"No determinada, operó protección de sobrecorriente, 0.23 MW.",Forzado,-,-,-
+2026-06-10,ENDEG,G,ORU38,07:03,08:50,Falla de aislación.,Forzado,-,-,-
+2026-06-10,CESSA,D,C (LAGUNA),07:18,07:34,"No determinada, 2.0 MW.",Forzado,-,-,-
+2026-06-10,DELAPAZ,D,KALLUTACA,10:54,10:54,"No determinada, operó relé 51P, 0.62 MW.",Forzado,-,-,-
+2026-06-10,SEPSA,D,AGUA DULCE,14:15,14:19,"Fuertes vientos, 3.6 MW",Forzado,-,-,-
+2026-06-10,ENDE GUARACACHI,G,SJA02,17:10,18:55,"Falla en el arranque, falla en válvula 1100 a pie de turbina.",Forzado,-,-,-
