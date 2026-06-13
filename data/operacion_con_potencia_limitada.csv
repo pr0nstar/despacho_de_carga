@@ -88046,3 +88046,5 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-06-10,GBE,G,GBE01,00:00,05:25,0.00 MW,Bajo suministro de vapor por requerimiento propio del suministrador IAG.
 2026-06-10,ENDE GUARACACHI,G,GCH10,00:00,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
 2026-06-10,ENDE GUARACACHI,G,GCH12,00:00,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-11,ENDE GUARACACHI,G,GCH12,00:00,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-11,ENDE GUARACACHI,G,GCH10,00:00,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.

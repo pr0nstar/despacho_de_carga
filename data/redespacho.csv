@@ -25473,3 +25473,12 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-06-10,COBEE,G,Sistema Zongo,10:00,13:00,Menores aportes laterales de agua a lo previsto.
 2026-06-10,CRE,D,Área Oriental,11:00,17:00,Menor demanda a la prevista.
 2026-06-10,ENDEG,G,Central Eólica El Dorado,12:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-06-11,COBEE,G,Sistema Zongo,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-06-11,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-06-11,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-06-11,ENDEG,G,Central eólica San Julián,06:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2026-06-11,COBEE,G,Sistema Miguillas,08:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-06-11,ENDEG,G,Central eólica Warnes,10:00,20:00,"Mayor generación, condiciones climáticas favorables."
+2026-06-11,CRE,D,Área Oriental,12:00,17:00,Menor demanda a la prevista.
+2026-06-11,ENDE CORANI,G,Central eólica Qollpana I y II,12:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2026-06-11,ENDEG,G,Central eólica El Dorado,12:00,24:00,"Menor generación, condiciones climáticas adversas."

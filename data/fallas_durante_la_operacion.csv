@@ -102287,3 +102287,7 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-06-10,DELAPAZ,D,KALLUTACA,10:54,10:54,"No determinada, operó relé 51P, 0.62 MW.",Forzado,-,-,-
 2026-06-10,SEPSA,D,AGUA DULCE,14:15,14:19,"Fuertes vientos, 3.6 MW",Forzado,-,-,-
 2026-06-10,ENDE GUARACACHI,G,SJA02,17:10,18:55,"Falla en el arranque, falla en válvula 1100 a pie de turbina.",Forzado,-,-,-
+2026-06-11,ENDE DELBENI,D,ALI_110,03:58,04:09,"No determinada, 1.61 MW.",Forzado,-,-,-
+2026-06-11,SEPSA,D,Culpina,07:58,08:02,"No determinada, operó relé 50F, 0.36 MW.",Forzado,-,-,-
+2026-06-11,DELAPAZ,D,CUSICANCHA,09:52,09:52,"No determinada, operó relé 50P, 0.92 MW.",Forzado,-,-,-
+2026-06-11,ELFEC,D,A-8,11:55,24:00,"Deslizamiento de tierra a la salida del alimentador, la carga es transferida al alimentador A-B.",Forzado,-,-,-
