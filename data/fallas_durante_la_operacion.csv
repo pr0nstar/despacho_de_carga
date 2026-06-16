@@ -102291,3 +102291,25 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-06-11,SEPSA,D,Culpina,07:58,08:02,"No determinada, operó relé 50F, 0.36 MW.",Forzado,-,-,-
 2026-06-11,DELAPAZ,D,CUSICANCHA,09:52,09:52,"No determinada, operó relé 50P, 0.92 MW.",Forzado,-,-,-
 2026-06-11,ELFEC,D,A-8,11:55,24:00,"Deslizamiento de tierra a la salida del alimentador, la carga es transferida al alimentador A-B.",Forzado,-,-,-
+2026-06-12,DELAPAZ,D,CARANAVI,07:28,07:29,"Error por parte de personal de DELAPAZ durante transferencia de carga, 0.38 MW.",Forzado,-,-,-
+2026-06-12,ENDEG,G,ORU30,09:06,09:45,Falla de comunicación en el inversor.,Forzado,-,-,-
+2026-06-12,ENDEG,G,ORU35,09:47,10:23,"Parada de emergencia, alarma de baja aislación en el inversor.",Forzado,-,-,-
+2026-06-12,DELAPAZ,D,TILATA,13:47,13:47,"No determinada, operó relé 50N, 2.56 MW.",Forzado,-,-,-
+2026-06-12,SEPSA,D,ANDACABA,14:05,16:51,"Terceros, contacto de volqueta con línea de MT, 7.84 MW.",Forzado,-,-,-
+2026-06-12,DELAPAZ,D,Alto Lima,18:22,18:22,"No determinada, operó relé 50N, 2.0 MW.",Forzado,-,-,-
+2026-06-12,COBEE,G,CAH01,19:09,20:31,"Disparo, pérdida de alimentación en bombas de sistema hidráulico.",Forzado,-,-,-
+2026-06-13,SEPSA,D,Villacollo,09:20,09:27,"Falla en red de media tensión (complejo minero Royal), 8.5 MW.",Forzado,-,-,-
+2026-06-13,SEPSA,D,Villacollo,09:27,10:30,"Falla en red de media tensión (complejo minero Royal), 3.5 MW.",Forzado,-,-,-
+2026-06-13,ENDE ANDINA,G,WAR11,09:30,09:39,Retraso en el arranque.,Forzado,-,-,-
+2026-06-13,ENDE ANDINA,G,WAR11,09:51,15:22,"Disparo, falla en sistema de detección de flama principal.",Forzado,-,-,-
+2026-06-13,ENDE ANDINA,G,ERI52,14:47,18:07,"Disparo, problemas en alabe guía en la entrada del compresor.",Forzado,-,-,-
+2026-06-13,ENDE VALLE HERMOSO,G,VHE08,17:33,17:48,"Retraso en el arranque, falla en instrumento de detector de gas.",Forzado,-,-,-
+2026-06-13,ENDE VALLE HERMOSO,G,VHE03,18:08,18:10,Retraso en el arranque.,Forzado,-,-,-
+2026-06-13,ENDE VALLE HERMOSO,G,VHE02,18:54,18:57,Retraso en el arranque.,Forzado,-,-,-
+2026-06-13,DELAPAZ,D,Pasankeri,19:20,20:03,"No determinada, operó relé 50N, 2.4 MW.",Forzado,-,-,-
+2026-06-13,ENDE DELBENI,D,YUCUMO CIUDAD,21:10,21:10,"No determinada, operó relé 50N, 0.66 MW.",Forzado,-,-,-
+2026-06-14,ENDE GUARACACHI,G,UYU15,07:21,11:58,Bajo nivel de aceite del transformador.,Forzado,-,-,-
+2026-06-14,COBEE,G,CHO01,09:24,10:01,"Disparo, operó protección de potencia inversa.",Forzado,-,-,-
+2026-06-14,DELAPAZ,D,IXIAMAS,12:42,12:42,"No determinada, operó relé 51N, 0.2 MW.",Forzado,-,-,-
+2026-06-14,DELAPAZ,D,TRTEM06902,20:28,20:31,"Desconexión de emergencia, revisión de interruptor de alimentador Pasankeri, 4.87 MW.",Forzado,-,-,-
+2026-06-14,DELAPAZ,D,Pasankeri,20:28,24:00,"No determinada, interruptor en mal estado.",Forzado,-,-,-

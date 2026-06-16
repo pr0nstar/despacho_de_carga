@@ -88048,3 +88048,26 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-06-10,ENDE GUARACACHI,G,GCH12,00:00,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
 2026-06-11,ENDE GUARACACHI,G,GCH12,00:00,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
 2026-06-11,ENDE GUARACACHI,G,GCH10,00:00,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-12,ENDE GUARACACHI,G,GCH12,00:00,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-12,ENDE GUARACACHI,G,GCH10,00:00,24:00,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-13,ENDE GUARACACHI,G,GCH10,00:00,00:13,0.00 MW,Falta de sal para el ablandador de agua de torre de enfriamiento.
+2026-06-13,ENDE ANDINA,G,WAR32,08:49,15:12,0.00 MW,Filtro de aire saturado.
+2026-06-13,ENDE ANDINA,G,WAR31,08:49,15:12,0.00 MW,Filtro de aire saturado de la unidad WAR32.
+2026-06-13,ENDE ANDINA,G,WAR30,08:49,15:12,0.00 MW,Filtro de aire saturado de la unidad WAR32.
+2026-06-13,ENDE ANDINA,G,WAR21,09:35,13:53,0.00 MW,Filtro de aire saturado.
+2026-06-13,ENDE ANDINA,G,ERI52,14:13,14:20,0.00 MW,Problemas en alabe guía en la entrada del compresor de la unidad ERI52.
+2026-06-13,ENDE ANDINA,G,ERI51,14:13,14:20,0.00 MW,Problemas en alabe guía en la entrada del compresor de la unidad ERI52.
+2026-06-13,ENDE ANDINA,G,ERI50,14:13,14:20,0.00 MW,Problemas en alabe guía en la entrada del compresor de la unidad ERI52.
+2026-06-13,ENDE ANDINA,G,ERI51,14:20,14:40,0.00 MW,Problemas en alabe guía en la entrada del compresor de la unidad ERI52.
+2026-06-13,ENDE ANDINA,G,ERI52,14:20,14:40,0.00 MW,Problemas en alabe guía en la entrada del compresor de la unidad ERI52.
+2026-06-13,ENDE ANDINA,G,ERI50,14:20,14:40,0.00 MW,Problemas en alabe guía en la entrada del compresor de la unidad ERI52.
+2026-06-13,ENDE ANDINA,G,ERI52,14:40,14:47,0.00 MW,Problemas en alabe guía en la entrada del compresor de la unidad ERI52.
+2026-06-13,ENDE ANDINA,G,ERI51,14:40,14:47,0.00 MW,Problemas en alabe guía en la entrada del compresor de la unidad ERI52.
+2026-06-13,ENDE ANDINA,G,ERI50,14:40,14:47,0.00 MW,Problemas en alabe guía en la entrada del compresor de la unidad ERI52.
+2026-06-13,CE,G,BUL01,15:04,15:25,0.00 MW,Restricción de gas a la central.
+2026-06-13,CE,G,BUL01,15:25,15:40,0.00 MW,Restricción de gas a la central.
+2026-06-13,CE,G,BUL01,15:40,17:50,0.00 MW,Restricción de gas a la central.
+2026-06-13,CE,G,BUL01,17:50,18:13,0.00 MW,Restricción de gas a la central.
+2026-06-13,CE,G,BUL01,18:13,18:32,0.00 MW,Restricción de gas a la central.
+2026-06-13,CE,G,BUL01,18:32,22:20,0.00 MW,Restricción de gas a la central.
+2026-06-13,CE,G,BUL01,22:20,23:26,0.00 MW,Restricción de gas a la central.

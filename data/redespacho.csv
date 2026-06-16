@@ -25482,3 +25482,26 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-06-11,CRE,D,Área Oriental,12:00,17:00,Menor demanda a la prevista.
 2026-06-11,ENDE CORANI,G,Central eólica Qollpana I y II,12:00,18:00,"Mayor generación, condiciones climáticas favorables."
 2026-06-11,ENDEG,G,Central eólica El Dorado,12:00,24:00,"Menor generación, condiciones climáticas adversas."
+2026-06-12,EMDEECRUZ,D,EMDEECRUZ,00:00,05:00,Menor demanda por falta de materia prima a causa de bloqueos.
+2026-06-12,LAS LOMAS,CNR,Las Lomas,00:00,06:00,Menor demanda por falta de materia prima.
+2026-06-12,COBEE,G,Sistema Zongo,00:00,10:00,Mayores aportes laterales de agua a lo previsto.
+2026-06-12,CRE,D,Área Oriental,00:00,18:00,Menor demanda a la prevista.
+2026-06-12,ENDE DELBENI,D,Área Trinidad,00:00,24:00,Menor demanda a la prevista.
+2026-06-12,COBEE,G,Sistema Miguillas,02:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-06-12,COBEE,G,Sistema Miguillas,09:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-06-12,COBEE,G,Sistema Zongo,19:00,23:00,Mayores aportes laterales de agua a lo previsto.
+2026-06-13,EMDEECRUZ,D,EMDEECRUZ,00:00,04:20,Falta de insumos y desabastecimiento de material por bloqueos.
+2026-06-13,SEPSA,D,Área Potosí,00:00,24:00,Menor demanda a la prevista.
+2026-06-13,SETAR,D,Área Tarija,00:00,24:00,Mayor demanda a la prevista.
+2026-06-13,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-06-13,ENDE CORANI,G,Central Eólica Qollpana I y II,15:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-06-13,CESSA,D,Área Sucre,18:00,24:00,Mayor demanda a la prevista.
+2026-06-13,COBEE,G,Sistema Zongo,21:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-06-14,COBEE,G,Sistema Miguillas,01:00,06:00,Menores aportes laterales de agua a lo previsto.
+2026-06-14,ENDEG,G,Central Eólica San Julián,01:00,13:00,"Mayor generación, condiciones climáticas favorables."
+2026-06-14,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-06-14,ENDE DELBENI,D,Área Trinidad,01:00,17:00,Mayor demanda a la prevista.
+2026-06-14,ENDEG,G,Central Eólica Warnes,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-06-14,ENDEG,G,Central Eólica El Dorado,02:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-06-14,ENDE CORANI,G,Central Eólica Qollpana,09:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2026-06-14,DELAPAZ,D,Área Norte,14:00,20:00,Mayor demanda a la prevista.
