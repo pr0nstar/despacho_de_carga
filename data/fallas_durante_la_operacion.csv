@@ -102313,3 +102313,4 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-06-14,DELAPAZ,D,IXIAMAS,12:42,12:42,"No determinada, operó relé 51N, 0.2 MW.",Forzado,-,-,-
 2026-06-14,DELAPAZ,D,TRTEM06902,20:28,20:31,"Desconexión de emergencia, revisión de interruptor de alimentador Pasankeri, 4.87 MW.",Forzado,-,-,-
 2026-06-14,DELAPAZ,D,Pasankeri,20:28,24:00,"No determinada, interruptor en mal estado.",Forzado,-,-,-
+2026-06-15,ENDE DELBENI,D,SAN BORJA CIUDAD,10:25,10:25,"No determinada, operó relé 51N, 0.95 MW.",Forzado,-,-,-
