@@ -153,8 +153,6 @@ def do_update():
     df = df.astype(float)
     df = df.rename('demanda').reset_index()
 
-    df.to_parquet('/tmp/asdqwe.parquet')
-
     do_merge(df)
 
 
