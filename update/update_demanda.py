@@ -1,7 +1,6 @@
 import os
 import io
 import glob
-import zipfile
 import unidecode
 
 import requests
@@ -14,8 +13,8 @@ import pandas as pd
 # consts
 ###############################################################################
 
-URL = 'https://www.cndc.bo/media/archivos/boletindiario/deener_{:02n}{:02n}{}.zip'
-FN = './dump/demanda/{}{:02n}{:02n}.zip'
+URL = 'https://www.cndc.bo/wp-content/uploads/mem/estadisticas/diaria/{year}/{month:02n}/deener_{day:02n}{month:02n}{year_short}.xlsx'
+FN = './dump/demanda/{}{:02n}{:02n}.xlsx'
 DATA = './data_demanda'
 CSV = './data_demanda/{}.csv'
 
@@ -25,7 +24,12 @@ CSV = './data_demanda/{}.csv'
 ###############################################################################
 
 def download(down_date):
-    down_url = URL.format(down_date.day, down_date.month, str(down_date.year)[-2:])
+    down_url = URL.format(
+        day=down_date.day,
+        month=down_date.month,
+        year=down_date.year,
+        year_short=str(down_date.year)[-2:],
+    )
     down_fn = FN.format(str(down_date.year)[-2:], down_date.month, down_date.day)
 
     if os.path.isfile(down_fn):
@@ -48,12 +52,7 @@ def download(down_date):
 
 
 def do_process(fn):
-    with zipfile.ZipFile(fn, 'r') as original_zip:
-        file_list = original_zip.namelist()
-        with original_zip.open(file_list[0], 'r') as first_file_handle:
-            ff_content = first_file_handle.read()
-
-    df = pd.read_excel(io.BytesIO(ff_content), header=None)
+    df = pd.read_excel(fn, header=None)
     df = df.iloc[6:]
 
     df = df.T.dropna(how='all').T.dropna(how='all')
@@ -153,6 +152,8 @@ def do_update():
     df = pd.concat(df)
     df = df.astype(float)
     df = df.rename('demanda').reset_index()
+
+    df.to_parquet('/tmp/asdqwe.parquet')
 
     do_merge(df)
 
