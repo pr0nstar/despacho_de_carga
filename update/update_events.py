@@ -12,13 +12,8 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 # consts & exceptions
 ###############################################################################
 
-URL = 'https://www.cndc.bo/eventos/eventos_mes.php'
-DATA = {
-    'tipo': 63,
-    'mesx': 9,
-    'aniox': 2025,
-    'btn': 'Buscar',
-}
+BASE_URL = 'https://www.cndc.bo/wp-json/cndc/v1/eventos'
+
 TIPOS = {
     45: 'eventos_mayores',
     62: 'instalaciones_en_mantenimiento',
@@ -30,6 +25,18 @@ TIPOS = {
     65: 'redespacho',
     66: 'otros_eventos'
 }
+TIPOS_IMAP = {
+    'eventos_mayores': 45,
+    'mantenimiento': 62,
+    'fallas': 24,
+    'no_disponibles': 23,
+    'potencia_limitada': 63,
+    'restriccion_transmision': 61,
+    'reemplazos': 26,
+    'redespacho': 65,
+    'otros': 66
+}
+
 COLUMNS = {
     23: ['fecha', 'agente', 'cat', 'componente', 'de_hrs', 'a_hrs', 'causa'],
     26: ['fecha', 'agente', 'cat', 'componente', 'de_hrs', 'a_hrs', 'descripcion'],
@@ -41,55 +48,12 @@ COLUMNS = {
     66: ['fecha', 'de_hrs', 'a_hrs', 'descripcion'],
     24: ['fecha', 'agente', 'cat', 'componente', 'de_hrs', 'a_hrs', 'causa', 'tipo', 'edac', 'n_inf', 'agente_afectado'],
 }
-DAY_DIFF = 5
-
-
-class RequestException(Exception):
-    'Max Retry Exception'
-    pass
-
-
-class ProcessException(Exception):
-    'No table exception'
-    pass
+DAY_DIFF = 1
 
 
 ###############################################################################
 # fetch & process
 ###############################################################################
-
-MAXRETRY = 3
-def do_request(data, _retry=1):
-    if _retry > MAXRETRY:
-        raise RequestException('max retry reached for {}.'.format(data))
-
-    try:
-        return requests.post(URL, data=data, timeout=60)
-    except:
-        time.sleep(2 ** _retry)
-        return do_request(data, _retry + 1)
-
-
-def do_process(req, tipo):
-    soup = BeautifulSoup(req.content, 'lxml')
-    for th in soup.find_all('th'):
-        th.name = 'td'
-
-    try:
-        df = pd.read_html(str(soup), header=None)[2]
-    except Exception as e:
-        raise ProcessException(e)
-
-    df = df.T.dropna(how='all').T.dropna(how='all')
-    df.columns = COLUMNS[tipo]
-
-    if not df.iloc[0, 0][0].isdigit():
-        df = df.iloc[1:]
-
-    df['fecha'] = pd.to_datetime(df['fecha'], dayfirst=True)
-
-    return df
-
 
 def do_merge(dft, tipo):
     dft = dft.convert_dtypes()
@@ -107,27 +71,52 @@ def do_merge(dft, tipo):
     dfs.to_csv(fn, index=False)
 
 
-def do_update(year, month):
-    data = DATA.copy()
+def latest_date():
+    fn = './data/otros_eventos.csv'
+    nrows = sum(1 for _ in open(fn, 'r'))
+    lrow = pd.read_csv(filename, skiprows=nrows - 1, header=None)
 
-    data['aniox'] = year
-    data['mesx'] = month
+    return pd.to_datetime(lrow.iloc[0, 0])
 
-    for tipo in TIPOS.keys():
-        data['tipo'] = tipo
-        try:
-            req = do_request(data)
-            dft = do_process(req, tipo)
 
-        except RequestException as e:
-            print('Max requests reached for {}'.format(data['tipo']))
-            continue
+def do_update():
+    ldate = latest_date() - pd.Timedelta(days=1)
 
-        except ProcessException as e:
-            print('No `{tipo}` data available for {aniox}/{mesx}'.format(**data))
-            continue
+    events_df = []
+    for cdate in pd.date_range(
+        pd.to_datetime(last_row.iloc[0, 0]) - pd.Timedelta(days=DAY_DIFF),
+        pd.to_datetime('now') - pd.Timedelta(days=DAY_DIFF),
+        freq='D'
+    ):
+        req = requests.get(
+            BASE_URL, params={'fecha', cdate.strftime('%Y-%m-%d')}
+        )
 
-        do_merge(dft, tipo)
+        dated_events_df = {
+            TIPOS_IMAP[_['seccion']]: pd.DataFrame(_['filas']).assign(fecha=cdate)
+            for _ in req.json()['secciones']
+        }
+        events_df.append(dated_events_df)
+
+    events_df = pd.DataFrame(events_df)
+
+    for event_type in events_df.columns:
+        event_df = events_df[event_type]
+        event_df = pd.concat(event_df.values, ignore_index=True)
+
+        if event_type in [26, 65, 66]:
+            event_df = event_df.drop(
+                columns='descripcion'
+            ).rename(columns={'causa': 'descripcion'})
+
+        if event_type == 65:
+            event_df = event_df.drop(
+                columns='componente'
+            ).rename(columns={'central_sistema': 'componente'})
+
+        event_df = event_df.reindex(COLUMNS[event_type], axis=1)
+
+        do_merge(event_df, event_type)
 
 
 ###############################################################################
@@ -135,5 +124,4 @@ def do_update(year, month):
 ###############################################################################
 
 if __name__ == '__main__':
-    now = pd.to_datetime('now') - pd.DateOffset(days=DAY_DIFF)
-    do_update(now.year, now.month)
+    do_update()
