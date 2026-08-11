@@ -56,6 +56,9 @@ DAY_DIFF = 1
 ###############################################################################
 
 def do_merge(dft, tipo):
+    if not len(dft):
+        return
+
     dft = dft.convert_dtypes()
     fn = './data/{}.csv'.format(TIPOS[tipo])
 
@@ -74,7 +77,7 @@ def do_merge(dft, tipo):
 def latest_date():
     fn = './data/otros_eventos.csv'
     nrows = sum(1 for _ in open(fn, 'r'))
-    lrow = pd.read_csv(filename, skiprows=nrows - 1, header=None)
+    lrow = pd.read_csv(fn, skiprows=nrows - 1, header=None)
 
     return pd.to_datetime(lrow.iloc[0, 0])
 
@@ -84,12 +87,12 @@ def do_update():
 
     events_df = []
     for cdate in pd.date_range(
-        pd.to_datetime(last_row.iloc[0, 0]) - pd.Timedelta(days=DAY_DIFF),
+        ldate - pd.Timedelta(days=DAY_DIFF),
         pd.to_datetime('now') - pd.Timedelta(days=DAY_DIFF),
         freq='D'
     ):
         req = requests.get(
-            BASE_URL, params={'fecha', cdate.strftime('%Y-%m-%d')}
+            BASE_URL, params={'fecha': cdate.strftime('%Y-%m-%d')}
         )
 
         dated_events_df = {
