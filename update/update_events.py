@@ -94,10 +94,14 @@ def do_update():
         req = requests.get(
             BASE_URL, params={'fecha': cdate.strftime('%Y-%m-%d')}
         )
+        req = req.json()
+
+        if ('sin_datos' in req) and req['sin_datos']:
+            continue
 
         dated_events_df = {
             TIPOS_IMAP[_['seccion']]: pd.DataFrame(_['filas']).assign(fecha=cdate)
-            for _ in req.json()['secciones']
+            for _ in req['secciones']
         }
         events_df.append(dated_events_df)
 
