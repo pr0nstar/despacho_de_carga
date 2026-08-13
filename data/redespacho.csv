@@ -26026,3 +26026,15 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-08-10,COBEE,G,Sistema Miguillas,15:00,17:00,Menores aportes laterales de agua a lo previsto.
 2026-08-10,HB,G,Sistema Taquesi,17:00,23:00,"Mayor generación, disponibilidad de unidad YAN."
 2026-08-10,COBEE,G,Sistema Zongo,20:00,23:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-11,COBEE,G,Sistema Zongo,00:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-11,ENDEG,G,Central Eólica San Julián,01:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-11,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-08-11,COBEE,G,Sistema Miguillas,02:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-11,COBEE,G,Sistema Miguillas,07:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-08-11,ENDE GUARACACHI,G,Central Solar Uyuni,08:00,17:00,"Menor generación, nevada."
+2026-08-11,COBEE,G,Sistema Zongo,10:00,12:00,Menores aportes laterales de agua a lo previsto.
+2026-08-11,CRE,D,Área Oriental,10:00,19:00,Menor demanda a la prevista.
+2026-08-11,ENDE CORANI,G,Central Eólica Qollpana I y II,12:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-11,COBEE,G,Sistema Zongo,15:00,20:00,Menores aportes laterales de agua a lo previsto.
+2026-08-11,HB,G,Sistema Taquesi,16:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-11,DELAPAZ,D,Área Norte,19:00,22:00,Mayor demanda a la prevista.
