@@ -88895,3 +88895,24 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-08-11,AGUAÍ ENERGÍA,G,AGU01,21:30,24:00,2.84 MW,Baja presión de vapor en caldero.
 2026-08-11,ENDE GUARACACHI,G,UNA01,22:00,24:00,10.39 MW,Baja presión de vapor en caldero debido a bajo suministro de bagazo.
 2026-08-11,AGUAÍ ENERGÍA,G,AGU02,22:15,24:00,51.25 MW,Baja presión de vapor en caldero.
+2026-08-12,ENDE GUARACACHI,G,GCH10,00:00,00:04,56.10 MW,Alta presión en ductos de escape.
+2026-08-12,ENDE GUARACACHI,G,GCH12,00:00,00:04,38.20 MW,Alta temperatura de expansión relativa en carcasa.
+2026-08-12,AGUAÍ ENERGÍA,G,AGU02,00:00,18:20,52.80 MW,Baja presión de vapor en caldero.
+2026-08-12,AGUAÍ ENERGÍA,G,AGU01,00:00,24:00,2.10 MW,Baja presión de vapor en caldero.
+2026-08-12,CE,G,BUL01,00:00,24:00,39.00 MW,Restricción de gas a la central.
+2026-08-12,ENDE GUARACACHI,G,UNA01,00:00,24:00,10.11 MW,Baja presión de vapor en caldero debido a bajo suministro de bagazo.
+2026-08-12,GBE,G,GBE01,00:00,24:00,6.00 MW,Baja presión de vapor en caldero debido a bajo suministro de bagazo.
+2026-08-12,ENDE GUARACACHI,G,GCH10,00:04,01:11,40.00 MW,Alta temperatura en ductos de escape.
+2026-08-12,ENDE ANDINA,G,WAR10,14:35,14:48,34.80 MW,Alta temperatura en caldero de las unidades WAR11 y WAR12
+2026-08-12,ENDE ANDINA,G,WAR11,14:35,14:48,42.20 MW,Alta temperatura en caldero de las unidades WAR11 y WAR12
+2026-08-12,ENDE ANDINA,G,WAR12,14:35,14:48,43.90 MW,Alta temperatura en caldero de las unidades WAR11 y WAR12
+2026-08-12,ENDE ANDINA,G,WAR21,14:35,14:49,41.00 MW,Alta temperatura en caldero de las unidades WAR21 y WAR22
+2026-08-12,ENDE ANDINA,G,WAR22,14:35,14:49,41.00 MW,Alta temperatura en caldero de las unidades WAR21 y WAR22
+2026-08-12,ENDE ANDINA,G,WAR20,14:35,14:49,37.50 MW,Alta temperatura en caldero de las unidades WAR21 y WAR22
+2026-08-12,ENDE ANDINA,G,WAR12,14:48,16:25,32.50 MW,Indisponibilidad de la unidad WAR10
+2026-08-12,ENDE ANDINA,G,WAR11,14:48,16:25,32.50 MW,Indisponibilidad de la unidad WAR10
+2026-08-12,ENDE ANDINA,G,WAR21,14:49,16:25,32.50 MW,Indisponibilidad de la unidad WAR20
+2026-08-12,ENDE ANDINA,G,WAR22,14:49,16:25,32.50 MW,Indisponibilidad de la unidad WAR20
+2026-08-12,HB,G,CHJ,16:06,16:10,1.10 MW,Desconexión del sistema de control de presa Cacapi.
+2026-08-12,AGUAÍ ENERGÍA,G,AGU02,18:20,22:23,51.09 MW,Baja presión de vapor en caldero.
+2026-08-12,AGUAÍ ENERGÍA,G,AGU02,22:23,24:00,52.80 MW,Baja presión de vapor en caldero.
