@@ -26050,3 +26050,41 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-08-12,ENDEG,G,Central Misicuni,11:06,18:00,Menor generación por control de nivel de embalse.
 2026-08-12,ENDEG,G,Central eólica El Dorado,13:00,21:00,"Mayor generación, condiciones climáticas favorables."
 2026-08-12,ENDEG,G,Central eólica Warnes,15:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-08-13,COBEE,G,Sistema Zongo,00:00,08:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-13,COBEE,G,Sistema Miguillas,00:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-08-13,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-08-13,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-08-13,EMSC,CNR,Minera San Cristóbal,01:06,01:37,"Reducción de carga de 45.4 a 35 MW, debido a parada de correa 220-CV-010."
+2026-08-13,ENDEG,G,Central eólica San Julián,04:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-13,ENDE CORANI,G,Central eólica Qollpana I y II,05:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-13,COBEE,G,Sistema Zongo,14:00,18:00,Menores aportes laterales de agua a lo previsto.
+2026-08-14,COBEE,G,Sistema Zongo,00:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-14,DELAPAZ,D,Área Norte,00:00,24:00,Mayor demanda a la prevista.
+2026-08-14,ENDE DELBENI,D,Área Trinidad,00:00,24:00,Menor demanda a la prevista.
+2026-08-14,COBEE,G,Sistema Miguillas,00:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-08-14,ENDEG,G,Central eólica San Julián,02:00,10:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-14,ENDEG,G,Central eólica Warnes,02:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-14,ENDE CORANI,G,Central eólica Qollpana I y II,03:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-14,ENDEG,G,Central solar Oruro I y II,08:00,12:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-14,COBEE,G,Sistema Zongo,10:00,12:00,Menores aportes laterales de agua a lo previsto.
+2026-08-14,ENDEG,G,Central eólica El Dorado,14:00,20:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-15,DELAPAZ,D,Área Norte,00:00,15:00,Mayor demanda a la prevista.
+2026-08-15,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-15,ENDEG,G,Central Solar Oruro I y II,08:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-15,CRE,D,Área Oriental,09:00,24:00,Mayor demanda a la prevista.
+2026-08-15,ENDE DELBENI,D,Área Trinidad,12:00,24:00,Mayor demanda a la prevista.
+2026-08-15,COBEE,G,Sistema Miguillas,15:00,23:00,Menores aportes laterales de agua a lo previsto.
+2026-08-15,ENDEG,G,Central Eólica El Dorado,15:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-15,COBEE,G,Sistema Zongo,16:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-08-15,DELAPAZ,D,Área Norte,19:00,24:00,Mayor demanda a la prevista.
+2026-08-16,ENDE CORANI,G,Central Eólica Qollpana I y II,01:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-16,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-08-16,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-08-16,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2026-08-16,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2026-08-16,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-16,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-16,COBEE,G,Sistema Miguillas,02:00,11:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-16,COBEE,G,Sistema Zongo,07:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-16,ENDEG,G,Central Solar Oruro I y II,14:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-16,COBEE,G,Sistema Miguillas,18:00,23:00,Menores aportes laterales de agua a lo previsto.
