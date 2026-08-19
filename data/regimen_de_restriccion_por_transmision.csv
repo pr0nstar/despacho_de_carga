@@ -4070,3 +4070,6 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa
 2026-08-16,ENDE ANDINA,G,SUR10,15:44,17:11,Reducción de potencia de la unidad CCSUR10 a 72.0 MW por límite de transferencia en la línea PUN-SUC230 kV.
 2026-08-16,ENDE ANDINA,G,SUR40,16:25,17:11,Reducción de potencia de la unidad CCSUR40 a 105.0 MW por límite de transferencia en la línea PUN-SUC230 kV.
 2026-08-16,ENDE ANDINA,G,SUR10,22:55,24:00,Reducción de potencia de la unidad CCSUR10 a 105 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-08-17,ENDE ANDINA,G,SUR10,00:00,00:08,Reducción de potencia de la unidad CCSUR10 a 105 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-08-17,ENDE ANDINA,G,SUR10,00:08,07:15,Reducción de potencia de la unidad CCSUR10 a 95 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-08-17,ENDE ANDINA,G,SUR10,22:44,23:43,Reducción de potencia de la unidad CCSUR10 a 100 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.

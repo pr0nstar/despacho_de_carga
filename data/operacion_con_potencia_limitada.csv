@@ -88974,3 +88974,18 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-08-16,ENDE GUARACACHI,G,UNA01,22:45,24:00,10.47 MW,Baja presión de vapor en caldero debido a bajo suministro de bagazo.
 2026-08-16,AGUAÍ ENERGÍA,G,AGU01,23:15,23:45,3.55 MW,Baja presión de vapor en caldero.
 2026-08-16,AGUAÍ ENERGÍA,G,AGU01,23:45,24:00,2.33 MW,Baja presión de vapor en caldero.
+2026-08-17,AGUAÍ ENERGÍA,G,AGU01,00:00,02:30,2.45 MW,Baja presión de vapor en caldero.
+2026-08-17,ENDE GUARACACHI,G,UNA01,00:00,08:25,10.11 MW,Baja presión de vapor en caldero debido a bajo suministro de bagazo.
+2026-08-17,AGUAÍ ENERGÍA,G,AGU02,00:00,18:00,52.45 MW,Baja presión de vapor en caldero.
+2026-08-17,CE,G,BUL01,00:00,23:43,39.00 MW,Restricción de gas a la central.
+2026-08-17,ENDE GUARACACHI,G,GCH10,00:00,24:00,43.50 MW,Alta temperatura en ductos de escape.
+2026-08-17,GBE,G,GBE01,00:00,24:00,6.00 MW,Baja presión de vapor en caldero debido a bajo suministro de bagazo.
+2026-08-17,AGUAÍ ENERGÍA,G,AGU01,02:30,05:15,2.52 MW,Baja presión de vapor en caldero.
+2026-08-17,AGUAÍ ENERGÍA,G,AGU01,05:15,10:45,2.38 MW,Baja presión de vapor en caldero.
+2026-08-17,ENDE GUARACACHI,G,UNA01,08:25,20:03,4.00 MW,Baja presión de vapor en caldero.
+2026-08-17,AGUAÍ ENERGÍA,G,AGU01,10:45,11:30,2.03 MW,Baja presión de vapor en caldero.
+2026-08-17,AGUAÍ ENERGÍA,G,AGU01,11:30,24:00,2.22 MW,Baja presión de vapor en caldero.
+2026-08-17,AGUAÍ ENERGÍA,G,AGU02,18:00,22:00,51.04 MW,Baja presión de vapor en caldero.
+2026-08-17,ENDE GUARACACHI,G,UNA01,20:03,20:30,8.40 MW,Baja presión de vapor en caldero.
+2026-08-17,ENDE GUARACACHI,G,UNA01,20:30,24:00,10.17 MW,Baja presión de vapor en caldero.
+2026-08-17,AGUAÍ ENERGÍA,G,AGU02,22:00,24:00,52.32 MW,Baja presión de vapor en caldero.
