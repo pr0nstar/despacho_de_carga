@@ -4543,5 +4543,8 @@ fecha,descripcion,area,agente_afectado,cat,de_hrs,a_hrs,mw_desc,causa
 2025-09-16,Desconexión de Carga Manual,SANTA CRUZ,CRE,D,15:43,15:53,0.0,"Indisponibilidad de las unidades GCH02, WAR11, WAR22. Potencia limitada de CCWAR21, CCWAR12 y CCWAR40 y sobrecarga en la línea en 230 kV Carrasco - Yapacani, restitución de 5 MW adicionales."
 2025-09-16,Desconexión de Carga Manual,SANTA CRUZ,CRE,D,15:53,15:59,0.0,"Indisponibilidad de las unidades GCH02, WAR11, WAR22. Potencia limitada de CCWAR21, CCWAR12 y CCWAR40 y sobrecarga en la línea en 230 kV Carrasco - Yapacani, restitución de 11.1 MW adicionales."
 2025-09-16,Desconexión de Carga Manual,SANTA CRUZ,CRE,D,16:40,16:42,0.0,"Indisponibilidad de las unidades GCH02, WAR11, WAR22. disparo de la unidad GCH11, Potencia limitada de CCWAR21, CCWAR12 y CCWAR40 y sobrecarga en la línea en 230 kV Carrasco - Yapacani."
-2026-01-18,Desconexión de Carga,POTOSI,EMSC,CNR,22:52,22:52,0.00,"Desconexión de la línea SAN-SUC230, operación del esquema interdisparos."
-2026-01-18,Desconexión de Carga,POTOSI,SEPSA,D,22:52,22:52,0.00,"Desconexión de la línea SAN-SUC230, operación del esquema interdisparos."
+2026-01-18,Desconexión de Carga,POTOSI,EMSC,CNR,22:52,22:52,0.0,"Desconexión de la línea SAN-SUC230, operación del esquema interdisparos."
+2026-01-18,Desconexión de Carga,POTOSI,SEPSA,D,22:52,22:52,0.0,"Desconexión de la línea SAN-SUC230, operación del esquema interdisparos."
+2026-08-18,Desconexión de Carga,COCHABAMBA,ELFEC,,11:31,11:39,4.83,Desconexión de la línea en 115 kV Sacaba – Paracaya.
+2026-08-18,Desconexión de Carga,COCHABAMBA,ELFEC,,12:08,12:15,11.04,Desconexión de la línea en 115 kV Sacaba – Paracaya.
+2026-08-18,Desconexión de Carga,COCHABAMBA,ELFEC,,12:08,16:35,1.5,Desconexión de la línea en 115 kV Sacaba – Paracaya.

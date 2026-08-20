@@ -26102,3 +26102,14 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-08-17,ENDEG,G,Central Solar Oruro I y II,12:00,18:00,"Menor generación, condiciones climáticas desfavorables."
 2026-08-17,ENDEG,G,Central Eólica Warnes,12:00,24:00,"Mayor generación, condiciones climáticas favorables."
 2026-08-17,COBEE,G,Sistema Zongo,15:00,21:00,Menores aportes laterales de agua a lo previsto.
+2026-08-18,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-18,ENDEG,G,Central Eólica El Dorado,01:00,20:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-18,DELAPAZ,D,Área Norte,01:00,22:00,Mayor demanda a la prevista.
+2026-08-18,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-18,HB,G,Sistema Taquesi,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-18,ENDE CORANI,G,Sistema Corani,07:45,17:30,Mayores aportes laterales en rio Vinto.
+2026-08-18,ENDE GUARACACHI,G,Central Solar Uyuni,08:00,17:00,"Menor generación, condiciones climáticas desfavorables (Nevada)."
+2026-08-18,ENDEG,G,Central Solar Oruro,08:00,18:00,"Menor generación, condiciones climáticas desfavorables (Nevada)."
+2026-08-18,CRE,D,Área Oriental,09:00,24:00,Menor demanda a la prevista.
+2026-08-18,COBEE,G,Sistema Zongo,14:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-18,COBEE,G,Sistema Miguillas,15:00,24:00,Menores aportes laterales de agua a lo previsto.
