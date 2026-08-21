@@ -26113,3 +26113,13 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-08-18,CRE,D,Área Oriental,09:00,24:00,Menor demanda a la prevista.
 2026-08-18,COBEE,G,Sistema Zongo,14:00,24:00,Mayores aportes laterales de agua a lo previsto.
 2026-08-18,COBEE,G,Sistema Miguillas,15:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-08-19,ENDEG,G,Central Eólica San Julián,01:00,23:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-19,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-08-19,ENDE CORANI,G,Central Eólica Qollpana I y II,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-08-19,EMSC,CNR,Minera San Cristóbal,06:19,06:36,"Reducción de demanda de 46.1 MW a 39.9 MW, corte de la correa 230CV012."
+2026-08-19,COBEE,G,Sistema Zongo,07:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-19,DELAPAZ,D,Área Norte,08:00,22:00,Mayor demanda a la prevista.
+2026-08-19,COBEE,G,Sistema Miguillas,08:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-08-19,SEPSA,D,Área Potosí,10:00,22:00,Menor demanda a la prevista.
+2026-08-19,CRE,D,Área Oriental,11:00,19:00,Menor demanda a la prevista.
+2026-08-19,COBEE,G,Sistema Zongo,16:00,18:00,Mayores aportes laterales de agua a lo previsto.
