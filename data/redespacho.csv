@@ -26123,3 +26123,11 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-08-19,SEPSA,D,Área Potosí,10:00,22:00,Menor demanda a la prevista.
 2026-08-19,CRE,D,Área Oriental,11:00,19:00,Menor demanda a la prevista.
 2026-08-19,COBEE,G,Sistema Zongo,16:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-20,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-20,ENDEG,G,Central Eólica San Julián,01:00,12:00,"Menor generación, condiciones climáticas desfavorables."
+2026-08-20,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-08-20,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-20,ENDE CORANI,G,Central Eólica Qollpana I y II,04:00,20:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-20,ENDEG,G,Central Solar Oruro I y II,08:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-20,COBEE,G,Sistema Miguillas,09:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-08-20,CRE,D,Área Oriental,10:00,20:00,Menor demanda a la prevista.
