@@ -89097,3 +89097,22 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-08-23,AGUAÍ ENERGÍA,G,AGU02,21:14,22:10,54.49 MW,Baja presión de vapor en caldero.
 2026-08-23,ENDE GUARACACHI,G,UNA01,21:19,24:00,8.99 MW,Baja presión de vapor en caldero.
 2026-08-23,AGUAÍ ENERGÍA,G,AGU02,22:10,24:00,53.37 MW,Baja presión de vapor en caldero.
+2026-08-24,AGUAÍ ENERGÍA,G,AGU01,00:00,04:30,2.03 MW,Baja presión de vapor en caldero.
+2026-08-24,ENDE GUARACACHI,G,UNA01,00:00,08:00,8.99 MW,Baja presión de vapor en caldero.
+2026-08-24,AGUAÍ ENERGÍA,G,AGU02,00:00,18:10,53.37 MW,Baja presión de vapor en caldero.
+2026-08-24,ENDE GUARACACHI,G,GCH10,00:00,24:00,43.50 MW,Alta temperatura en ductos de escape.
+2026-08-24,GBE,G,GBE01,00:00,24:00,6.00 MW,Baja presión de vapor en caldero debido a bajo suministro de bagazo.
+2026-08-24,AGUAÍ ENERGÍA,G,AGU01,04:30,05:45,2.21 MW,Baja presión de vapor en caldero.
+2026-08-24,AGUAÍ ENERGÍA,G,AGU01,05:45,14:45,1.85 MW,Baja presión de vapor en caldero.
+2026-08-24,ENDE GUARACACHI,G,UNA01,08:00,09:30,10.10 MW,Baja presión de vapor en caldero.
+2026-08-24,ENDE GUARACACHI,G,UNA01,09:30,12:00,11.50 MW,Baja presión de vapor en caldero.
+2026-08-24,ENDE GUARACACHI,G,UNA01,12:00,23:56,9.00 MW,Baja presión de vapor en caldero.
+2026-08-24,AGUAÍ ENERGÍA,G,AGU01,14:45,15:00,0.78 MW,Baja presión de vapor en caldero.
+2026-08-24,AGUAÍ ENERGÍA,G,AGU01,15:00,15:45,1.72 MW,Baja presión de vapor en caldero.
+2026-08-24,AGUAÍ ENERGÍA,G,AGU01,15:45,17:45,1.25 MW,Baja presión de vapor en caldero.
+2026-08-24,AGUAÍ ENERGÍA,G,AGU01,17:45,23:00,1.38 MW,Baja presión de vapor en caldero.
+2026-08-24,AGUAÍ ENERGÍA,G,AGU02,18:10,22:18,51.63 MW,Baja presión de vapor en caldero.
+2026-08-24,CE,G,BUL01,18:50,21:51,39.00 MW,Restricción de gas a la central.
+2026-08-24,AGUAÍ ENERGÍA,G,AGU02,22:18,24:00,53.40 MW,Baja presión de vapor en caldero.
+2026-08-24,AGUAÍ ENERGÍA,G,AGU01,23:00,24:00,1.70 MW,Baja presión de vapor en caldero.
+2026-08-24,ENDE GUARACACHI,G,UNA01,23:56,24:00,10.10 MW,Baja presión de vapor en caldero.
