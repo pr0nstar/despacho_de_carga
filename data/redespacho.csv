@@ -26225,3 +26225,13 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-08-30,ENDEG,G,Central Eólica El Dorado,13:00,24:00,"Mayor generación, condiciones climáticas favorables."
 2026-08-30,HB,G,Sistema Taquesi,14:00,24:00,Mayores aportes laterales de agua a lo previsto.
 2026-08-30,DELAPAZ,D,Área Norte,19:00,22:00,Mayor demanda a la prevista.
+2026-08-31,ENDEG,G,Central San Julián,01:00,20:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-31,ENDE CORANI,G,Central Qollpana 1 y 2,01:00,21:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-31,ENDEG,G,Central Eólica Warnes,01:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-31,COBEE,G,Sistema Miguillas,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-31,COBEE,G,Sistema Zongo,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-08-31,CRE,D,Área Oriental,01:00,24:00,Mayor demanda a la prevista.
+2026-08-31,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
+2026-08-31,ENDEG,G,Central El Dorado,12:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-08-31,ENDE CORANI,G,Central Misicuni,13:00,18:00,Menor generación por riesgo de rebalse.
+2026-08-31,DELAPAZ,D,Área Norte,19:00,23:00,Mayor demanda a la prevista.
