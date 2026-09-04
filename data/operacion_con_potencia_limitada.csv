@@ -89254,3 +89254,22 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-09-01,AGUAÍ ENERGÍA,G,AGU02,19:11,22:15,51.60 MW,Baja presión de vapor en caldero.
 2026-09-01,AGUAÍ ENERGÍA,G,AGU01,22:15,24:00,2.10 MW,Baja presión de vapor en caldero.
 2026-09-01,AGUAÍ ENERGÍA,G,AGU02,22:15,24:00,53.40 MW,Baja presión de vapor en caldero.
+2026-09-02,CE,G,BUL01,00:00,00:36,39.00 MW,Restricción de gas a la central.
+2026-09-02,ENDE GUARACACHI,G,UNA01,00:00,09:45,11.40 MW,Baja presión de vapor en caldero.
+2026-09-02,AGUAÍ ENERGÍA,G,AGU01,00:00,14:00,2.53 MW,Baja presión de vapor en caldero.
+2026-09-02,GBE,G,GBE01,00:00,14:08,6.00 MW,Baja presión de vapor en caldero debido a bajo suministro de bagazo.
+2026-09-02,AGUAÍ ENERGÍA,G,AGU02,00:00,18:10,53.40 MW,Baja presión de vapor en caldero.
+2026-09-02,ENDE GUARACACHI,G,GCH10,00:00,24:00,43.50 MW,Alta temperatura en ductos de escape.
+2026-09-02,CE,G,BUL01,07:31,23:57,39.00 MW,Restricción de gas a la central.
+2026-09-02,ENDE GUARACACHI,G,UNA01,09:45,24:00,10.11 MW,Baja presión de vapor en caldero.
+2026-09-02,AGUAÍ ENERGÍA,G,AGU01,14:00,15:15,1.74 MW,Baja presión de vapor en caldero.
+2026-09-02,GBE,G,GBE01,14:08,14:21,1.70 MW,Baja presión de vapor en caldero debido a bajo suministro de bagazo.
+2026-09-02,GBE,G,GBE01,14:21,15:06,3.40 MW,Baja presión de vapor en caldero debido a bajo suministro de bagazo.
+2026-09-02,GBE,G,GBE01,15:06,24:00,6.00 MW,Baja presión de vapor en caldero debido a bajo suministro de bagazo.
+2026-09-02,AGUAÍ ENERGÍA,G,AGU01,15:15,15:45,2.52 MW,Baja presión de vapor en caldero.
+2026-09-02,AGUAÍ ENERGÍA,G,AGU01,15:45,21:00,1.89 MW,Baja presión de vapor en caldero.
+2026-09-02,AGUAÍ ENERGÍA,G,AGU02,18:10,21:20,51.60 MW,Baja presión de vapor en caldero.
+2026-09-02,AGUAÍ ENERGÍA,G,AGU01,21:00,24:00,2.50 MW,Baja presión de vapor en caldero.
+2026-09-02,AGUAÍ ENERGÍA,G,AGU02,21:20,21:35,40.20 MW,Baja presión de vapor en caldero.
+2026-09-02,AGUAÍ ENERGÍA,G,AGU02,21:35,22:19,51.60 MW,Baja presión de vapor en caldero.
+2026-09-02,AGUAÍ ENERGÍA,G,AGU02,22:19,24:00,53.40 MW,Baja presión de vapor en caldero.

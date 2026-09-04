@@ -26244,3 +26244,13 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-09-01,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Menor demanda a la prevista.
 2026-09-01,CRE,D,Área Oriental,12:00,24:00,Menor demanda a la prevista.
 2026-09-01,COBEE,G,Sistema Miguillas,21:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-09-02,CRE,D,Área Oriental,01:00,08:00,Mayor demanda a la prevista.
+2026-09-02,COBEE,G,Sistema Zongo,01:00,15:00,Mayores aportes laterales de agua a lo previsto.
+2026-09-02,LAS LOMAS,CNR,Las Lomas,01:00,18:00,Menor demanda por mantenimiento correctivo.
+2026-09-02,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-09-02,COBEE,G,Sistema Miguillas,06:00,15:00,Mayores aportes laterales de agua a lo previsto.
+2026-09-02,ENDEG,G,Central Solar Oruro I y II,07:00,12:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-02,COBEE,G,Sistema Miguillas,16:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-09-02,ENDEG,G,Central Eólica El Dorado,16:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-02,ENDE CORANI,G,Central Eólica Qollpana I y II,16:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-02,CESSA,D,Área Sucre,18:00,22:00,Mayor demanda a la prevista.
