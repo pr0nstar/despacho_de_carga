@@ -26295,3 +26295,14 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-09-06,ENDE DELBENI,D,Área Trinidad,07:00,24:00,Menor demanda a la prevista.
 2026-09-06,ENDEG,G,Central Solar Oruro I y II,09:00,16:00,"Mayor generación, condiciones climáticas favorables."
 2026-09-06,COBEE,G,Sistema Zongo,14:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-09-07,LAS LOMAS,CNR,Las Lomas,01:00,08:00,Reducción de demanda.
+2026-09-07,ENDEG,G,Central Eólica San Julián,01:00,11:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-07,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-09-07,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-09-07,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-09-07,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-09-07,ENDEG,G,Central Solar Oruro I y II,06:00,12:00,"Menor generación, condiciones climáticas desfavorables."
+2026-09-07,ENDE CORANI,G,Central Eólica Qollpana I y II,12:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-07,ENDEG,G,Central Eólica El Dorado,15:00,19:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-07,CESSA,D,Área Sucre,18:00,22:00,Mayor demanda a la prevista.
+2026-09-07,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
