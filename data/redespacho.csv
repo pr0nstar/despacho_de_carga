@@ -26342,3 +26342,44 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-09-10,ENDEG,G,Central eólica El Dorado,11:00,24:00,"Mayor generación, condiciones climáticas favorables"
 2026-09-10,COBEE,G,Sistema Zongo,18:00,24:00,Mayores aportes laterales de agua a lo previsto.
 2026-09-10,CRE,D,Área Oriental,19:00,24:00,Mayor demanda a la prevista.
+2026-09-11,COBEE,G,Sistema Miguillas,01:00,07:00,Mayores aportes laterales de agua a lo previsto.
+2026-09-11,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-09-11,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-09-11,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-09-11,ENDEG,G,Centarl eólica San Julián,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-11,ENDEG,G,Central eólica El Dorado,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-11,COBEE,G,Sistema Miguillas,07:00,24:00,Menores aportes laterales de agua a lo previsto.
+2026-09-11,CRE,D,Área Oriental,09:00,24:00,Mayor demanda a la prevista.
+2026-09-11,ENDE CORANI,G,Central eólica Qollpana I y II,10:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-11,HB,G,Sistema Taquesi,14:15,23:00,Menores aportes laterales de agua a lo previsto.
+2026-09-11,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-09-12,ENDE DELBENI,D,Área Trinidad,01:00,13:00,Mayor demanda a la prevista.
+2026-09-12,ENDEG,G,Central eólica El Dorado,01:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-12,DELAPAZ,D,Área Norte,01:00,17:00,Mayor demanda a la prevista.
+2026-09-12,COBEE,G,Sistema Miguillas,02:00,05:00,Mayores aportes laterales de agua a lo previsto.
+2026-09-12,ENDEG,G,Central eólica San Julián,02:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-12,COBEE,G,Sistema Zongo,02:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-09-12,CRE,D,Área Oriental,04:00,24:00,Menor demanda a la prevista.
+2026-09-12,COBEE,G,Sistema Miguillas,08:00,23:00,Menores aportes laterales de agua a lo previsto.
+2026-09-12,ENDE DELBENI,D,Área Trinidad,14:00,24:00,Menor demanda a la prevista.
+2026-09-13,ENDEG,G,Central Eólica San Julián,01:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-13,COBEE,G,Sistema Miguillas,01:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-09-13,ENDEG,G,Central Eólica El Dorado,01:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-13,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-09-13,DELAPAZ,D,Área Norte,05:00,09:00,Mayor demanda a la prevista.
+2026-09-13,ENDEG,G,Central Solar Oruro I y II,07:00,16:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-13,ENDE DELBENI,D,Área Trinidad,10:00,24:00,Menor demanda a la prevista.
+2026-09-13,ENDE CORANI,G,Central Eólica Qollpana I y II,12:00,22:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-13,CRE,D,Área Oriental,12:00,24:00,Menor demanda a la prevista.
+2026-09-13,COBEE,G,Sistema Miguillas,18:00,23:00,Menores aportes laterales de agua a lo previsto.
+2026-09-14,HB,G,Sistema Taquesi,01:00,03:30,Mayores aportes laterales a lo previsto.
+2026-09-14,COBEE,G,Sistema Zongo,01:00,06:00,Mayores aportes laterales a lo previsto.
+2026-09-14,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales a lo previsto.
+2026-09-14,CESSA,D,Área Sucre,01:00,15:00,Mayor demanda a la prevista.
+2026-09-14,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-09-14,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-09-14,COBEE,G,Sistema Zongo,06:00,24:00,Mayores aportes laterales a lo previsto.
+2026-09-14,ENDE CORANI,G,Central Eólica Qollpana I y II,10:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-14,EMSC,CNR,Minera San Cristóbal,13:00,24:00,Extensión de mantenimiento.
+2026-09-14,ENDEG,G,Central Eólica San Julián,18:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-14,HB,G,Sistema Taquesi,18:15,22:00,Mayores aportes laterales a lo previsto.

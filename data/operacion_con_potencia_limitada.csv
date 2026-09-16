@@ -89436,3 +89436,61 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-09-10,GBE,G,GBE01,20:48,24:00,11.00 MW,Baja presión de vapor en caldero.
 2026-09-10,AGUAÍ ENERGÍA,G,AGU01,22:00,24:00,3.24 MW,Baja presión de vapor en caldero.
 2026-09-10,AGUAÍ ENERGÍA,G,AGU02,22:11,24:00,52.80 MW,Baja presión de vapor en caldero.
+2026-09-11,CE,G,BUL01,00:00,00:18,39.00 MW,Restricción de gas a la central.
+2026-09-11,AGUAÍ ENERGÍA,G,AGU01,00:00,10:29,3.40 MW,Baja presión de vapor en caldero.
+2026-09-11,AGUAÍ ENERGÍA,G,AGU02,00:00,10:29,52.80 MW,Baja presión de vapor en caldero.
+2026-09-11,ENDE GUARACACHI,G,GCH10,00:00,24:00,55.90 MW,Alta temperatura de expansión relativa en carcasa.
+2026-09-11,ENDE GUARACACHI,G,GCH09,00:00,24:00,43.00 MW,Alta temperatura en ductos de escape.
+2026-09-11,ENDE GUARACACHI,G,GCH12,00:00,24:00,38.50 MW,Alta temperatura de expansión relativa en carcasa.
+2026-09-11,ENDE GUARACACHI,G,UNA01,00:00,24:00,10.80 MW,Baja presión de vapor en caldero.
+2026-09-11,GBE,G,GBE01,00:00,24:00,11.60 MW,Baja presión de vapor en caldero.
+2026-09-11,CE,G,BUL01,07:10,24:00,39.00 MW,Restricción de gas a la central.
+2026-09-11,AGUAÍ ENERGÍA,G,AGU01,17:14,17:43,3.40 MW,Baja presión de vapor en caldero.
+2026-09-12,ENDE GUARACACHI,G,GCH09,00:00,10:19,43.00 MW,Alta temperatura en ductos de escape.
+2026-09-12,ENDE GUARACACHI,G,GCH10,00:00,10:19,55.90 MW,Alta temperatura de expansión relativa en carcasa.
+2026-09-12,ENDE GUARACACHI,G,GCH12,00:00,10:19,38.50 MW,Alta temperatura de expansión relativa en carcasa.
+2026-09-12,CE,G,BUL01,00:00,22:19,39.00 MW,Restricción de gas a la central.
+2026-09-12,ENDE GUARACACHI,G,UNA01,00:00,24:00,10.80 MW,Baja presión de vapor en caldero.
+2026-09-12,GBE,G,GBE01,00:00,24:00,11.00 MW,Baja presión de vapor en caldero.
+2026-09-12,AGUAÍ ENERGÍA,G,AGU01,02:28,06:45,3.40 MW,Baja presión de vapor en caldero.
+2026-09-12,AGUAÍ ENERGÍA,G,AGU02,04:45,12:09,51.50 MW,Baja presión de vapor en caldero.
+2026-09-12,ENDE GUARACACHI,G,GCH09,10:19,24:00,40.00 MW,Alta presión de gases de escape.
+2026-09-12,ENDE GUARACACHI,G,GCH10,10:19,24:00,40.00 MW,Alta presión de gases de escape.
+2026-09-12,AGUAÍ ENERGÍA,G,AGU01,11:15,14:40,2.20 MW,Baja presión de vapor en caldero.
+2026-09-12,AGUAÍ ENERGÍA,G,AGU02,12:09,13:19,52.80 MW,Baja presión de vapor en caldero.
+2026-09-12,AGUAÍ ENERGÍA,G,AGU02,13:19,16:39,50.56 MW,Baja presión de vapor en caldero.
+2026-09-12,AGUAÍ ENERGÍA,G,AGU01,15:52,24:00,3.40 MW,Baja presión de vapor en caldero.
+2026-09-12,AGUAÍ ENERGÍA,G,AGU02,16:39,23:20,52.80 MW,Baja presión de vapor en caldero.
+2026-09-12,AGUAÍ ENERGÍA,G,AGU02,23:20,24:00,54.00 MW,Baja presión de vapor en caldero.
+2026-09-13,AGUAÍ ENERGÍA,G,AGU01,00:00,08:15,3.30 MW,Baja presión de vapor en caldero.
+2026-09-13,AGUAÍ ENERGÍA,G,AGU02,00:00,10:45,54.00 MW,Baja presión de vapor en caldero.
+2026-09-13,ENDE GUARACACHI,G,GCH10,00:00,24:00,40.00 MW,Alta presión de gases de escape.
+2026-09-13,ENDE GUARACACHI,G,GCH09,00:00,24:00,40.00 MW,Alta presión de gases de escape.
+2026-09-13,ENDE GUARACACHI,G,UNA01,00:00,24:00,11.50 MW,Baja presión de vapor en caldero.
+2026-09-13,GBE,G,GBE01,00:00,24:00,11.50 MW,Baja presión de vapor en caldero.
+2026-09-13,AGUAÍ ENERGÍA,G,AGU01,09:30,11:15,3.40 MW,Baja presión de vapor en caldero.
+2026-09-13,AGUAÍ ENERGÍA,G,AGU02,10:45,12:42,51.14 MW,Baja presión de vapor en caldero.
+2026-09-13,AGUAÍ ENERGÍA,G,AGU02,12:42,19:09,53.40 MW,Baja presión de vapor en caldero.
+2026-09-13,AGUAÍ ENERGÍA,G,AGU02,19:09,24:00,52.70 MW,Baja presión de vapor en caldero.
+2026-09-13,AGUAÍ ENERGÍA,G,AGU01,20:26,24:00,3.31 MW,Baja presión de vapor en caldero.
+2026-09-14,GBE,G,GBE01,00:00,06:00,12.80 MW,Baja presión de vapor en caldero.
+2026-09-14,ENDE GUARACACHI,G,GCH10,00:00,09:15,40.00 MW,Alta presión de gases de escape.
+2026-09-14,ENDE GUARACACHI,G,UNA01,00:00,10:19,10.80 MW,Baja presión de vapor en caldero.
+2026-09-14,ENDE GUARACACHI,G,GCH09,00:00,15:32,40.00 MW,Alta presión de gases de escape.
+2026-09-14,AGUAÍ ENERGÍA,G,AGU01,00:00,16:30,3.40 MW,Baja presión de vapor en caldero.
+2026-09-14,AGUAÍ ENERGÍA,G,AGU02,00:00,18:09,52.70 MW,Baja presión de vapor en caldero.
+2026-09-14,GBE,G,GBE01,06:00,24:00,11.60 MW,Baja presión de vapor en caldero.
+2026-09-14,ENDE GUARACACHI,G,GCH10,09:15,10:27,44.90 MW,Alta presión de gases de escape.
+2026-09-14,ENDE GUARACACHI,G,UNA01,10:19,23:44,6.70 MW,Baja presión de vapor en caldero.
+2026-09-14,ENDE GUARACACHI,G,GCH10,10:27,15:35,56.10 MW,Alta presión de gases de escape.
+2026-09-14,ENDE GUARACACHI,G,GCH12,11:17,14:08,30.30 MW,Alta temperatura de expansión relativa en carcasa.
+2026-09-14,ENDE GUARACACHI,G,GCH12,14:08,14:45,32.50 MW,Alta temperatura de expansión relativa en carcasa.
+2026-09-14,ENDE GUARACACHI,G,GCH12,14:45,15:15,35.90 MW,Alta temperatura de expansión relativa en carcasa.
+2026-09-14,ENDE GUARACACHI,G,GCH12,15:15,24:00,37.60 MW,Alta temperatura de expansión relativa en carcasa.
+2026-09-14,ENDE GUARACACHI,G,GCH09,15:32,24:00,42.60 MW,Alta presión en ductos de escape.
+2026-09-14,ENDE GUARACACHI,G,GCH10,15:35,24:00,57.10 MW,Alta presión en ductos de escape.
+2026-09-14,AGUAÍ ENERGÍA,G,AGU01,16:30,17:30,2.41 MW,Baja presión de vapor en caldero.
+2026-09-14,AGUAÍ ENERGÍA,G,AGU01,17:30,24:00,3.04 MW,Baja presión de vapor en caldero.
+2026-09-14,AGUAÍ ENERGÍA,G,AGU02,18:09,22:10,51.60 MW,Baja presión de vapor en caldero.
+2026-09-14,AGUAÍ ENERGÍA,G,AGU02,22:10,24:00,53.37 MW,Baja presión de vapor en caldero.
+2026-09-14,ENDE GUARACACHI,G,UNA01,23:44,24:00,8.99 MW,Baja presión de vapor en caldero.
