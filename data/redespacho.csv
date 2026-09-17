@@ -26383,3 +26383,13 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-09-14,EMSC,CNR,Minera San Cristóbal,13:00,24:00,Extensión de mantenimiento.
 2026-09-14,ENDEG,G,Central Eólica San Julián,18:00,24:00,"Mayor generación, condiciones climáticas favorables."
 2026-09-14,HB,G,Sistema Taquesi,18:15,22:00,Mayores aportes laterales a lo previsto.
+2026-09-15,EMSC,CNR,Minera San Cristóbal,01:00,12:02,Extensión de mantenimiento.
+2026-09-15,ENDEG,G,Central Eólica El Dorado,01:00,14:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-15,ENDEG,G,Central Eólica San Julián,01:00,16:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-15,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-09-15,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-09-15,COBEE,G,Sistema Zongo,01:00,24:00,Mayores aportes laterales a lo previsto.
+2026-09-15,HB,G,Sistema Taquesi,05:00,08:00,Menores aportes a lo previsto.
+2026-09-15,ENDE CORANI,G,Central Eólica Qollpana I y II,08:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-09-15,SETAR,D,Área Tarija,12:00,15:00,Menor demanda a la prevista.
+2026-09-15,CESSA,D,Área Sucre,19:00,22:00,Mayor demanda a la prevista.

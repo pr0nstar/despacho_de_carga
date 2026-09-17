@@ -103266,3 +103266,5 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-09-13,ENDE GUARACACHI,G,ARJ08,18:12,18:16,Retraso en el arranque.,Forzado,-,,
 2026-09-14,EMSC,CNR,K15,00:53,02:01,"Parada por bajo nivel de agua, 2.8 MW.",Forzado,-,,
 2026-09-14,EMSC,CNR,K1,13:00,24:00,Extensión de mantenimiento.,Forzado,-,,
+2026-09-15,ENDE TRANSMISION,T,GUA-PRA23002,06:33,06:33,Descargas atmosféricas.,Forzado,-,,
+2026-09-15,CRE,D,ALI_01_12,07:50,13:07,Adecuaciones en línea de M.T.,Forzado,-,,
