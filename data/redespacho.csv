@@ -26401,3 +26401,11 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-09-16,ENDEG,G,Central Solar Oruro I y II,07:00,15:00,"Mayor generación, condiciones climáticas favorables."
 2026-09-16,CRE,D,Área Oriental,14:00,18:00,Menor demanda a la prevista.
 2026-09-16,COBEE,G,Sistema Miguillas,15:00,24:00,Mayores aportes laterales a lo previsto.
+2026-09-17,COBEE,G,Sistema Miguillas,01:00,05:00,Mayores aportes laterales a lo previsto.
+2026-09-17,DELAPAZ,D,Área Norte,01:00,07:00,Mayor demanda a la prevista.
+2026-09-17,COBEE,G,Sistema Zongo,01:00,14:00,Mayores aportes laterales a lo previsto.
+2026-09-17,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-09-17,CESSA,D,Área Sucre,10:00,24:00,Mayor demanda a la prevista.
+2026-09-17,ENDEG,G,Central Eólica El Dorado,13:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-17,COBEE,G,Sistema Zongo,18:00,22:00,Mayores aportes laterales a lo previsto.
+2026-09-17,CRE,D,Área Oriental,20:00,23:00,Mayor demanda a la prevista.
