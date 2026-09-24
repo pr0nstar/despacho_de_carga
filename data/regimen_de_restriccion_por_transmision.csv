@@ -4104,3 +4104,22 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa
 2026-09-17,ENDE ANDINA,G,SUR22,12:03,13:03,Reducción de potencia de la unidad CCSUR22 a 43.0 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
 2026-09-17,ENDE ANDINA,G,SUR40,13:12,17:18,Reducción de potencia de la unidad CCSUR40 a 80.0 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
 2026-09-17,ENDE ANDINA,G,SUR20,16:05,17:51,Reducción de potencia de la unidad CCSUR20 a 72.8 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-18,ENDE ANDINA,G,SUR20,12:20,12:42,Reducción de potencia de la unidad CCSUR20 a 90 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-18,ENDE ANDINA,G,SUR11,12:20,14:13,Reducción de potencia de la unidad CCSUR11 a 42 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-18,ENDE ANDINA,G,SUR20,12:42,15:38,Reducción de potencia de la unidad CCSUR20 a 100 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-18,ENDE ANDINA,G,SUR10,14:13,14:16,Reducción de potencia de la unidad CCSUR10 a 44 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-18,ENDE ANDINA,G,SUR10,14:16,15:38,Reducción de potencia de la unidad CCSUR10 a 60 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-18,ENDE ANDINA,G,SUR20,15:38,17:54,Reducción de potencia de la unidad CCSUR20 a 90 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-18,ENDE ANDINA,G,SUR10,15:38,22:24,Reducción de potencia de la unidad CCSUR10 a 71.5 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-18,ENDE ANDINA,G,SUR20,17:54,18:06,Reducción de potencia de la unidad CCSUR20 a 100 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-18,ENDE ANDINA,G,SUR20,21:21,23:16,Reducción de potencia de la unidad CCSUR20 a 105 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-19,ENDE ANDINA,G,SUR20,14:23,14:41,"Reducción de potencia de la unidad CCSUR20 a 75 MW por límite de transferencia en la línea en 230 kV Punutuma - Las Carreras, por el mantenimiento programado de la línea 230 kV Torre Huayco – Litio."
+2026-09-19,ENDE ANDINA,G,SUR20,14:41,15:12,"Reducción de potencia de la unidad CCSUR20 a 80 MW por límite de transferencia en la línea en 230 kV Punutuma - Las Carreras, por el mantenimiento programado de la línea 230 kV Torre Huayco – Litio."
+2026-09-19,ENDE ANDINA,G,SUR20,15:12,16:30,"Reducción de potencia de la unidad CCSUR20 a 84 MW por límite de transferencia en la línea en 230 kV Punutuma - Las Carreras, por el mantenimiento programado de la línea 230 kV Torre Huayco – Litio."
+2026-09-21,ENDE ANDINA,G,SUR11,15:19,16:08,Reducción de potencia de la unidad CCSUR11 a 35.5 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-21,ENDE ANDINA,G,SUR20,15:19,17:23,Reducción de potencia de la unidad CCSUR20 a 95 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-21,ENDE ANDINA,G,SUR10,16:08,17:23,Reducción de potencia de la unidad CCSUR10 a 57 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-21,ENDE ANDINA,G,SUR10,17:23,18:00,Reducción de potencia de la unidad CCSUR10 a 71.5 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-21,ENDE ANDINA,G,SUR20,17:23,18:16,Reducción de potencia de la unidad CCSUR20 a 90 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-21,ENDE ANDINA,G,SUR10,18:00,22:37,Reducción de potencia de la unidad CCSUR10 a 73.4 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
+2026-09-21,ENDE ANDINA,G,SUR20,19:40,23:45,Reducción de potencia de la unidad CCSUR20 a 112 MW por límite de transferencia en las líneas TAJ-YAG23001 y 02.
