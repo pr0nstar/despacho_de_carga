@@ -26502,3 +26502,15 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-09-27,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Mayor demanda a la prevista.
 2026-09-27,DELAPAZ,D,Área Norte,10:00,23:00,Mayor demanda a la prevista.
 2026-09-27,CRE,D,Área Oriental,10:00,24:00,Mayor demanda a la prevista.
+2026-09-28,COBEE,G,Sistema Zongo,01:00,08:00,Mayores aportes laterales a lo previsto.
+2026-09-28,COBEE,G,Sistema Miguillas,01:00,09:00,Mayores aportes laterales a lo previsto.
+2026-09-28,DELAPAZ,D,Área Norte,01:00,22:00,Mayor demanda a la prevista.
+2026-09-28,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-09-28,ENDE CORANI,G,Central Eólica Qollpana I y II,01:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-28,ENDEG,G,Central Eólica El Dorado,03:00,12:00,"Mayor generación, condiciones climáticas favorables."
+2026-09-28,COBEE,G,Sistema Zongo,08:00,18:00,Menores aportes laterales a lo previsto.
+2026-09-28,ENDE DELBENI,D,Área Trinidad,10:00,18:00,Mayor demanda a la prevista.
+2026-09-28,CRE,D,Área Oriental,10:00,24:00,Mayor demanda a la prevista.
+2026-09-28,ENDE CORANI,G,Central Misicuni,11:00,18:00,Riesgo de embalse.
+2026-09-28,ENDEG,G,Central Solar Oruro I y II,12:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-09-28,CESSA,D,Área Sucre,13:00,20:00,Mayor demanda a la prevista.
