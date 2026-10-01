@@ -26514,3 +26514,17 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-09-28,ENDE CORANI,G,Central Misicuni,11:00,18:00,Riesgo de embalse.
 2026-09-28,ENDEG,G,Central Solar Oruro I y II,12:00,18:00,"Menor generación, condiciones climáticas desfavorables."
 2026-09-28,CESSA,D,Área Sucre,13:00,20:00,Mayor demanda a la prevista.
+2026-09-29,CESSA,D,Área Sucre,01:00,07:00,Menor demanda a la prevista.
+2026-09-29,ENDEG,G,Central Eólica El Dorado,01:00,12:00,"Menor generación, condiciones climáticas desfavorables."
+2026-09-29,ENDEG,G,Central Eólica San Julián,01:00,13:00,"Menor generación, condiciones climáticas desfavorables."
+2026-09-29,COBEE,G,Sistema Miguillas,01:00,15:00,Mayores aportes laterales a lo previsto.
+2026-09-29,SETAR,D,Área Tarija,01:00,19:00,Mayor demanda a la prevista.
+2026-09-29,ENDE CORANI,G,Central Eólica Qollpana I y II,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-09-29,COBEE,G,Sistema Zongo,02:00,14:00,Mayores aportes laterales a lo previsto.
+2026-09-29,ENDE DELBENI,D,Área Trinidad,06:00,13:00,Menor demanda a la prevista.
+2026-09-29,DELAPAZ,D,Área Norte,09:00,21:00,Mayor demanda a la prevista.
+2026-09-29,ENDEG,G,Central Solar Oruro I y II,11:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-09-29,ENDEG,G,Central Solar Uyuni I y II,14:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-09-29,HB,G,Sistema Taquesi,14:00,24:00,Mayores aportes laterales a lo previsto.
+2026-09-29,COBEE,G,Sistema Zongo,16:00,24:00,Mayores aportes laterales a lo previsto.
+2026-09-29,CRE,D,Área Oriental,17:00,24:00,Menor demanda a la prevista.
