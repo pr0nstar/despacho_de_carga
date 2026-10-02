@@ -26528,3 +26528,16 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-09-29,HB,G,Sistema Taquesi,14:00,24:00,Mayores aportes laterales a lo previsto.
 2026-09-29,COBEE,G,Sistema Zongo,16:00,24:00,Mayores aportes laterales a lo previsto.
 2026-09-29,CRE,D,Área Oriental,17:00,24:00,Menor demanda a la prevista.
+2026-09-30,HB,G,Sistema Taquesi,01:00,07:00,Mayores aportes laterales a lo previsto.
+2026-09-30,COBEE,G,Sistema Zongo,01:00,10:00,Mayores aportes laterales a lo previsto.
+2026-09-30,DELAPAZ,D,Área Norte,01:00,14:00,Mayor demanda a la prevista.
+2026-09-30,COBEE,G,Sistema Miguillas,01:00,14:00,Mayores aportes laterales a lo previsto.
+2026-09-30,CESSA,D,Área Sucre,01:00,18:00,Menor demanda a la prevista.
+2026-09-30,CRE,D,Área Oriental,10:00,24:00,Menor demanda a la prevista.
+2026-09-30,ENDEG,G,Central Eólica Warnes,11:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-09-30,ENDEG,G,Central Eólica San Julián,11:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-09-30,COBEE,G,Sistema Zongo,12:00,15:00,Mayores aportes laterales a lo previsto.
+2026-09-30,ENDE DELBENI,D,Área Trinidad,12:00,24:00,Menor demanda a la prevista.
+2026-09-30,ENDEG,G,Central Eólica Qollpana I y II,18:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-09-30,COBEE,G,Sistema Zongo,19:00,24:00,Mayores aportes laterales a lo previsto.
+2026-09-30,ENDEG,G,Central Eólica El Dorado,20:00,24:00,"Menor generación, condiciones climáticas desfavorables."
