@@ -89871,3 +89871,33 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-10-04,ENDE GUARACACHI,G,UNA01,21:45,24:00,6.76 MW,Baja presión de vapor en caldero.
 2026-10-04,AGUAÍ ENERGÍA,G,AGU02,22:46,23:01,50.50 MW,Baja presión de vapor en caldero.
 2026-10-04,AGUAÍ ENERGÍA,G,AGU02,23:01,24:00,53.40 MW,Baja presión de vapor en caldero.
+2026-10-05,GBE,G,GBE01,00:00,05:00,10.73 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU01,00:00,07:30,1.06 MW,Baja presión de vapor en caldero.
+2026-10-05,ENDE GUARACACHI,G,UNA01,00:00,10:26,6.70 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU02,00:00,11:55,53.40 MW,Baja presión de vapor en caldero.
+2026-10-05,GBE,G,GBE01,05:00,15:45,11.62 MW,Baja presión de vapor en caldero.
+2026-10-05,CE,G,BUL03,06:40,21:57,37.00 MW,Restricción de gas a la central.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU01,07:30,09:30,0.60 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU01,09:30,10:00,0.47 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU01,10:00,15:30,2.33 MW,Baja presión de vapor en caldero.
+2026-10-05,ENDE GUARACACHI,G,UNA01,10:26,20:45,9.00 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU02,11:55,12:04,33.70 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU02,12:04,13:55,41.60 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU02,13:55,14:43,52.80 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU02,14:43,16:47,37.70 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU01,15:30,17:45,1.10 MW,Baja presión de vapor en caldero.
+2026-10-05,GBE,G,GBE01,15:45,16:45,9.96 MW,Baja presión de vapor en caldero.
+2026-10-05,ENDE GUARACACHI,G,GCH10,16:22,24:00,44.90 MW,Indisponibilidad de la unidad GCH12.
+2026-10-05,ENDE GUARACACHI,G,GCH09,16:22,24:00,44.90 MW,Indisponibilidad de la unidad GCH12.
+2026-10-05,GBE,G,GBE01,16:45,17:30,8.88 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU02,16:47,17:23,50.50 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU02,17:23,17:52,52.80 MW,Baja presión de vapor en caldero.
+2026-10-05,GBE,G,GBE01,17:30,23:15,11.58 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU01,17:45,24:00,3.36 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU02,17:52,18:05,18.20 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU02,18:38,19:10,32.60 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU02,19:10,20:26,43.50 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU02,20:26,23:06,48.90 MW,Baja presión de vapor en caldero.
+2026-10-05,ENDE GUARACACHI,G,UNA01,20:45,24:00,10.10 MW,Baja presión de vapor en caldero.
+2026-10-05,AGUAÍ ENERGÍA,G,AGU02,23:06,24:00,52.80 MW,Baja presión de vapor en caldero.
+2026-10-05,GBE,G,GBE01,23:15,24:00,12.22 MW,Baja presión de vapor en caldero.
