@@ -26588,3 +26588,7 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-10-05,ENDEG,G,Central Eólica Warnes,01:00,19:00,"Menor generación, condiciones climáticas desfavorables."
 2026-10-05,ENDEG,G,Central Eólica El Dorado,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
 2026-10-05,ENDE CORANI,G,Central Eólica Qollpana I y II,04:00,20:00,"Mayor generación, condiciones climáticas favorables."
+2026-10-06,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales a lo previsto.
+2026-10-06,EMSC,CNR,Minera San Cristóbal,08:35,08:52,"Reducción de carga de 43.3 MW a 32.7 MW, debido a la detención del molino SAG para cambio de inversión de giro."
+2026-10-06,COBEE,G,Sistema Zongo,09:00,21:00,Menores aportes laterales de agua a lo previsto.
+2026-10-06,COBEE,G,Sistema Zongo,23:00,24:00,Mayores aportes laterales de agua a lo previsto.
