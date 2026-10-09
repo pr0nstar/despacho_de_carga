@@ -89930,3 +89930,40 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-10-06,AGUAÍ ENERGÍA,G,AGU02,17:01,18:40,39.30 MW,Baja presión de vapor en caldero.
 2026-10-06,AGUAÍ ENERGÍA,G,AGU02,18:40,24:00,52.80 MW,Baja presión de vapor en caldero.
 2026-10-06,ENDE GUARACACHI,G,UNA01,23:50,24:00,9.00 MW,Baja presión de vapor en caldero.
+2026-10-07,ENDE GUARACACHI,G,UNA01,00:00,10:00,9.15 MW,Baja presión de vapor en caldero.
+2026-10-07,AGUAÍ ENERGÍA,G,AGU02,00:00,10:16,52.80 MW,Baja presión de vapor en caldero.
+2026-10-07,ENDE GUARACACHI,G,GCH09,00:00,11:12,44.90 MW,Indisponibilidad de la unidad GCH12.
+2026-10-07,ENDE GUARACACHI,G,GCH10,00:00,14:29,44.90 MW,Indisponibilidad de la unidad GCH12.
+2026-10-07,GBE,G,GBE01,00:00,16:00,11.76 MW,Baja presión de vapor en caldero.
+2026-10-07,AGUAÍ ENERGÍA,G,AGU01,00:00,16:07,2.24 MW,Baja presión de vapor en caldero.
+2026-10-07,ENDE GUARACACHI,G,UNA01,10:00,22:00,8.95 MW,Baja presión de vapor en caldero.
+2026-10-07,CE,G,BUL03,10:54,21:46,37.00 MW,Restricción de gas a la central.
+2026-10-07,ENDE GUARACACHI,G,GCH09,11:12,13:24,50.60 MW,Indisponibilidad de la unidad GCH12.
+2026-10-07,ENDE ANDINA,G,WAR22,12:22,12:45,32.00 MW,Problemas en sistema de vacío de la unidad WAR20.
+2026-10-07,ENDE ANDINA,G,WAR21,12:22,12:45,31.00 MW,Problemas en sistema de vacío de la unidad WAR20.
+2026-10-07,ENDE ANDINA,G,WAR20,12:22,12:45,31.80 MW,Problemas en sistema de vacío.
+2026-10-07,ENDE ANDINA,G,WAR21,12:45,13:50,17.30 MW,Problemas en sistema de vacío de la unidad WAR20.
+2026-10-07,ENDE ANDINA,G,WAR22,12:45,13:56,26.70 MW,Problemas en sistema de vacío de la unidad WAR20.
+2026-10-07,ENDE ANDINA,G,WAR20,12:45,14:01,25.80 MW,Problemas en sistema de vacío.
+2026-10-07,AGUAÍ ENERGÍA,G,AGU02,12:53,13:05,25.40 MW,Baja presión de vapor en caldero.
+2026-10-07,AGUAÍ ENERGÍA,G,AGU02,13:05,14:02,33.70 MW,Baja presión de vapor en caldero.
+2026-10-07,ENDE GUARACACHI,G,GCH09,13:24,14:29,56.20 MW,Indisponibilidad de la unidad GCH12.
+2026-10-07,ENDE ANDINA,G,WAR22,13:56,14:01,18.00 MW,Problemas en sistema de vacío de la unidad WAR20.
+2026-10-07,AGUAÍ ENERGÍA,G,AGU02,14:02,14:18,22.50 MW,Baja presión de vapor en caldero.
+2026-10-07,ENDE GUARACACHI,G,GCH10,14:29,23:30,55.40 MW,Calentamiento de carcasa de turbina de la unidad GCH12.
+2026-10-07,ENDE GUARACACHI,G,GCH12,14:29,23:30,68.50 MW,Calentamiento de carcasa de turbina.
+2026-10-07,ENDE GUARACACHI,G,GCH09,14:29,24:00,55.40 MW,Calentamiento de carcasa de turbina de la unidad GCH12.
+2026-10-07,GBE,G,GBE01,16:00,17:00,12.10 MW,Baja presión de vapor en caldero.
+2026-10-07,AGUAÍ ENERGÍA,G,AGU01,16:23,24:00,2.24 MW,Baja presión de vapor en caldero.
+2026-10-07,GBE,G,GBE01,17:00,22:00,10.56 MW,Baja presión de vapor en caldero.
+2026-10-07,AGUAÍ ENERGÍA,G,AGU02,17:10,17:37,28.10 MW,Baja presión de vapor en caldero.
+2026-10-07,AGUAÍ ENERGÍA,G,AGU02,17:37,18:05,44.90 MW,Baja presión de vapor en caldero.
+2026-10-07,AGUAÍ ENERGÍA,G,AGU02,18:05,18:54,51.10 MW,Baja presión de vapor en caldero.
+2026-10-07,AGUAÍ ENERGÍA,G,AGU02,18:54,20:10,54.34 MW,Baja presión de vapor en caldero.
+2026-10-07,AGUAÍ ENERGÍA,G,AGU02,20:10,23:06,51.10 MW,Baja presión de vapor en caldero.
+2026-10-07,GBE,G,GBE01,22:00,22:45,12.87 MW,Baja presión de vapor en caldero.
+2026-10-07,ENDE GUARACACHI,G,UNA01,22:00,24:00,9.36 MW,Baja presión de vapor en caldero.
+2026-10-07,GBE,G,GBE01,22:45,24:00,11.85 MW,Baja presión de vapor en caldero.
+2026-10-07,AGUAÍ ENERGÍA,G,AGU02,23:06,24:00,53.90 MW,Baja presión de vapor en caldero.
+2026-10-07,ENDE GUARACACHI,G,GCH10,23:30,24:00,45.00 MW,Calentamiento de carcasa de turbina de la unidad GCH12.
+2026-10-07,ENDE GUARACACHI,G,GCH12,23:30,24:00,28.75 MW,Calentamiento de carcasa de turbina.
