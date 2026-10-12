@@ -217663,3 +217663,150 @@ fecha,de_hrs,a_hrs,descripcion
 2026-10-08,21:54,24:00,"Las Lomas realizó energización de las celdas EAF 24 MVA y LF 5 MVA de S/E Las Lomas, de acuerdo a Solicitud de Desconexión N° 08-10-N135."
 2026-10-08,23:00,24:00,"AGUAÍ ENERGÍA realizó la desenergización del transformador TRAGU11505 de S/E Aguaí, de acuerdo a Solicitud de Desconexión N° AT-14-2026."
 2026-10-08,23:28,23:29,ENDE DELBENI informó la desconexión del alimentador D8511 con 5.06 MW de S/E Paraíso debido a descargas atmosféricas.
+2026-10-09,00:00,11:15,"ELFEC realizó cambio de transformador de corriente fase B del alimentador T-4, pruebas eléctricas, control y protección en S/E Chimoré, de acuerdo a Solicitud de Desconexión N° 91/2026."
+2026-10-09,00:00,15:15,"El CNDC no contó con señales analógicas y de estado de las unidades SCZ01 y SCZ02 de Central Santa Cruz, debido a problemas del servidor OPC."
+2026-10-09,00:00,15:15,"El CNDC no contó en el sistema SCADA señales analógicas y digitales de la unidad GCH12, debido a problemas del servidor OPC."
+2026-10-09,00:00,16:28,"Las Lomas realizó energización de las celdas EAF 24 MVA y LF 5 MVA de S/E Las Lomas, de acuerdo a Solicitud de Desconexión N° 08-10-N135."
+2026-10-09,00:00,24:00,"DELAPAZ energizó en vacío el transformador TRKEN06905 de S/E Kenko, de acuerdo a Solicitud de Desconexión N° 20-2024."
+2026-10-09,00:00,24:00,"DELAPAZ informó indisponibilidad del relé diferencial de barra en 115 kV en S/E Avenida Arce, debido a una falla interna en el relé, de acuerdo a correo electrónico de fecha 02/08/2023."
+2026-10-09,00:00,24:00,"AGUAÍ ENERGÍA realizó la desenergización del transformador TRAGU11505 de S/E Aguaí, de acuerdo a Solicitud de Desconexión N° AT-14-2026."
+2026-10-09,00:00,24:00,"COBEE realizó la desconexión del transformador TRTIG115 de S/E Tiquimani por mantenimiento, de acuerdo a Solicitud de Desconexión N° 111."
+2026-10-09,00:00,24:00,DELAPAZ transfirió la carga del alimentador Chochocoro al alimentador Mariscal Santa Cruz de S/E Viriloco.
+2026-10-09,00:00,24:00,"ENDE ANDINA realizó la desconexión del transformador TRERI23032 de S/E Entre Ríos II, de acuerdo a Solicitud de Desconexión N° 026-2026."
+2026-10-09,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales  digitales de S/E Las Lomas, debido a problemas en equipo de comunicación."
+2026-10-09,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de S/E Ocurí, debido a problemas de telecontrol."
+2026-10-09,00:00,24:00,"ENDE TRANSMISIÓN realizó trabajos de cambió de partes del autotransformador ATBRE50001 de S/E Brechas, de acuerdo a Solicitud de Desconexión N° 478/2025-2026."
+2026-10-09,00:00,24:00,"CRE realizó trabajos de cambio de relé controlador e integración en tablero nuevo IHM en S/E Guaracachi, de acuerdo a Solicitud de Desconexión N° GOO/064/2026."
+2026-10-09,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de Central Eólica Qollpana Fase I, debido a problemas en equipo de comunicación."
+2026-10-09,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas y discretas en S/E Irpa Irpa línea a Coboce, debido a problemas en equipo de comunicaciones."
+2026-10-09,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de las unidades ARJ09, ARJ11, ARJ12, ARJ13, ARJ14, ARJ01, ARJ02 y ARJ03, debido a problemas en RTU."
+2026-10-09,00:00,24:00,La generación de Refinería Gualberto Villarroel (RYPFB) inyectó excedentes de 0.9 MW.
+2026-10-09,00:00,24:00,"ENDE TRANSMISIÓN realizó la habilitación de disparos sin enlace diferencial en los relés A149 y A150 de S/E Valle Hermoso, debido a anomalía detectada en el relé PP1 del interruptor 700 de S/E Rafael Urquidi propiedad de ELFEC, de acuerdo a correo electrónico de fecha 25/05/2026."
+2026-10-09,00:00,24:00,"El CNDC registró en el sistema SCADA señales incorrectas en la estampa de tiempo del interruptor B792 de S/E Villamontes, debido a problemas en equipo de comunicación."
+2026-10-09,00:00,24:00,ENDE TRANSMISIÓN deshabilitó el disparo de sobre temperatura de devanado en 500 kV en el auto transformador ATBRE50002 de S/E Brechas.
+2026-10-09,00:00,24:00,"El CNDC registró en el sistema SCADA señales incorrectas en la estampa de tiempo del interruptor L2-661 y de los seccionadores L-61b, L-61c y L-10b de S/E Litio, debido a problemas en gateway."
+2026-10-09,00:00,24:00,"DELAPAZ energizó en vacío la línea en 115 kV Rosassani - Tap Bahai, desde el extremo Tap Bahai."
+2026-10-09,00:00,24:00,"El CNDC no contó en el sistema SCADA con señal de estado del interruptor de la unidad KAN, debido a problemas de telecontrol."
+2026-10-09,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de S/E Caiza, debido a problemas del enlace de comunicación."
+2026-10-09,00:00,24:00,"SEPSA deshabilitó la protección diferencial (87T) del transformador TRPUN069 de S/E Punutuma, debido a inestabilidad en la función 87T, de acuerdo a correo electrónico de fecha 28/09/2022."
+2026-10-09,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales digitales de Planta Solar Yunchará, debido a problemas en equipo de comunicación."
+2026-10-09,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas y de estado del transformador TRHUN069 de S/E Huanuni, debido a problemas en equipo de comunicaciones."
+2026-10-09,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de Coboce línea Irpa Irpa y del transformador TRCOB11503, debido a problemas en equipo de comunicaciones."
+2026-10-09,00:00,24:00,"El CNDC registró en el sistema SCADA señales incorrectas en la estampa de tiempo de los interruptores A855, D8510, D8511 y del seccionador 55-2 de S/E Paraíso, debido a problemas en telecontrol."
+2026-10-09,00:00,24:00,"SEPSA informó que se encuentra deshabilitada la protección diferencial de línea PP1 y PP2 de la línea en 115 kV Potosí - Velarde, por trabajos de reubicación del tablero principal de comunicaciones en S/E Potosí."
+2026-10-09,00:00,24:00,"El CNDC registró en el sistema SCADA señales incorrectas en la estampa de tiempo del interruptor IM42 de S/E Trinidad, debido a problemas de sincronización GPS."
+2026-10-09,00:00,24:00,"CRE realizó la desenergización de la línea en 115 kV Bélgica - Valle Sánchez, por estructura afectada por crecida de río, de acuerdo a Solicitud de Desconexión N° GOO/073/2025."
+2026-10-09,00:00,24:00,"El CNDC no contó en el sistema SCADA con señal de estado de interruptores de S/E Landara, debido a problemas en enlace de comunicación."
+2026-10-09,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales de estado de los interruptores L3B9 en S/E Cuadro Siglo línea Catavi, L1B9 línea a Huanuni y señales analógicas del transformador TRCSG069, debido a daño en la unidad terminal remota (RTU)."
+2026-10-09,00:00,24:00,"ISABOL realizó la deshabilitación de la función de bloqueo por oscilación de potencia en los relés PL1 y PL2 en S/E Santivañez, de acuerdo a correo electrónico de fecha 04/02/2026."
+2026-10-09,06:54,16:02,"ENDE TRANSMISIÓN realizó cambio de CTs asociados al interruptor A147 de S/E Valle Hermoso, mejoras en circuitos de control y protección, de acuerdo a Solicitud de Desconexión N° 495/2025-2026 Rev1."
+2026-10-09,07:02,14:10,"SEPSA realizó mantenimiento de equipos de patio en 69 kV y ajuste de barras en 24.9 kV en S/E Punutuma, de acuerdo a Solicitud de Desconexión N° SE_PUN 033/2026."
+2026-10-09,07:59,17:31,"ENDE TRANSMISIÓN realizó mediciones completas interruptor Z850 en S/E Paraíso, mediciones CTs asociados al interruptor, de acuerdo a Solicitud de Desconexión N° 498/2025-2026."
+2026-10-09,08:04,24:00,"ENDE VALLE HERMOSO realizó trabajos de mantenimiento anual de transformador TRCAR23002 y la unidad CAR02 de S/E Carrasco, de acuerdo a Solicitud de Desconexión N° 1."
+2026-10-09,08:18,17:04,ENDE TRANSMSIÓN realizó inspección de equipos de patio y medición en bancos de baterías en 125 V dc en S/E Padilla.
+2026-10-09,08:30,18:10,ENDE TRANSMSIÓN realizó inspección de equipos de patio y medición en bancos de baterías en 125 V dc en S/E Villa Tunari.
+2026-10-09,08:57,15:59,ENDE TRANSMISIÓN realizó termografía a cuellos muertos en línea en 230 kV Punutuma - Las Carreras.
+2026-10-09,09:08,16:44,ENDE TRANSMISIÓN realizó termografía a cuellos muertos en línea en 230 kV Guarayos - Paraíso N° 1 y 2.
+2026-10-09,09:59,24:00,"El CNDC registró en el sistema SCADA señales analógicas intermitentes de las centrales Warnes, Entre Ríos y Sur, debido a causa no determinada."
+2026-10-09,10:05,16:04,ENDE TRANSMSIÓN realizó inspección de equipos de patio y medición en bancos de baterías en 125 V dc en S/E La Angostura.
+2026-10-09,10:07,16:13,ENDE TRANSMISIÓN realizó inspección y patrullaje en la línea en 115 kV Huaji - Caranavi.
+2026-10-09,10:28,15:54,ENDE TRANSMISIÓN realizó termografía a cuellos muertos en línea en 230 kV Miguelito - Santivañez N° 1 y 2.
+2026-10-09,10:33,12:41,"El CNDC no contó con el estimador de estados en sitio de control Valle Hermoso, debido a causa no informada."
+2026-10-09,10:55,17:17,ENDE TRANSMSIÓN realizó inspección de equipos de patio y medición en bancos de baterías en 125 V dc en S/E La Plata.
+2026-10-09,11:30,17:20,ENDE TRANSMISIÓN realizó termografía a cuellos muertos en línea en 115 kV Pagador - Solar Oruro N° 1 y 2.
+2026-10-09,11:55,11:59,Debido al disparo de la SUR40 con 30.5 MW y reducción de generación de planta solar Oruro de 95.7 MW a 34.1 MW la frecuencia en el SIN descendió de 49.94 Hz a 49.72 Hz.
+2026-10-09,12:50,24:00,"El CNDC registro en el sistema SCADA señales congeladas de planta solar Uyuni, debido a problemas en el servidor OPC."
+2026-10-09,13:38,14:37,"ENDE TRANSMISIÓN realizó revisión de relé PP2 SIEMENS 7UT85 del autotransformador ATPCA23001 en S/E Palca, de acuerdo a correo electrónico de fecha 09/10/2026."
+2026-10-09,14:23,15:25,CESSA realizó trabajos de mantenimientos preventivos en banco de baterías en S/E Sucre
+2026-10-09,14:39,15:22,ENDE TRANSMISIÓN realizó el retiro de nido de aves en S/E Trinidad de acuerdo a correo electrónico de fecha 09/10/2026.
+2026-10-09,15:14,15:20,ENDE TRANSMISIÓN realizó el retiro de nido de aves sobre seccionador 51-2 de S/E Paraíso.
+2026-10-10,00:00,13:51,"El CNDC registro en el sistema SCADA señales congeladas de planta solar Uyuni, debido a problemas en el servidor OPC."
+2026-10-10,00:00,24:00,"DELAPAZ energizó en vacío el transformador TRKEN06905 de S/E Kenko, de acuerdo a Solicitud de Desconexión N° 20-2024."
+2026-10-10,00:00,24:00,"DELAPAZ informó indisponibilidad del relé diferencial de barra en 115 kV en S/E Avenida Arce, debido a una falla interna en el relé, de acuerdo a correo electrónico de fecha 02/08/2023."
+2026-10-10,00:00,24:00,"El CNDC registro en el sistema SCADA señales analógicas erróneas en instalaciones de EMDEECRUZ,  debido causa no determinada."
+2026-10-10,00:00,24:00,"El CNDC registró en el sistema SCADA señales analógicas intermitentes de las centrales Warnes, Entre Ríos y Sur, debido a causa no determinada."
+2026-10-10,00:00,24:00,"ENDE VALLE HERMOSO realizó trabajos de mantenimiento anual de transformador TRCAR23002 y la unidad CAR02 de S/E Carrasco, de acuerdo a Solicitud de Desconexión N° 1."
+2026-10-10,00:00,24:00,"AGUAÍ ENERGÍA realizó la desenergización del transformador TRAGU11505 de S/E Aguaí, de acuerdo a Solicitud de Desconexión N° AT-14-2026."
+2026-10-10,00:00,24:00,"COBEE realizó la desconexión del transformador TRTIG115 de S/E Tiquimani por mantenimiento, de acuerdo a Solicitud de Desconexión N° 111."
+2026-10-10,00:00,24:00,DELAPAZ transfirió la carga del alimentador Chochocoro al alimentador Mariscal Santa Cruz de S/E Viriloco.
+2026-10-10,00:00,24:00,"ENDE ANDINA realizó la desconexión del transformador TRERI23032 de S/E Entre Ríos II, de acuerdo a Solicitud de Desconexión N° 026-2026."
+2026-10-10,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales  digitales de S/E Las Lomas, debido a problemas en equipo de comunicación."
+2026-10-10,00:00,24:00,"DELAPAZ energizó en vacío la línea en 115 kV Rosassani - Tap Bahai, desde el extremo Tap Bahai."
+2026-10-10,00:00,24:00,"El CNDC no contó en el sistema SCADA con señal de estado del interruptor de la unidad KAN, debido a problemas de telecontrol."
+2026-10-10,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de S/E Caiza, debido a problemas del enlace de comunicación."
+2026-10-10,00:00,24:00,"SEPSA deshabilitó la protección diferencial (87T) del transformador TRPUN069 de S/E Punutuma, debido a inestabilidad en la función 87T, de acuerdo a correo electrónico de fecha 28/09/2022."
+2026-10-10,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales digitales de Planta Solar Yunchará, debido a problemas en equipo de comunicación."
+2026-10-10,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas y de estado del transformador TRHUN069 de S/E Huanuni, debido a problemas en equipo de comunicaciones."
+2026-10-10,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de Coboce línea Irpa Irpa y del transformador TRCOB11503, debido a problemas en equipo de comunicaciones."
+2026-10-10,00:00,24:00,"El CNDC registró en el sistema SCADA señales incorrectas en la estampa de tiempo de los interruptores A855, D8510, D8511 y del seccionador 55-2 de S/E Paraíso, debido a problemas en telecontrol."
+2026-10-10,00:00,24:00,"SEPSA informó que se encuentra deshabilitada la protección diferencial de línea PP1 y PP2 de la línea en 115 kV Potosí - Velarde, por trabajos de reubicación del tablero principal de comunicaciones en S/E Potosí."
+2026-10-10,00:00,24:00,"El CNDC registró en el sistema SCADA señales incorrectas en la estampa de tiempo del interruptor IM42 de S/E Trinidad, debido a problemas de sincronización GPS."
+2026-10-10,00:00,24:00,"CRE realizó la desenergización de la línea en 115 kV Bélgica - Valle Sánchez, por estructura afectada por crecida de río, de acuerdo a Solicitud de Desconexión N° GOO/073/2025."
+2026-10-10,00:00,24:00,"El CNDC no contó en el sistema SCADA con señal de estado de interruptores de S/E Landara, debido a problemas en enlace de comunicación."
+2026-10-10,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales de estado de los interruptores L3B9 en S/E Cuadro Siglo línea Catavi, L1B9 línea a Huanuni y señales analógicas del transformador TRCSG069, debido a daño en la unidad terminal remota (RTU)."
+2026-10-10,00:00,24:00,"ISABOL realizó la deshabilitación de la función de bloqueo por oscilación de potencia en los relés PL1 y PL2 en S/E Santivañez, de acuerdo a correo electrónico de fecha 04/02/2026."
+2026-10-10,00:00,24:00,"El CNDC registró en el sistema SCADA señales incorrectas en la estampa de tiempo del interruptor L2-661 y de los seccionadores L-61b, L-61c y L-10b de S/E Litio, debido a problemas en gateway."
+2026-10-10,00:00,24:00,ENDE TRANSMISIÓN deshabilitó el disparo de sobre temperatura de devanado en 500 kV en el auto transformador ATBRE50002 de S/E Brechas.
+2026-10-10,00:00,24:00,"El CNDC registró en el sistema SCADA señales incorrectas en la estampa de tiempo del interruptor B792 de S/E Villamontes, debido a problemas en equipo de comunicación."
+2026-10-10,00:00,24:00,"ENDE TRANSMISIÓN realizó la habilitación de disparos sin enlace diferencial en los relés A149 y A150 de S/E Valle Hermoso, debido a anomalía detectada en el relé PP1 del interruptor 700 de S/E Rafael Urquidi propiedad de ELFEC, de acuerdo a correo electrónico de fecha 25/05/2026."
+2026-10-10,00:00,24:00,La generación de Refinería Gualberto Villarroel (RYPFB) inyectó excedentes de 0.9 MW.
+2026-10-10,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de las unidades ARJ09, ARJ11, ARJ12, ARJ13, ARJ14, ARJ01, ARJ02 y ARJ03, debido a problemas en RTU."
+2026-10-10,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas y discretas en S/E Irpa Irpa línea a Coboce, debido a problemas en equipo de comunicaciones."
+2026-10-10,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de Central Eólica Qollpana Fase I, debido a problemas en equipo de comunicación."
+2026-10-10,00:00,24:00,"CRE realizó trabajos de cambio de relé controlador e integración en tablero nuevo IHM en S/E Guaracachi, de acuerdo a Solicitud de Desconexión N° GOO/064/2026."
+2026-10-10,00:00,24:00,"ENDE TRANSMISIÓN realizó trabajos de cambió de partes del autotransformador ATBRE50001 de S/E Brechas, de acuerdo a Solicitud de Desconexión N° 478/2025-2026."
+2026-10-10,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de S/E Ocurí, debido a problemas de telecontrol."
+2026-10-10,06:42,11:09,"ENDE TRANSMISIÓN realizó verificación de hermeticidad y estanqueidad en guardas reactor REPAD11501 en S/E Padilla, de acuerdo a Solicitud de Desconexión N° 499/2025-2026."
+2026-10-10,07:34,16:50,"ENDE TRANSMISIÓN realizó corrección de puntos calientes seccionador 68-2 en S/E Carrasco, mejoramiento de hermeticidad autotransformador ATCAR50001, de acuerdo a Solicitud de Desconexión N° 500/2025-2026."
+2026-10-10,07:58,12:10,"ENDE TRANSMISIÓN realizó desmontaje de CTs en S/E Valle Hermoso salida línea Irpa Irpa, de acuerdo a Solicitud de Desconexión N° 501/2025-2026."
+2026-10-10,08:07,17:37,"ENDE TRANSMISIÓN realizó mediciones completas autotransformador ATPLA11501 en S/E La Plata, de acuerdo a Solicitud de Desconexión N° 502/2025-2026."
+2026-10-10,08:26,24:00,"CRE realizó trabajos de revisión y reparación de fibra óptica (GGTIR) en la línea Feria Exposición - Mapaiso en 69 kV, de acuerdo a Solicitud de Desconexión N° GOO/081/2026."
+2026-10-10,09:55,12:48,ENDE TRANSMISIÓN realizó termografía a cuellos muertos en línea en 115 kV Pagador - Solar Oruro N° 1 y 2.
+2026-10-10,09:57,12:35,ENDE TRANSMISIÓN realizó termografía a cuellos muertos en línea en 230 kV Guarayos - Paraíso N° 1 y 2.
+2026-10-10,12:44,13:26,ELFEC transfirió la carga del alimentador Q-2 de S/E Quillacollo al alimentador K-2 de S/E Colcapirhua.
+2026-10-10,13:44,14:22,ENDE TRANSMISIÓN realizó retiro de nidos de aves en S/Es Trinidad y Paraíso.
+2026-10-10,22:58,23:02,"ENDE DELBENI desconexión del alimentador D8513 de S/E Paraíso causa fuertes vientos, 2.75 MW"
+2026-10-11,00:00,15:36,"CRE realizó trabajos de revisión y reparación de fibra óptica (GGTIR) en la línea Feria Exposición - Mapaiso en 69 kV, de acuerdo a Solicitud de Desconexión N° GOO/081/2026."
+2026-10-11,00:00,16:34,"ENDE VALLE HERMOSO realizó trabajos de mantenimiento anual de transformador TRCAR23002 y la unidad CAR02 de S/E Carrasco, de acuerdo a Solicitud de Desconexión N° 1."
+2026-10-11,00:00,24:00,"DELAPAZ energizó en vacío el transformador TRKEN06905 de S/E Kenko, de acuerdo a Solicitud de Desconexión N° 20-2024."
+2026-10-11,00:00,24:00,"DELAPAZ informó indisponibilidad del relé diferencial de barra en 115 kV en S/E Avenida Arce, debido a una falla interna en el relé, de acuerdo a correo electrónico de fecha 02/08/2023."
+2026-10-11,00:00,24:00,"El CNDC registró en el sistema SCADA señales analógicas congeladas de la planta solar Uyuni fase II, debido a bloqueo en equipo de comunicación."
+2026-10-11,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de Central Eólica Qollpana Fase II, debido a problemas en equipo de comunicación."
+2026-10-11,00:00,24:00,"AGUAÍ ENERGÍA realizó la desenergización del transformador TRAGU11505 de S/E Aguaí, de acuerdo a Solicitud de Desconexión N° AT-14-2026."
+2026-10-11,00:00,24:00,"COBEE realizó la desconexión del transformador TRTIG115 de S/E Tiquimani por mantenimiento, de acuerdo a Solicitud de Desconexión N° 111."
+2026-10-11,00:00,24:00,DELAPAZ transfirió la carga del alimentador Chochocoro al alimentador Mariscal Santa Cruz de S/E Viriloco.
+2026-10-11,00:00,24:00,"DELAPAZ energizó en vacío la línea en 115 kV Rosassani - Tap Bahai, desde el extremo Tap Bahai."
+2026-10-11,00:00,24:00,"El CNDC no contó en el sistema SCADA con señal de estado del interruptor de la unidad KAN, debido a problemas de telecontrol."
+2026-10-11,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de S/E Caiza, debido a problemas del enlace de comunicación."
+2026-10-11,00:00,24:00,"SEPSA deshabilitó la protección diferencial (87T) del transformador TRPUN069 de S/E Punutuma, debido a inestabilidad en la función 87T, de acuerdo a correo electrónico de fecha 28/09/2022."
+2026-10-11,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales digitales de Planta Solar Yunchará, debido a problemas en equipo de comunicación."
+2026-10-11,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas y de estado del transformador TRHUN069 de S/E Huanuni, debido a problemas en equipo de comunicaciones."
+2026-10-11,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de Coboce línea Irpa Irpa y del transformador TRCOB11503, debido a problemas en equipo de comunicaciones."
+2026-10-11,00:00,24:00,"El CNDC registró en el sistema SCADA señales incorrectas en la estampa de tiempo de los interruptores A855, D8510, D8511 y del seccionador 55-2 de S/E Paraíso, debido a problemas en telecontrol."
+2026-10-11,00:00,24:00,"SEPSA informó que se encuentra deshabilitada la protección diferencial de línea PP1 y PP2 de la línea en 115 kV Potosí - Velarde, por trabajos de reubicación del tablero principal de comunicaciones en S/E Potosí."
+2026-10-11,00:00,24:00,"El CNDC registró en el sistema SCADA señales incorrectas en la estampa de tiempo del interruptor IM42 de S/E Trinidad, debido a problemas de sincronización GPS."
+2026-10-11,00:00,24:00,"CRE realizó la desenergización de la línea en 115 kV Bélgica - Valle Sánchez, por estructura afectada por crecida de río, de acuerdo a Solicitud de Desconexión N° GOO/073/2025."
+2026-10-11,00:00,24:00,"El CNDC no contó en el sistema SCADA con señal de estado de interruptores de S/E Landara, debido a problemas en enlace de comunicación."
+2026-10-11,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales de estado de los interruptores L3B9 en S/E Cuadro Siglo línea Catavi, L1B9 línea a Huanuni y señales analógicas del transformador TRCSG069, debido a daño en la unidad terminal remota (RTU)."
+2026-10-11,00:00,24:00,"ISABOL realizó la deshabilitación de la función de bloqueo por oscilación de potencia en los relés PL1 y PL2 en S/E Santivañez, de acuerdo a correo electrónico de fecha 04/02/2026."
+2026-10-11,00:00,24:00,"El CNDC registró en el sistema SCADA señales incorrectas en la estampa de tiempo del interruptor L2-661 y de los seccionadores L-61b, L-61c y L-10b de S/E Litio, debido a problemas en gateway."
+2026-10-11,00:00,24:00,ENDE TRANSMISIÓN deshabilitó el disparo de sobretemperatura de devanado en 500 kV en el auto transformador ATBRE50002 de S/E Brechas.
+2026-10-11,00:00,24:00,"El CNDC registró en el sistema SCADA señales incorrectas en la estampa de tiempo del interruptor B792 de S/E Villamontes, debido a problemas en equipo de comunicación."
+2026-10-11,00:00,24:00,"ENDE TRANSMISIÓN realizó la habilitación de disparos sin enlace diferencial en los relés A149 y A150 de S/E Valle Hermoso, debido a anomalía detectada en el relé PP1 del interruptor 700 de S/E Rafael Urquidi propiedad de ELFEC, de acuerdo a correo electrónico de fecha 25/05/2026."
+2026-10-11,00:00,24:00,La generación de Refinería Gualberto Villarroel (RYPFB) inyectó excedentes de 0.9 MW.
+2026-10-11,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de las unidades ARJ09, ARJ11, ARJ12, ARJ13, ARJ14, ARJ01, ARJ02 y ARJ03, debido a problemas en RTU."
+2026-10-11,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas y discretas en S/E Irpa Irpa línea a Coboce, debido a problemas en equipo de comunicaciones."
+2026-10-11,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de Central Eólica Qollpana Fase I, debido a problemas en equipo de comunicación."
+2026-10-11,00:00,24:00,"CRE realizó trabajos de cambio de relé controlador e integración en tablero nuevo IHM en S/E Guaracachi, de acuerdo a Solicitud de Desconexión N° GOO/064/2026."
+2026-10-11,00:00,24:00,"ENDE TRANSMISIÓN realizó trabajos de cambió de partes del autotransformador ATBRE50001 de S/E Brechas, de acuerdo a Solicitud de Desconexión N° 478/2025-2026."
+2026-10-11,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales analógicas de S/E Ocurí, debido a problemas de telecontrol."
+2026-10-11,00:00,24:00,"El CNDC no contó en el sistema SCADA con señales digitales de S/E Las Lomas, debido a problemas en equipo de comunicación."
+2026-10-11,00:00,24:00,"ENDE ANDINA realizó la desconexión del transformador TRERI23032 de S/E Entre Ríos II, de acuerdo a Solicitud de Desconexión N° 026-2026."
+2026-10-11,06:00,17:01,"ISABOL realizó corrección de puntos calientes en CT 230 kV, ajuste de conexiones seccionador 1A181, incremento del nivel de aceite en el transformador zig zag y cambio de contactores en interruptores ARB2A220,  ARB1A180 y ARB2B200 en S/E Arboleda, de acuerdo a Solicitud de Desconexión N° 42/2025-2026."
+2026-10-11,06:01,14:38,"ENDE TRANSMISIÓN realizó trabajos de mediciones completas, inspección y ajustes en autotransformador ATUYU23001 de S/E Uyuni, de acuerdo a Solicitud de Desconexión N° 504/2025-2026."
+2026-10-11,07:00,16:48,"ENDE TRANSMISIÓN realizó trabajos de mejoramiento de hermeticidad en autotransformador ATCAR50002 en S/E Carrasco, de acuerdo a Solicitud de Desconexión N° 506/2025-2026."
+2026-10-11,07:15,11:13,"ENDE DEORURO realizó trabajos de mantenimiento preventivo en la bahía de transformador TRSOC069 lado AT en S/E Socomani, de acuerdo a Solicitud de Desconexión N° SO-2610-5502."
+2026-10-11,08:00,08:48,"ENDE TRANSMISIÓN realizó trabajos de retiro de nido de ave en pórtico en S/E Mazocruz salida línea Contorno Bajo N°2, de acuerdo a Solicitud de Desconexión N° 518/2025-2026."
+2026-10-11,11:50,20:10,AGUAI ENERGÍA en coordinación con CRE operó como gran consumidor.
+2026-10-11,21:12,24:00,"El CDC registró variaciones de potencia activa de la unidad GCH10 en un rango de 48 MW y 52 MW, debido a causa no informada."
+2026-10-11,23:08,24:00,AGUAI ENERGÍA en coordinación con CRE operó como gran consumidor.
