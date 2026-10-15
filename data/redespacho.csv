@@ -26645,3 +26645,12 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-10-12,COBEE,G,Sistema Zongo,11:00,16:00,Menores aportes laterales de agua a lo previsto.
 2026-10-12,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
 2026-10-12,COBEE,G,Sistema Miguillas,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-10-13,SETAR,D,Área Tarija,01:00,13:00,Menor demanda a la prevista.
+2026-10-13,ENDE DELBENI,D,Área Trinidad,01:00,13:00,Menor demanda a la prevista.
+2026-10-13,COBEE,G,Sistema Miguillas,01:00,17:00,Mayores aportes laterales de agua a lo previsto.
+2026-10-13,COBEE,G,Sistema Zongo,07:00,14:00,Menores aportes laterales de agua a lo previsto.
+2026-10-13,ENDEG,G,Central Eólica El Dorado,07:00,15:00,"Menor generación, condiciones climáticas desfavorables."
+2026-10-13,ENDEG,G,Central Solar Oruro I y II,07:00,15:00,"Mayor generación, condiciones climáticas favorables."
+2026-10-13,CRE,D,Área Oriental,15:00,24:00,Mayor demanda a la prevista.
+2026-10-13,COBEE,G,Sistema Zongo,16:00,18:00,Menores aportes laterales de agua a lo previsto.
+2026-10-13,CESSA,D,Área Sucre,19:00,24:00,Mayor demanda a la prevista.

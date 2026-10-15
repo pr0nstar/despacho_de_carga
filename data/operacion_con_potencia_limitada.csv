@@ -90050,3 +90050,13 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-10-12,AGUAÍ ENERGÍA,G,AGU01,21:15,24:00,3.13 MW,Baja presión de vapor en caldero.
 2026-10-12,GBE,G,GBE01,22:45,24:00,10.18 MW,Baja presión de vapor en caldero.
 2026-10-12,AGUAÍ ENERGÍA,G,AGU02,23:50,24:00,39.33 MW,Baja presión de vapor en caldero.
+2026-10-13,AGUAÍ ENERGÍA,G,AGU02,00:00,00:15,39.33 MW,Baja presión de vapor en caldero.
+2026-10-13,AGUAÍ ENERGÍA,G,AGU01,00:00,15:38,3.80 MW,Baja presión de vapor en caldero.
+2026-10-13,ENDE GUARACACHI,G,GCH12,00:00,24:00,72.00 MW,Calentamiento de carcasa de turbina de la unidad GCH12.
+2026-10-13,ENDE GUARACACHI,G,GCH09,00:00,24:00,56.70 MW,Calentamiento de carcasa de turbina de la unidad GCH12.
+2026-10-13,ENDE GUARACACHI,G,GCH10,00:00,24:00,56.70 MW,Calentamiento de carcasa de turbina de la unidad GCH12.
+2026-10-13,ENDE GUARACACHI,G,UNA01,00:00,24:00,5.94 MW,Baja presión de vapor en caldero.
+2026-10-13,GBE,G,GBE01,00:00,24:00,11.72 MW,Baja presión de vapor en caldero.
+2026-10-13,AGUAÍ ENERGÍA,G,AGU02,00:15,00:36,45.45 MW,Baja presión de vapor en caldero.
+2026-10-13,AGUAÍ ENERGÍA,G,AGU02,00:36,18:15,53.41 MW,Baja presión de vapor en caldero.
+2026-10-13,AGUAÍ ENERGÍA,G,AGU02,18:15,24:00,52.17 MW,Baja presión de vapor en caldero.
