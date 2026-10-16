@@ -26654,3 +26654,14 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-10-13,CRE,D,Área Oriental,15:00,24:00,Mayor demanda a la prevista.
 2026-10-13,COBEE,G,Sistema Zongo,16:00,18:00,Menores aportes laterales de agua a lo previsto.
 2026-10-13,CESSA,D,Área Sucre,19:00,24:00,Mayor demanda a la prevista.
+2026-10-14,DELAPAZ,D,Área Norte,01:00,04:00,Mayor demanda a la prevista.
+2026-10-14,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-10-14,ENDE DELBENI,D,Área Trinidad,01:00,08:00,Menor demanda a la prevista.
+2026-10-14,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-10-14,SETAR,D,Área Tarija,01:00,24:00,Menor demanda a la prevista.
+2026-10-14,ENDEG,G,Central Eólica Warnes,04:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-10-14,COBEE,G,Sistema Miguillas,09:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-10-14,ENDE CORANI,G,Central Misicuni,10:00,18:00,Menor generación por riesgo de rebalse.
+2026-10-14,ENDEG,G,Central Eólica San Julián,15:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-10-14,CRE,D,Área Oriental,16:00,24:00,Menor demanda a la prevista.
+2026-10-14,ENDE CORANI,G,Central Misicuni,20:00,24:00,Menor generación por riesgo de rebalse.

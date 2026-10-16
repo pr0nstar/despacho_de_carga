@@ -103757,3 +103757,5 @@ fecha,agente,cat,componente,de_hrs,a_hrs,causa,tipo,edac,n_inf,agente_afectado
 2026-10-13,ENDE ORURO,D,SUD-CRQ069,17:41,17:41,"Fuertes vientos, 1.1 MW.",Forzado,-,,
 2026-10-13,ENDE ORURO,D,SUD-CRQ069,17:53,17:53,"Fuertes vientos, 1.3 MW.",Forzado,-,,
 2026-10-13,ENDE ORURO,D,SUD-CRQ069,18:21,18:21,"Fuertes vientos, 1.5 MW.",Forzado,-,,
+2026-10-14,ENDEG,G,SJU03,07:53,10:51,Falla en sistema de refrigeración.,Forzado,-,,
+2026-10-14,DELAPAZ,D,Panorámica,17:04,17:30,"No determinada, operó relé 50P, 1.21 MW.",Forzado,-,,
