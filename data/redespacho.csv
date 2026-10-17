@@ -26665,3 +26665,13 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-10-14,ENDEG,G,Central Eólica San Julián,15:00,24:00,"Mayor generación, condiciones climáticas favorables."
 2026-10-14,CRE,D,Área Oriental,16:00,24:00,Menor demanda a la prevista.
 2026-10-14,ENDE CORANI,G,Central Misicuni,20:00,24:00,Menor generación por riesgo de rebalse.
+2026-10-15,COBEE,G,Sistema Miguillas,00:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-10-15,DELAPAZ,D,Área Norte,01:00,06:00,Mayor demanda a la prevista.
+2026-10-15,ENDE CORANI,G,Central Eólica Qollpana I y II,01:00,13:00,"Mayor generación, condiciones climáticas favorables."
+2026-10-15,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-10-15,ENDEG,G,Central Solar Uyuni I y II,07:00,16:00,"Mayor generación, condiciones climáticas favorables."
+2026-10-15,ENDEG,G,Central Eólica El Dorado,08:00,15:00,"Menor generación, condiciones climáticas desfavorables."
+2026-10-15,ENDE DELBENI,D,Área Trinidad,08:00,24:00,Menor demanda a la prevista.
+2026-10-15,ENDE CORANI,G,Central Misicuni,11:00,18:00,Menor generación por riesgo de rebalse.
+2026-10-15,CRE,D,Área Oriental,11:00,24:00,Menor demanda a la prevista.
+2026-10-15,SETAR,D,Área Tarija,11:00,24:00,Menor demanda a la prevista.
