@@ -90154,3 +90154,22 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-10-19,AGUAÍ ENERGÍA,G,AGU02,11:15,11:25,33.48 MW,Baja presión de vapor en caldero.
 2026-10-19,ENDE GUARACACHI,G,SBU01,22:00,24:00,3.85 MW,Baja presión de vapor en caldero.
 2026-10-19,GBE,G,GBE01,22:00,24:00,11.84 MW,Baja presión de vapor en caldero.
+2026-10-20,GBE,G,GBE01,00:00,07:40,11.97 MW,Baja presión de vapor en caldero.
+2026-10-20,ENDE GUARACACHI,G,SBU01,00:00,09:15,4.54 MW,Baja presión de vapor en caldero.
+2026-10-20,ENDE GUARACACHI,G,UNA01,00:00,15:15,8.09 MW,Baja presión de vapor en caldero.
+2026-10-20,ENDE GUARACACHI,G,GCH10,00:00,24:00,54.35 MW,Calentamiento de carcasa de turbina de la unidad GCH12.
+2026-10-20,ENDE GUARACACHI,G,GCH09,00:00,24:00,54.35 MW,Calentamiento de carcasa de turbina de la unidad GCH12.
+2026-10-20,ENDE GUARACACHI,G,GCH12,00:00,24:00,70.65 MW,Calentamiento de carcasa de turbina de la unidad GCH12.
+2026-10-20,AGUAÍ ENERGÍA,G,AGU02,06:25,07:06,45.50 MW,Baja presión de vapor en caldero.
+2026-10-20,AGUAÍ ENERGÍA,G,AGU02,07:06,13:57,50.56 MW,Baja presión de vapor en caldero.
+2026-10-20,ENDE GUARACACHI,G,SBU01,09:15,24:00,3.76 MW,Baja presión de vapor en caldero.
+2026-10-20,GBE,G,GBE01,10:39,11:15,4.87 MW,Baja presión de vapor en caldero.
+2026-10-20,GBE,G,GBE01,11:15,24:00,11.43 MW,Baja presión de vapor en caldero.
+2026-10-20,AGUAÍ ENERGÍA,G,AGU02,13:57,15:28,39.94 MW,Baja presión de vapor en caldero.
+2026-10-20,AGUAÍ ENERGÍA,G,AGU01,13:57,15:30,2.65 MW,Baja presión de vapor en caldero.
+2026-10-20,CE,G,BUL03,15:14,19:44,37.00 MW,Restricción de gas a la central.
+2026-10-20,ENDE GUARACACHI,G,UNA01,15:15,15:45,7.06 MW,Baja presión de vapor en caldero.
+2026-10-20,AGUAÍ ENERGÍA,G,AGU01,15:30,15:57,1.57 MW,Baja presión de vapor en caldero.
+2026-10-20,ENDE GUARACACHI,G,UNA01,15:45,16:30,8.09 MW,Baja presión de vapor en caldero.
+2026-10-20,AGUAÍ ENERGÍA,G,AGU02,16:24,17:35,44.94 MW,Baja presión de vapor en caldero.
+2026-10-20,ENDE GUARACACHI,G,UNA01,16:30,24:00,7.98 MW,Baja presión de vapor en caldero.
