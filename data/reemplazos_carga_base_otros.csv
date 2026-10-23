@@ -200395,3 +200395,17 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-10-20,COBEE,G,Central Choquetanga,22:00,24:00,"A solicitud de COBEE, las unidades CHO01, CHO02 y CHO03, concentraron reserva secundaria de 6 % en SRO01."
 2026-10-20,COBEE,G,CRB,22:00,24:00,"A solicitud de COBEE, la unidad CRB, concentró reserva secundaria de 6 % en SRO01."
 2026-10-20,ENDE ANDINA,G,WAR05,22:50,24:00,"A solicitud de ENDE ANDINA, la unidad WAR05 permaneció en Sistema con 20.0 MW, la carga fue compensada en CCWAR10 (5.0 MW), CCWAR20 (5.0 MW), CCWAR30 (5.0 MW) y CCWAR40 (5.0 MW)"
+2026-10-21,COBEE,G,Central Choquetanga,00:00,07:00,"A solicitud de COBEE, las unidades CHO01, CHO02 y CHO03, concentraron reserva secundaria de 7 % en SRO01."
+2026-10-21,COBEE,G,CRB,00:00,07:00,"A solicitud de COBEE, la unidad CRB, concentró reserva secundaria de 7 % en SRO01."
+2026-10-21,ENDE ANDINA,G,WAR05,00:00,09:31,"A solicitud de ENDE ANDINA, la unidad WAR05 permaneció en Sistema con 20.0 MW, la carga fue compensada en CCWAR10 (5.0 MW), CCWAR20 (5.0 MW), CCWAR30 (5.0 MW) y CCWAR40 (5.0 MW)"
+2026-10-21,COBEE,G,Central Choquetanga,07:00,18:00,"A solicitud de COBEE, las unidades CHO01, CHO02 y CHO03, concentraron reserva secundaria de 6 % en SRO01."
+2026-10-21,COBEE,G,CRB,07:00,18:00,"A solicitud de COBEE, la unidad CRB, concentró reserva secundaria de 6 % en SRO01."
+2026-10-21,COBEE,G,MIG02,12:25,13:05,"En prueba con 1.0 MW, la carga fue compensada en HAR01."
+2026-10-21,ENDE VALLE HERMOSO,G,ALT01,13:09,22:51,"A solicitud de ENDE VALLE HERMOSO, operó en lugar de VHE03."
+2026-10-21,ENDE VALLE HERMOSO,G,VHE03,13:09,22:51,"A solicitud de ENDE VALLE HERMOSO, en lugar de ALT01."
+2026-10-21,COBEE,G,Central Choquetanga,18:00,22:00,"A solicitud de COBEE, las unidades CHO01, CHO02 y CHO03, concentraron reserva secundaria de 3 % en SRO01."
+2026-10-21,COBEE,G,CRB,18:00,22:00,"A solicitud de COBEE, la unidad CRB, concentró reserva secundaria de 3 % en SRO01."
+2026-10-21,COBEE,G,CAH02,18:42,18:42,En prueba con 0.0 MW.
+2026-10-21,COBEE,G,CRB,22:00,24:00,"A solicitud de COBEE, la unidad CRB, concentró reserva secundaria de 6 % en SRO01."
+2026-10-21,COBEE,G,Central Choquetanga,22:00,24:00,"A solicitud de COBEE, las unidades CHO01, CHO02 y CHO03, concentraron reserva secundaria de 6 % en SRO01."
+2026-10-21,COBEE,G,CAH02,22:25,22:25,En prueba con 0.0 MW.
