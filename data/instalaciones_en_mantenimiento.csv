@@ -325863,3 +325863,182 @@ fecha,agente,cat,componente,de_hrs,a_hrs,tipo,trabajo
 2026-10-22,ENDE TRANSMISION,T,REBRE50002,17:00,24:00,Forzado,"Extensión de mantenimiento, cambio de partes."
 2026-10-22,ENDE TRANSMISION,T,ATBRE50002,17:00,24:00,Forzado,"Extensión de mantenimiento, cambio de partes e intercambiabilidad."
 2026-10-22,ENDE TRANSMISION,T,ATBRE50001,17:00,24:00,Forzado,"Extensión de mantenimiento, cambio de partes."
+2026-10-23,AGUAÍ ENERGÍA,G,TRAGU11505,00:00,08:50,Forzado,Retraso en precalentamiento de caldero.
+2026-10-23,ENDEG,G,EDO01,00:00,09:29,Forzado,Falla de aerogenerador.
+2026-10-23,ENDEG,G,EDO11,00:00,10:31,Programado,Reparación de daños en palas.
+2026-10-23,ENDEG,G,EDO07,00:00,13:41,Forzado,Falla de aerogenerador.
+2026-10-23,CE,G,BUL01,00:00,24:00,Forzado,Restricción de gas a la central.
+2026-10-23,COBEE,G,TRSAI115,00:00,24:00,Programado,Mantenimiento anual.
+2026-10-23,COBEE,G,SAI,00:00,24:00,Programado,Mantenimiento anual.
+2026-10-23,CRE,D,BEL-VSA11501,00:00,24:00,Forzado,Trabajos en estructura de AT de la línea Bélgica - Valle Sánchez en riesgo por la crecida del río.
+2026-10-23,CRE,D,TRVSA11501,00:00,24:00,Forzado,Trabajos en estructura de AT de la línea Bélgica - Valle Sánchez en riesgo por la crecida del río.
+2026-10-23,CRE,D,ALI_03_11,00:00,24:00,Forzado,Pérdida de gas SF6 en la celda número 10 en media tensión.
+2026-10-23,DELAPAZ,D,TRSRQ06901,00:00,24:00,Programado,Construcción de la variante de línea aérea de 69 kV Alto Achachicala – Achacachi y desenergización de la subestación San Roque.
+2026-10-23,DELAPAZ,D,TRCRN11502,00:00,24:00,Programado,Energizado en vacío.
+2026-10-23,DELAPAZ,D,TRKEN06905,00:00,24:00,Forzado,Energizado en vacío.
+2026-10-23,DELAPAZ,D,CHONCHOCORO,00:00,24:00,Forzado,"Cable subterráneo dañado por retroexcavadora, 1.57 MW."
+2026-10-23,DELAPAZ,D,ROS-TBA115,00:00,24:00,Programado,Requerimiento operativo.
+2026-10-23,ELFEC,D,TRSAN11501,00:00,24:00,Programado,Cambio de transformador.
+2026-10-23,ELFEC,D,TRALA11501,00:00,24:00,Programado,Corte desmontaje transformador de potencia T-290 el transformador de potencia estará desenergizado hasta el 20 de diciembre del 2026.
+2026-10-23,EMVINTO,CNR,TRCMV06902,00:00,24:00,Forzado,"Mantenimiento, cambio de aceite dieléctrico."
+2026-10-23,ENDE ANDINA,G,TRERI23051,00:00,24:00,Programado,Inspección B de la unidad ERI51.
+2026-10-23,ENDE ANDINA,G,ERI51,00:00,24:00,Programado,Inspección tipo B.
+2026-10-23,ENDE ANDINA,G,ERI32,00:00,24:00,Programado,Inspección tipo B.
+2026-10-23,ENDE ANDINA,G,ERI04,00:00,24:00,Programado,Mantenimiento.
+2026-10-23,ENDE ANDINA,G,ERI01,00:00,24:00,Programado,Mantenimiento.
+2026-10-23,ENDE ANDINA,G,ERI02,00:00,24:00,Programado,Mantenimiento.
+2026-10-23,ENDE ANDINA,G,TRERI23032,00:00,24:00,Programado,Inspección tipo B.
+2026-10-23,ENDE GUARACACHI,G,ARJ01,00:00,24:00,Forzado,Mantenimiento en sistema de lubricación.
+2026-10-23,ENDE GUARACACHI,G,ARJ15,00:00,24:00,Programado,Mantenimiento general del motor.
+2026-10-23,ENDE GUARACACHI,G,ARJ03,00:00,24:00,Forzado,Mantenimiento en sistema de refrigeración.
+2026-10-23,ENDE GUARACACHI,G,ARJ02,00:00,24:00,Forzado,Mantenimiento en sistema de arranque.
+2026-10-23,ENDE ORURO,D,TRINT11501,00:00,24:00,Forzado,Causas internas de la planta.
+2026-10-23,ENDE TRANSMISION,T,ATBRE50002,00:00,24:00,Forzado,"Extensión de mantenimiento, cambio de partes autotransformador e intercambiabilidad."
+2026-10-23,ENDE TRANSMISION,T,REBRE50002,00:00,24:00,Forzado,"Extensión de mantenimiento, cambio de partes reactor."
+2026-10-23,ENDE TRANSMISION,T,ATBRE50001,00:00,24:00,Forzado,"Extensión de mantenimiento, cambio de partes en autotransformador."
+2026-10-23,ENDE VALLE HERMOSO,G,VHE02,00:00,24:00,Programado,"Extensión de mantenimiento, inspección en sección caliente de turbina."
+2026-10-23,ENDE VALLE HERMOSO,G,ALT02,00:00,24:00,Programado,Mantenimiento mayor.
+2026-10-23,ENDEG,G,SJU02,00:00,24:00,Programado,Mantenimiento anual de 5 años.
+2026-10-23,ENDEG,G,EDO15,00:00,24:00,Programado,Reparación de daño en palas.
+2026-10-23,ENDEG,G,SJU01,00:00,24:00,Programado,Reparación de daños en las palas.
+2026-10-23,ENDEG,G,SJU06,00:00,24:00,Programado,Mejora de puesta a tierra en palas.
+2026-10-23,ENDEG,G,EWA04,00:00,24:00,Forzado,Falla en sistema convertidor.
+2026-10-23,ENDEG,G,SJU11,00:00,24:00,Forzado,Bajo nivel de aceite en gearbox.
+2026-10-23,ENDEG,G,EDO06,00:00,24:00,Forzado,Falla sistema de amortiguación
+2026-10-23,ENDEG,G,EDO08,00:00,24:00,Programado,Mantenimiento a sistema HUB.
+2026-10-23,ENDEG,G,EDO09,00:00,24:00,Programado,Reparación de daño en palas.
+2026-10-23,ENDEG,G,SJU10,00:00,24:00,Forzado,Falla por alarma de vibración.
+2026-10-23,GBE,G,IAG01,00:00,24:00,Programado,Finalización del periodo de zafra.
+2026-10-23,SEPSA,D,TRVEL06904,00:00,24:00,Programado,Energizado en vacío.
+2026-10-23,SETAR,D,TRCRI06902,00:00,24:00,Forzado,"No determinada, operó protección de bloqueo."
+2026-10-23,SETAR,D,TRVAB11502,00:00,24:00,Programado,Intercambio de transformadores de potencia de 115/6.6 kV.
+2026-10-23,SETAR,D,TRTAJ11502,00:00,24:00,Programado,Trabajos de adecuación de salida de línea subterránea TAJ-VAV02401 y 02; y alimentadores de S/E Tarija en 24.9 kV.
+2026-10-23,ENDE GUARACACHI,G,UYU21,08:17,13:16,Programado,Mantenimiento tipo A.
+2026-10-23,ENDEG,G,SJU03,08:39,09:55,Programado,Mantenimiento anual de 5 años.
+2026-10-23,CRE,D,GCH-PIN069,09:33,16:13,Programado,Descargo para revisión y reparación de fibra óptica.
+2026-10-23,ENDEG,G,SJU05,09:38,11:15,Programado,Mantenimiento de escalera y ascensor.
+2026-10-23,ENDEG,G,EDO11,10:39,10:57,Forzado,Falla de aerogenerador.
+2026-10-23,ENDEG,G,EDO11,11:05,11:16,Forzado,Falla de aerogenerador.
+2026-10-23,ENDEG,G,EDO11,11:35,13:11,Forzado,Falla de aerogenerador.
+2026-10-23,ENDEG,G,EDO11,14:05,24:00,Forzado,Falla de aerogenerador.
+2026-10-23,ENDE GUARACACHI,G,UYU22,14:16,18:32,Programado,Mantenimiento tipo A.
+2026-10-23,ENDEG,G,EDO04,15:52,16:02,Programado,Mantenimiento.
+2026-10-24,GBE,G,TRGBE11501,00:00,09:10,Forzado,Operó protección de bajo voltaje.
+2026-10-24,GBE,G,GBE01,00:00,09:12,Forzado,Baja presión de vapor en caldero.
+2026-10-24,ENDEG,G,EDO15,00:00,13:14,Programado,Reparación de daño en palas.
+2026-10-24,ENDEG,G,EDO11,00:00,13:31,Forzado,Falla de aerogenerador.
+2026-10-24,CE,G,BUL01,00:00,24:00,Forzado,Restricción de gas a la central.
+2026-10-24,COBEE,G,SAI,00:00,24:00,Programado,Mantenimiento anual.
+2026-10-24,COBEE,G,TRSAI115,00:00,24:00,Programado,Mantenimiento anual.
+2026-10-24,CRE,D,TRVSA11501,00:00,24:00,Forzado,Trabajos en estructura de AT de la línea Bélgica - Valle Sánchez en riesgo por la crecida del río.
+2026-10-24,CRE,D,ALI_03_11,00:00,24:00,Forzado,Pérdida de gas SF6 en la celda número 10 en media tensión.
+2026-10-24,CRE,D,BEL-VSA11501,00:00,24:00,Forzado,Trabajos en estructura de AT de la línea Bélgica - Valle Sánchez en riesgo por la crecida del río.
+2026-10-24,DELAPAZ,D,ROS-TBA115,00:00,24:00,Programado,Requerimiento operativo.
+2026-10-24,DELAPAZ,D,TRSRQ06901,00:00,24:00,Programado,Construcción de la variante de línea aérea de 69 kV Alto Achachicala – Achacachi y desenergización de la subestación San Roque.
+2026-10-24,DELAPAZ,D,TRKEN06905,00:00,24:00,Forzado,Energizado en vacío.
+2026-10-24,DELAPAZ,D,TRCRN11502,00:00,24:00,Programado,Energizado en vacío.
+2026-10-24,DELAPAZ,D,CHONCHOCORO,00:00,24:00,Forzado,Cable subterráneo dañado por retroexcavadora.
+2026-10-24,ELFEC,D,TRALA11501,00:00,24:00,Programado,Desmontaje de transformador T-290.
+2026-10-24,ELFEC,D,TRSAN11501,00:00,24:00,Programado,Cambio de transformador.
+2026-10-24,EMVINTO,CNR,TRCMV06902,00:00,24:00,Forzado,"Mantenimiento, cambio de aceite dieléctrico."
+2026-10-24,ENDE ANDINA,G,ERI02,00:00,24:00,Programado,Mantenimiento.
+2026-10-24,ENDE ANDINA,G,ERI01,00:00,24:00,Programado,Mantenimiento.
+2026-10-24,ENDE ANDINA,G,ERI04,00:00,24:00,Programado,Mantenimiento.
+2026-10-24,ENDE ANDINA,G,ERI51,00:00,24:00,Programado,Inspección tipo B.
+2026-10-24,ENDE ANDINA,G,ERI32,00:00,24:00,Programado,Inspección tipo B.
+2026-10-24,ENDE ANDINA,G,TRERI23051,00:00,24:00,Programado,Inspección B de la unidad ERI51.
+2026-10-24,ENDE ANDINA,G,TRERI23032,00:00,24:00,Programado,Inspección tipo B.
+2026-10-24,ENDE GUARACACHI,G,ARJ01,00:00,24:00,Forzado,Mantenimiento en sistema de lubricación.
+2026-10-24,ENDE GUARACACHI,G,ARJ15,00:00,24:00,Programado,Mantenimiento general del motor.
+2026-10-24,ENDE GUARACACHI,G,ARJ03,00:00,24:00,Forzado,Mantenimiento en sistema de refrigeración.
+2026-10-24,ENDE GUARACACHI,G,ARJ02,00:00,24:00,Forzado,Mantenimiento en sistema de arranque.
+2026-10-24,ENDE ORURO,D,TRINT11501,00:00,24:00,Forzado,Causas internas de la planta.
+2026-10-24,ENDE TRANSMISION,T,ATBRE50002,00:00,24:00,Forzado,"Extensión de mantenimiento, cambio de partes autotransformador e intercambiabilidad."
+2026-10-24,ENDE TRANSMISION,T,REBRE50002,00:00,24:00,Forzado,"Extensión de mantenimiento, cambio de partes reactor."
+2026-10-24,ENDE TRANSMISION,T,ATBRE50001,00:00,24:00,Forzado,"Extensión de mantenimiento, cambio de partes en autotransformador."
+2026-10-24,ENDE VALLE HERMOSO,G,VHE02,00:00,24:00,Programado,"Extensión de mantenimiento, inspección en sección caliente de turbina."
+2026-10-24,ENDE VALLE HERMOSO,G,ALT02,00:00,24:00,Programado,Mantenimiento mayor.
+2026-10-24,ENDEG,G,EDO09,00:00,24:00,Programado,Reparación de daño en palas.
+2026-10-24,ENDEG,G,SJU01,00:00,24:00,Programado,Reparación de daños en las palas.
+2026-10-24,ENDEG,G,EWA04,00:00,24:00,Forzado,Falla en sistema convertidor.
+2026-10-24,ENDEG,G,EDO06,00:00,24:00,Forzado,Falla sistema de amortiguación.
+2026-10-24,ENDEG,G,SJU02,00:00,24:00,Programado,Mantenimiento anual de 5 años.
+2026-10-24,ENDEG,G,SJU06,00:00,24:00,Programado,Mejora de puesta a tierra en palas.
+2026-10-24,ENDEG,G,EDO08,00:00,24:00,Programado,Mantenimiento a sistema HUB.
+2026-10-24,ENDEG,G,SJU10,00:00,24:00,Forzado,Falla por alarma de vibración.
+2026-10-24,ENDEG,G,SJU11,00:00,24:00,Forzado,Bajo nivel de aceite en gearbox.
+2026-10-24,GBE,G,IAG01,00:00,24:00,Programado,Finalización del periodo de zafra.
+2026-10-24,SEPSA,D,TRVEL06904,00:00,24:00,Programado,Energizado en vacío.
+2026-10-24,SETAR,D,TRVAB11502,00:00,24:00,Programado,Intercambio de transformadores de potencia de 115/6.6 kV.
+2026-10-24,SETAR,D,TRTAJ11502,00:00,24:00,Programado,Trabajos de adecuación de salida de línea subterránea TAJ-VAV02401 y 02; y alimentadores de S/E Tarija en 24.9 kV.
+2026-10-24,SETAR,D,TRCRI06902,00:00,24:00,Forzado,Operó protección de bloqueo.
+2026-10-24,ENDE,T,TRLCA23001,05:56,14:00,Programado,Medición de factor de potencia y verificación hermeticidad y estanqueidad en guardas.
+2026-10-24,SEPSA,D,PUN-TAZ069,06:56,17:00,Programado,Mantenimiento preventivo.
+2026-10-24,ENDE TRANSMISION,T,ATATO11501,07:00,17:54,Programado,Requerimiento operativo.
+2026-10-24,ENDE TRANSMISION,T,PUN-ATO115,07:00,17:54,Programado,Requerimiento operativo.
+2026-10-24,TESA,T,PUN-UYU230,07:01,17:53,Programado,"Trabajos de mantenimiento correctivo en la línea de transmisión, pruebas en equipos de patio y actualización SAS en S/E Punutuma."
+2026-10-24,ENDE TRANSMISION,T,WAR-BEL23002,07:59,16:52,Programado,"Cambio de aisladores en vano WAR-BEL2 070-PORT, mediciones completas seccionadores, inspección y ajustes en seccionadores 21-a, b."
+2026-10-24,ENDE TRANSMISION,T,ATSAD50001,08:16,15:34,Programado,Verificación de hermeticidad y estanqueidad en guardas.
+2026-10-24,ELFEC,D,TRSJO11501,09:01,12:26,Programado,Pruebas eléctricas y cambio de pararrayo en alimentador J-1 fase C.
+2026-10-24,COBEE,G,CRB,09:03,11:49,Programado,Mantenimiento preventivo.
+2026-10-24,CRE,D,GCH-PMA069,09:34,12:42,Programado,Revisión y reparación de fibra óptica.
+2026-10-24,ENDE,T,TRLCA23001,14:00,14:01,Forzado,Extensión de mantenimiento.
+2026-10-24,SEPSA,D,PUN-TAZ069,17:00,17:15,Forzado,Extensión de mantenimiento.
+2026-10-25,CE,G,BUL01,00:00,24:00,Forzado,Restricción de gas a la central.
+2026-10-25,COBEE,G,TRSAI115,00:00,24:00,Programado,Mantenimiento anual.
+2026-10-25,COBEE,G,SAI,00:00,24:00,Programado,Mantenimiento anual.
+2026-10-25,CRE,D,ALI_03_11,00:00,24:00,Forzado,Pérdida de gas SF6 en la celda número 10 en media tensión.
+2026-10-25,CRE,D,BEL-VSA11501,00:00,24:00,Forzado,Trabajos en estructura de AT de la línea Bélgica - Valle Sánchez en riesgo por la crecida del río.
+2026-10-25,CRE,D,TRVSA11501,00:00,24:00,Forzado,Trabajos en estructura de AT de la línea Bélgica - Valle Sánchez en riesgo por la crecida del río.
+2026-10-25,DELAPAZ,D,TRKEN06905,00:00,24:00,Forzado,Energizado en vacío.
+2026-10-25,DELAPAZ,D,ROS-TBA115,00:00,24:00,Programado,Requerimiento operativo.
+2026-10-25,DELAPAZ,D,TRCRN11502,00:00,24:00,Programado,Energizado en vacío.
+2026-10-25,DELAPAZ,D,TRSRQ06901,00:00,24:00,Programado,Construcción de la variante de línea aérea de 69 kV Alto Achachicala – Achacachi y desenergización de la subestación San Roque.
+2026-10-25,DELAPAZ,D,CHONCHOCORO,00:00,24:00,Forzado,Cable subterráneo dañado por retroexcavadora.
+2026-10-25,ELFEC,D,TRALA11501,00:00,24:00,Programado,Desmontaje de transformador T-290.
+2026-10-25,ELFEC,D,TRSAN11501,00:00,24:00,Programado,Cambio de transformador.
+2026-10-25,EMVINTO,CNR,TRCMV06902,00:00,24:00,Forzado,"Mantenimiento, cambio de aceite dieléctrico."
+2026-10-25,ENDE ANDINA,G,ERI04,00:00,24:00,Programado,Mantenimiento.
+2026-10-25,ENDE ANDINA,G,ERI01,00:00,24:00,Programado,Mantenimiento.
+2026-10-25,ENDE ANDINA,G,ERI02,00:00,24:00,Programado,Mantenimiento.
+2026-10-25,ENDE ANDINA,G,TRERI23032,00:00,24:00,Programado,Inspección tipo B.
+2026-10-25,ENDE ANDINA,G,ERI51,00:00,24:00,Programado,Inspección tipo B.
+2026-10-25,ENDE ANDINA,G,ERI32,00:00,24:00,Programado,Inspección tipo B.
+2026-10-25,ENDE ANDINA,G,TRERI23051,00:00,24:00,Programado,Inspección B de la unidad ERI51.
+2026-10-25,ENDE GUARACACHI,G,ARJ02,00:00,24:00,Forzado,Mantenimiento en sistema de arranque.
+2026-10-25,ENDE GUARACACHI,G,ARJ01,00:00,24:00,Forzado,Mantenimiento en sistema de lubricación.
+2026-10-25,ENDE GUARACACHI,G,ARJ03,00:00,24:00,Forzado,Mantenimiento en sistema de refrigeración.
+2026-10-25,ENDE GUARACACHI,G,ARJ15,00:00,24:00,Programado,Mantenimiento general del motor.
+2026-10-25,ENDE ORURO,D,TRINT11501,00:00,24:00,Forzado,Causas internas de la planta.
+2026-10-25,ENDE TRANSMISION,T,ATBRE50001,00:00,24:00,Forzado,"Extensión de mantenimiento, cambio de partes en autotransformador."
+2026-10-25,ENDE TRANSMISION,T,REBRE50002,00:00,24:00,Forzado,"Extensión de mantenimiento, cambio de partes reactor."
+2026-10-25,ENDE TRANSMISION,T,ATBRE50002,00:00,24:00,Forzado,"Extensión de mantenimiento, cambio de partes autotransformador e intercambiabilidad."
+2026-10-25,ENDE VALLE HERMOSO,G,VHE02,00:00,24:00,Programado,"Extensión de mantenimiento, inspección en sección caliente de turbina."
+2026-10-25,ENDE VALLE HERMOSO,G,ALT02,00:00,24:00,Programado,Mantenimiento mayor.
+2026-10-25,ENDEG,G,EWA04,00:00,24:00,Forzado,Falla en sistema convertidor.
+2026-10-25,ENDEG,G,EWA03,00:00,24:00,Forzado,Falla por error de señal.
+2026-10-25,ENDEG,G,EDO12,00:00,24:00,Programado,Reparación de daños en palas.
+2026-10-25,ENDEG,G,SJU01,00:00,24:00,Programado,Reparación de daños en las palas.
+2026-10-25,ENDEG,G,EDO09,00:00,24:00,Programado,Reparación de daño en palas.
+2026-10-25,ENDEG,G,EDO08,00:00,24:00,Programado,Mantenimiento a sistema HUB.
+2026-10-25,ENDEG,G,EDO06,00:00,24:00,Forzado,Falla sistema de amortiguación
+2026-10-25,ENDEG,G,SJU02,00:00,24:00,Programado,Mantenimiento anual de 5 años.
+2026-10-25,ENDEG,G,SJU06,00:00,24:00,Programado,Mejora de puesta a tierra en palas.
+2026-10-25,ENDEG,G,SJU10,00:00,24:00,Forzado,Falla por alarma de vibración.
+2026-10-25,ENDEG,G,SJU11,00:00,24:00,Forzado,Bajo nivel de aceite en gearbox.
+2026-10-25,GBE,G,IAG01,00:00,24:00,Programado,Finalización del periodo de zafra.
+2026-10-25,SEPSA,D,TRVEL06904,00:00,24:00,Programado,Energizado en vacío.
+2026-10-25,SETAR,D,TRTAJ11502,00:00,24:00,Programado,Trabajos de adecuación de salida de línea subterránea TAJ-VAV02401 y 02; y alimentadores de S/E Tarija en 24.9 kV.
+2026-10-25,SETAR,D,TRVAB11502,00:00,24:00,Programado,Intercambio de transformadores de potencia de 115/6.6 kV.
+2026-10-25,SETAR,D,TRCRI06902,00:00,24:00,Forzado,"No determinada, operó protección de bloqueo."
+2026-10-25,ENDE TRANSMISION,T,CAR-SAD500,06:53,16:48,Programado,"Cambio de aisladores vanos CAR-STV500 001-002, 242-243, 252-253 y 332-333; mejoramiento de hermeticidad."
+2026-10-25,ENDE TRANSMISION,T,RESAD50001,07:01,16:34,Programado,"Cambio de aisladores vanos CAR-STV500 001-002, 242-243, 252-253 y 332-333; mejoramiento de hermeticidad."
+2026-10-25,ENDE TRANSMISION,T,RECAR50001,07:02,16:36,Programado,"Cambio de aisladores vanos CAR-STV500 001-002, 242-243, 252-253 y 332-333; mejoramiento de hermeticidad."
+2026-10-25,ENDE TRANSMISION,T,PUN-ATO115,07:03,17:39,Programado,Requerimiento operativo.
+2026-10-25,ENDE TRANSMISION,T,ATATO11501,07:03,17:39,Programado,Requerimiento operativo.
+2026-10-25,TESA,T,PUN-UYU230,07:06,17:37,Programado,"Trabajos de mantenimiento correctivo en línea de transmisión, pruebas en equipos de patio y actualización SAS en S/E Punutuma."
+2026-10-25,ENDE TRANSMISION,T,ATSAD50002,07:20,17:00,Programado,Verificación de hermeticidad y estanqueidad en guardas.
+2026-10-25,ENDE,T,ATTAJ23001,08:02,11:38,Programado,Cambio de conductor.
+2026-10-25,COBEE,G,CAH02,09:00,13:00,Programado,Revisión de sistema HPU.
+2026-10-25,COBEE,G,CAH02,13:00,13:35,Programado,Extensión de mantenimiento.
+2026-10-25,ENDE TRANSMISION,T,ATSAD50002,17:00,17:02,Forzado,Extensión de mantenimiento.
