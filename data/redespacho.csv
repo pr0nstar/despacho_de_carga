@@ -26807,3 +26807,18 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-10-28,CRE,D,Área Oriental,09:00,24:00,Menor demanda a la prevista.
 2026-10-28,HB,G,Sistema Taquesi,12:00,24:00,Mayores aportes laterales de agua a lo previsto.
 2026-10-28,COBEE,G,Sistema Zongo,15:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-10-29,CESSA,D,Área Sucre,01:00,08:00,Mayor demanda a la prevista.
+2026-10-29,HB,G,Sistema Taquesi,01:00,12:00,Mayores aportes laterales de agua a lo previsto.
+2026-10-29,COBEE,G,Sistema Zongo,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-10-29,ELFEC,D,Área Central,01:00,24:00,Menor demanda a la prevista.
+2026-10-29,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-10-29,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-10-29,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-10-29,ENDEG,G,Central Eólica El Dorado,02:00,16:00,"Menor generación, condiciones climáticas desfavorables."
+2026-10-29,SEPSA,D,Área Potosí,07:00,15:00,Menor demanda a la prevista.
+2026-10-29,SETAR,D,Área Tarija,09:00,12:00,Mayor demanda a la prevista.
+2026-10-29,ENDE CORANI,G,Central Misicuni,11:00,18:00,Menor generación por riesgo de rebalse.
+2026-10-29,ENDE CORANI,G,Central Eólica Qollpana I y II,13:00,21:00,"Mayor generación, condiciones climáticas favorables."
+2026-10-29,HB,G,Sistema Taquesi,19:00,23:00,Mayores aportes laterales de agua a lo previsto.
+2026-10-29,ENDE CORANI,G,Central Misicuni,22:00,24:00,Menor generación por riesgo de rebalse.
+2026-10-29,LAS LOMAS,CNR,Las Lomas,22:00,24:00,Menor demanda por falta de materia prima.
