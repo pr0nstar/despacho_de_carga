@@ -26910,3 +26910,42 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-11-05,ENDE DELBENI,D,Área Trinidad,16:00,24:00,Menor demanda a la prevista.
 2026-11-05,COBEE,G,Sistema Miguilas,20:00,23:00,Menores aportes laterales de agua a lo previsto.
 2026-11-05,COBEE,G,Sistema Zongo,21:00,23:00,Menores aportes laterales de agua a lo previsto.
+2026-11-06,COBEE,G,Sistema Miguillas,00:00,08:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-06,ENDEG,G,Central eólica El Dorado,01:00,07:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-06,ENDE CORANI,G,Central eólica Qollpana I y II,01:00,09:00,"Mayor generación, condiciones climáticas favorables."
+2026-11-06,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-11-06,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-11-06,ENDEG,G,Central eólica San Julián,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-06,COBEE,G,Sistema Zongo,04:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-06,SETAR,D,Área Tarija,08:00,24:00,Mayor demanda a la prevista.
+2026-11-06,COBEE,G,Sistema Zongo,09:00,21:00,Menores aportes laterales de agua a lo previsto.
+2026-11-06,COBEE,G,Sistema Miguillas,10:00,21:00,Menor generación debido a indisponibilidad de la unidad CRB.
+2026-11-06,ENDEG,G,Central solar Uyuni,12:00,17:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-06,CRE,D,Área Oriental,14:00,16:00,Mayor demanda a la prevista.
+2026-11-06,ENDEG,G,Central Solar Oruro I y II,14:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-06,HB,G,Sistema Taquesi,18:15,23:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-07,CESSA,D,Área Sucre,01:00,05:00,Mayor demanda a la prevista.
+2026-11-07,ENDEG,G,Central Eólica El Dorado,01:00,08:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-07,COBEE,G,Sistema Miguillas,01:00,08:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-07,ENDEG,G,Central Eólica San Julián,01:00,09:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-07,SETAR,D,Área Tarija,01:00,15:00,Mayor demanda a la prevista.
+2026-11-07,ENDE DELBENI,D,Área Trinidad,01:00,18:00,Mayor demanda a la prevista.
+2026-11-07,SEPSA,D,Área Potosí,05:00,16:00,Menor demanda a la prevista.
+2026-11-07,CRE,D,Área Oriental,07:00,18:00,Mayor demanda a la prevista.
+2026-11-07,COBEE,G,Sistema Zongo,07:00,21:00,Menores aportes laterales de agua a lo previsto.
+2026-11-07,DELAPAZ,D,Área Norte,09:00,14:00,Mayor demanda a la prevista.
+2026-11-07,ENDEG,G,Central Solar Uyuni I y II,11:00,13:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-07,ENDEG,G,Central Solar Oruro I y II,12:00,16:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-07,ENDE GUARACACHI,G,Central Termoeléctrica Guaracachi,16:15,24:00,"Mayor generación, disponibilidad de GCH09."
+2026-11-08,HB,G,Sistema Taquesi,01:00,05:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-08,CRE,D,Área Oriental,01:00,24:00,Menor demanda a la prevista.
+2026-11-08,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-08,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-08,ENDE GUARACACHI,G,Central Guaracachi,01:00,24:00,"Mayor generación, disponibilidad de GCH09."
+2026-11-08,ENDEG,G,Central Eólica El Dorado,07:00,20:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-08,HB,G,Sistema Taquesi,08:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-08,ENDE DELBENI,D,Área Trinidad,09:00,24:00,Menor demanda a la prevista.
+2026-11-08,ENDEG,G,Central Solar Oruro I y II,10:00,18:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-08,COBEE,G,Sistema Zongo,14:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-08,HB,G,Sistema Taquesi,17:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-08,COBEE,G,Sistema Zongo,19:00,23:00,Menores aportes laterales de agua a lo previsto.
