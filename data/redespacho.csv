@@ -26964,3 +26964,18 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-11-09,ENDEG,G,Sistema Misicuni,12:00,18:00,"Menor generación, por control de nivel de embalse."
 2026-11-09,COBEE,G,Sistema Zongo,15:00,18:00,Menores aportes laterales de agua a lo previsto.
 2026-11-09,ENDEG,G,Sistema Misicuni,21:00,24:00,"Menor generación, por control de nivel de embalse."
+2026-11-10,COBEE,G,Sistema Miguillas,01:00,13:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-10,ENDE CORANI,G,Central Eólica Qollpana I y II,01:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-11-10,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-11-10,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-11-10,CESSA,D,Área Sucre,02:00,16:00,Mayor demanda a la prevista.
+2026-11-10,ENDEG,G,Central Eólica El Dorado,06:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-11-10,COBEE,G,Sistema Zongo,08:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-10,CRE,D,Área Oriental,11:00,19:00,Menor demanda a la prevista.
+2026-11-10,ENDEG,G,Sistema Misicuni,11:09,18:00,"Menor generación, por control de nivel de embalse."
+2026-11-10,SETAR,D,Área Tarija,12:00,24:00,Mayor demanda a la prevista.
+2026-11-10,ENDEG,G,Central Eólica San Julián,12:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-10,ENDEG,G,Central Eólica Warnes,14:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-10,ENDEG,G,Central Solar Oruro I y II,16:00,18:00,"Mayor generación, condiciones climáticas favorables."
+2026-11-10,ENDEG,G,Sistema Misicuni,19:00,20:00,"Mayor generación, por control de nivel de embalse."
+2026-11-10,ENDEG,G,Sistema Misicuni,21:00,24:00,"Menor generación, por control de nivel de embalse."
