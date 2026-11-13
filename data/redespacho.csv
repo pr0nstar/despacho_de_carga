@@ -26991,3 +26991,19 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-11-11,DELAPAZ,D,Área Norte,13:00,24:00,Mayor demanda a la prevista.
 2026-11-11,COBEE,G,Sistema Zongo,15:00,22:00,Mayores aportes laterales de agua a lo previsto.
 2026-11-11,HB,G,Sistema Taquesi,19:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-12,COBEE,G,Sistema Miguillas,01:00,09:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-12,DELAPAZ,D,Área Norte,01:00,15:00,Mayor demanda a la prevista.
+2026-11-12,SEPSA,D,Área Potosí,01:00,16:00,Menor demanda a la prevista.
+2026-11-12,ENDE DELBENI,D,Área Trinidad,01:00,23:00,Menor demanda a la prevista.
+2026-11-12,ENDEG,G,Central Eólica Warnes,01:00,23:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-12,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-11-12,COBEE,G,Sistema Zongo,02:00,14:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-12,CESSA,D,Área Sucre,02:00,17:00,Mayor demanda a la prevista.
+2026-11-12,HB,G,Sistema Taquesi,03:45,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-12,ENDEG,G,Central Eólica El Dorado,05:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-11-12,ENDEG,G,Central Solar Oruro I y II,07:00,19:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-12,ENDE CORANI,G,Central Misicuni,11:00,18:00,"Menor generación, por control de nivel de embalse."
+2026-11-12,COBEE,G,Sistema Miguillas,15:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-11-12,COBEE,G,Sistema Zongo,17:00,20:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-12,ENDE CORANI,G,Central Misicuni,21:00,24:00,"Menor generación, por control de nivel de embalse."
+2026-11-12,COBEE,G,Sistema Zongo,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
