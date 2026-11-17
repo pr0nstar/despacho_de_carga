@@ -90734,3 +90734,23 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-11-15,AGUAÍ ENERGÍA,G,AGU01,18:15,24:00,3.35 MW,Baja presión de vapor en caldero.
 2026-11-15,ENDE GUARACACHI,G,SBU01,20:05,23:42,2.20 MW,Baja presión de vapor en caldero.
 2026-11-15,ENDE GUARACACHI,G,SBU01,23:42,24:00,3.40 MW,Baja presión de vapor en caldero.
+2026-11-16,ENDE GUARACACHI,G,SBU01,00:00,00:20,3.40 MW,Baja presión de vapor en caldero.
+2026-11-16,ENDE GUARACACHI,G,UNA01,00:00,06:00,8.10 MW,Baja presión de vapor en caldero.
+2026-11-16,GBE,G,GBE01,00:00,06:15,11.70 MW,Baja presión de vapor en caldero.
+2026-11-16,AGUAÍ ENERGÍA,G,AGU01,00:00,09:15,3.60 MW,Baja presión de vapor en caldero.
+2026-11-16,ENDE GUARACACHI,G,GCH10,00:00,19:18,56.18 MW,Fuga de gases caliente por compartimiento de turbina de la unidad GCH09.
+2026-11-16,ENDE GUARACACHI,G,GCH12,00:00,19:18,39.30 MW,Fuga de gases caliente por compartimiento de turbina de la unidad GCH09.
+2026-11-16,AGUAÍ ENERGÍA,G,AGU02,00:00,24:00,42.22 MW,Baja presión de vapor en caldero.
+2026-11-16,ENDE GUARACACHI,G,SBU01,00:20,09:30,3.30 MW,Baja presión de vapor en caldero.
+2026-11-16,ENDE GUARACACHI,G,UNA01,06:00,17:00,8.70 MW,Baja presión de vapor en caldero.
+2026-11-16,GBE,G,GBE01,06:15,07:30,12.30 MW,Baja presión de vapor en caldero.
+2026-11-16,GBE,G,GBE01,07:30,24:00,11.44 MW,Baja presión de vapor en caldero.
+2026-11-16,AGUAÍ ENERGÍA,G,AGU01,09:15,24:00,3.10 MW,Baja presión de vapor en caldero.
+2026-11-16,CE,G,BUL03,09:16,24:00,28.00 MW,Restricción de gas a la central.
+2026-11-16,ENDE GUARACACHI,G,SBU01,09:30,13:30,2.60 MW,Baja presión de vapor en caldero.
+2026-11-16,ENDE GUARACACHI,G,SBU01,13:30,16:30,3.10 MW,Baja presión de vapor en caldero.
+2026-11-16,ENDE GUARACACHI,G,SBU01,16:30,24:00,2.70 MW,Baja presión de vapor en caldero.
+2026-11-16,ENDE GUARACACHI,G,UNA01,17:00,24:00,8.10 MW,Baja presión de vapor en caldero.
+2026-11-16,ENDE GUARACACHI,G,GCH12,19:18,24:00,38.00 MW,Problemas en válvula reguladora de venteo en el caldero.
+2026-11-16,ENDE GUARACACHI,G,GCH09,19:18,24:00,42.40 MW,Problemas en válvula reguladora de venteo en el caldero.
+2026-11-16,ENDE GUARACACHI,G,GCH10,19:18,24:00,54.00 MW,Problemas en válvula reguladora de venteo en el caldero.

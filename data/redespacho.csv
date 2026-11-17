@@ -27045,3 +27045,21 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-11-15,HB,G,Sistema Taquesi,10:00,18:00,Mayores aportes laterales de agua a lo previsto.
 2026-11-15,DELAPAZ,D,Área Norte,19:00,21:00,Mayor demanda a la prevista.
 2026-11-15,COBEE,G,Sistema Zongo,19:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-11-16,DELAPAZ,D,Área Norte,01:00,05:00,Mayor demanda a la prevista.
+2026-11-16,COBEE,G,Sistema Zongo,01:00,10:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-16,ENDE DELBENI,D,Área Trinidad,01:00,14:00,Mayor demanda a la prevista.
+2026-11-16,ENDEG,G,Central Eólica El Dorado,01:00,15:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-16,COBEE,G,Sistema Miguillas,01:00,16:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-16,CESSA,D,Área Sucre,01:00,20:00,Mayor demanda a la prevista.
+2026-11-16,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-11-16,SETAR,D,Área Tarija,08:00,24:00,Mayor demanda a la prevista.
+2026-11-16,ENDEG,G,Central Eólica San Julián,11:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-16,HB,G,Sistema Taquesi,14:30,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-16,COBEE,G,Sistema Zongo,16:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-11-16,ENDE ANDINA,G,Central Termoeléctrica Warnes,16:39:00,24:00,"Mayor generación, disponibilidad de CCWAR30."
+2026-11-16,CRE,D,Área Oriental,17:00,21:00,Menor demanda a la prevista.
+2026-11-16,COBEE,G,Sistema Miguillas,17:00,21:00,Menores aportes laterales de agua a lo previsto.
+2026-11-16,ENDE GURACACHI,G,Central Termoeléctrica Guaracachi,18:48:00,24:00,"Mayor generación, disponibilidad de GCH09."
+2026-11-16,ENDE CORANI,G,Central Misicuni,21:00,24:00,Menor generación debido a riesgo de rebalse.
+2026-11-16,LAS LOMAS,CNR,Las Lomas,21:00,24:00,Menor demanda por mantenimiento en red de media tensión.
+2026-11-16,COBEE,G,Sistema Miguillas,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
