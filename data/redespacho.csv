@@ -27063,3 +27063,16 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-11-16,ENDE CORANI,G,Central Misicuni,21:00,24:00,Menor generación debido a riesgo de rebalse.
 2026-11-16,LAS LOMAS,CNR,Las Lomas,21:00,24:00,Menor demanda por mantenimiento en red de media tensión.
 2026-11-16,COBEE,G,Sistema Miguillas,22:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-17,LAS LOMAS,CNR,Las Lomas,00:00,03:00,Menor demanda debido a extensión de mantenimiento en red de media tensión.
+2026-11-17,COBEE,G,Sistema Miguillas,00:00,18:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-17,ENDEG,G,Central Eólica San Julián,01:00,21:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-17,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-11-17,SEPSA,D,Área Potosí,01:00,24:00,Menor demanda a la prevista.
+2026-11-17,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-11-17,ENDE ANDINA,G,Central Termoeléctrica Entre Ríos,12:16,24:00,"Menor generación, indisponibilidad de CCERI31."
+2026-11-17,COBEE,G,Sistema Zongo,15:00,21:00,Menores aportes laterales de agua a lo previsto.
+2026-11-17,ENDEG,G,Central Eólica El Dorado,15:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-11-17,CRE,D,Área Oriental,17:00,20:00,Menor demanda a la prevista.
+2026-11-17,ENDE DELBENI,D,Área Trinidad,18:00,24:00,Menor demanda a la prevista.
+2026-11-17,DELAPAZ,D,Área Norte,20:00,24:00,Mayor demanda a la prevista.
+2026-11-17,ENDE CORANI,G,Central Misicuni,21:00,24:00,Mayor generación debido a incremento de caudal de salida al río Chocaya.
