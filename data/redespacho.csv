@@ -27076,3 +27076,14 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-11-17,ENDE DELBENI,D,Área Trinidad,18:00,24:00,Menor demanda a la prevista.
 2026-11-17,DELAPAZ,D,Área Norte,20:00,24:00,Mayor demanda a la prevista.
 2026-11-17,ENDE CORANI,G,Central Misicuni,21:00,24:00,Mayor generación debido a incremento de caudal de salida al río Chocaya.
+2026-11-18,COBEE,G,Sistema Miguillas,00:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-18,DELAPAZ,D,Área Norte,01:00,13:00,Mayor demanda a la prevista.
+2026-11-18,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-11-18,SETAR,D,Área Tarija,01:00,24:00,Mayor demanda a la prevista.
+2026-11-18,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-18,COBEE,G,Sistema Zongo,02:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-18,SEPSA,D,Área Potosí,03:00,15:00,Menor demanda a la prevista.
+2026-11-18,ENDE DELBENI,D,Área Trinidad,09:00,22:00,Menor demanda a la prevista.
+2026-11-18,ENDE CORANI,G,Central Eólica Qollpana I y II,13:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-11-18,COBEE,G,Sistema Zongo,14:00,17:00,Menores aportes laterales de agua a lo previsto.
+2026-11-18,HB,G,Sistema Taquesi,16:15,22:00,Mayores aportes laterales de agua a lo previsto.
