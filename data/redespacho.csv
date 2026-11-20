@@ -27087,3 +27087,16 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-11-18,ENDE CORANI,G,Central Eólica Qollpana I y II,13:00,24:00,"Mayor generación, condiciones climáticas favorables."
 2026-11-18,COBEE,G,Sistema Zongo,14:00,17:00,Menores aportes laterales de agua a lo previsto.
 2026-11-18,HB,G,Sistema Taquesi,16:15,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-19,CRE,D,Área Oriental,01:00,05:00,Mayor demanda a la prevista.
+2026-11-19,DELAPAZ,D,Área Norte,01:00,14:00,Mayor demanda a la prevista.
+2026-11-19,SEPSA,D,Área Potosí,01:00,15:00,Menor demanda a la prevista.
+2026-11-19,SETAR,D,Área Tarija,01:00,17:00,Mayor demanda a la prevista.
+2026-11-19,CESSA,D,Área Sucre,01:00,24:00,Mayor demanda a la prevista.
+2026-11-19,COBEE,G,Sistema Miguillas,07:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-19,COBEE,G,Sistema Zongo,08:00,17:00,Menores aportes laterales de agua a lo previsto.
+2026-11-19,ENDEG,G,Central Eólica San Julián,08:00,24:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-19,ENDE CORANI,G,Central Misicuni,12:10,18:00,"Menor generación, control de nivel de embalse."
+2026-11-19,HB,G,Sistema Taquesi,15:00,23:30,Mayores aportes laterales de agua a lo previsto.
+2026-11-19,ENDE CORANI,G,Central Eólica Qollpana,16:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-11-19,ENDE DELBENI,D,Área Trinidad,19:00,22:00,Menor demanda a la prevista.
+2026-11-19,ENDE CORANI,G,Central Misicuni,20:00,24:00,"Menor generación, control de nivel de embalse."
