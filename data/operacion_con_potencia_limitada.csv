@@ -90954,3 +90954,39 @@ fecha,agente,cat,componente,de_hrs,a_hrs,potencia,causa
 2026-11-24,AGUAÍ ENERGÍA,G,AGU02,21:05,23:49,32.30 MW,Baja presión de vapor en caldero.
 2026-11-24,CE,G,BUL03,22:15,24:00,29.40 MW,Restricción de gas a la central.
 2026-11-24,AGUAÍ ENERGÍA,G,AGU02,23:49,24:00,36.90 MW,Baja presión de vapor en caldero.
+2026-11-25,CE,G,BUL03,00:00,00:27,29.40 MW,Restricción de gas a la central.
+2026-11-25,GBE,G,GBE01,00:00,06:30,11.60 MW,Baja presión de vapor en caldero.
+2026-11-25,AGUAÍ ENERGÍA,G,AGU02,00:00,08:48,42.78 MW,Baja presión de vapor en caldero.
+2026-11-25,ENDE GUARACACHI,G,UNA01,00:00,09:00,8.50 MW,Baja presión de vapor en caldero.
+2026-11-25,AGUAÍ ENERGÍA,G,AGU01,00:00,09:45,2.80 MW,Baja presión de vapor en caldero.
+2026-11-25,ENDE GUARACACHI,G,SBU01,00:00,10:00,2.70 MW,Baja presión de vapor en caldero.
+2026-11-25,ENDE ANDINA,G,WAR12,00:00,24:00,40.40 MW,Alto diferencial en el sistema de filtrado MBL.
+2026-11-25,ENDE ANDINA,G,WAR11,00:00,24:00,40.40 MW,Alto diferencial en el sistema de filtrado MBL.
+2026-11-25,ENDE ANDINA,G,WAR10,00:00,24:00,34.20 MW,Alto diferencial en el sistema de filtrado MBL.
+2026-11-25,ENDE GUARACACHI,G,GCH12,00:00,24:00,73.30 MW,Problemas en válvula reguladora de venteo en el caldero.
+2026-11-25,ENDE GUARACACHI,G,GCH10,00:00,24:00,55.00 MW,Problemas en válvula reguladora de venteo en el caldero.
+2026-11-25,ENDE GUARACACHI,G,GCH09,00:00,24:00,55.00 MW,Problemas en válvula reguladora de venteo en el caldero.
+2026-11-25,CE,G,BUL03,00:27,02:14,29.80 MW,Restricción de gas a la central.
+2026-11-25,GBE,G,GBE01,06:30,08:15,13.20 MW,Baja presión de vapor en caldero.
+2026-11-25,CE,G,BUL03,06:58,18:05,29.40 MW,Restricción de gas a la central.
+2026-11-25,GBE,G,GBE01,08:15,10:45,12.50 MW,Baja presión de vapor en caldero.
+2026-11-25,AGUAÍ ENERGÍA,G,AGU02,08:48,10:24,44.90 MW,Baja presión de vapor en caldero.
+2026-11-25,ENDE GUARACACHI,G,UNA01,09:00,24:00,9.00 MW,Baja presión de vapor en caldero.
+2026-11-25,AGUAÍ ENERGÍA,G,AGU01,09:45,10:00,3.80 MW,Baja presión de vapor en caldero.
+2026-11-25,AGUAÍ ENERGÍA,G,AGU01,10:00,10:30,2.50 MW,Baja presión de vapor en caldero.
+2026-11-25,ENDE GUARACACHI,G,SBU01,10:00,14:45,2.50 MW,Baja presión de vapor en caldero.
+2026-11-25,AGUAÍ ENERGÍA,G,AGU02,10:24,11:20,42.22 MW,Baja presión de vapor en caldero.
+2026-11-25,AGUAÍ ENERGÍA,G,AGU01,10:30,16:45,3.10 MW,Baja presión de vapor en caldero.
+2026-11-25,GBE,G,GBE01,10:45,19:30,11.30 MW,Baja presión de vapor en caldero.
+2026-11-25,AGUAÍ ENERGÍA,G,AGU02,11:20,11:46,38.88 MW,Baja presión de vapor en caldero.
+2026-11-25,AGUAÍ ENERGÍA,G,AGU02,11:46,12:00,35.50 MW,Baja presión de vapor en caldero.
+2026-11-25,AGUAÍ ENERGÍA,G,AGU02,12:00,13:43,38.88 MW,Baja presión de vapor en caldero.
+2026-11-25,AGUAÍ ENERGÍA,G,AGU02,13:43,15:34,44.44 MW,Baja presión de vapor en caldero.
+2026-11-25,ENDE GUARACACHI,G,SBU01,14:45,19:30,2.20 MW,Baja presión de vapor en caldero.
+2026-11-25,AGUAÍ ENERGÍA,G,AGU02,15:34,20:20,38.88 MW,Baja presión de vapor en caldero.
+2026-11-25,AGUAÍ ENERGÍA,G,AGU01,16:45,24:00,3.40 MW,Baja presión de vapor en caldero.
+2026-11-25,CE,G,BUL03,18:05,18:14,28.50 MW,Restricción de gas a la central.
+2026-11-25,ENDE GUARACACHI,G,SBU01,19:30,23:45,2.50 MW,Baja presión de vapor en caldero.
+2026-11-25,GBE,G,GBE01,19:30,24:00,10.80 MW,Baja presión de vapor en caldero.
+2026-11-25,AGUAÍ ENERGÍA,G,AGU02,20:20,24:00,40.30 MW,Baja presión de vapor en caldero.
+2026-11-25,ENDE GUARACACHI,G,SBU01,23:45,24:00,2.10 MW,Baja presión de vapor en caldero.

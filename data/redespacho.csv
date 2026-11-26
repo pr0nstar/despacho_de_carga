@@ -27160,3 +27160,21 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-11-24,COBEE,G,Sistema Miguillas,15:00,17:00,Menores aportes laterales de agua a lo previsto.
 2026-11-24,CRE,D,Área Oriental,17:00,23:00,Menor demanda a la prevista.
 2026-11-24,COBEE,G,Sistema Miguillas,19:00,22:00,Menores aportes laterales de agua a lo previsto.
+2026-11-25,DELAPAZ,D,Área Norte,01:00,24:00,Mayor demanda a la prevista.
+2026-11-25,ENDEG,G,Central Eólica San Julián,01:00,24:00,"Menor generación, indisponibilidad de la central."
+2026-11-25,COBEE,G,Sistema Miguillas,01:00,24:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-25,COBEE,G,Sistema Zongo,02:00,04:00,Menores aportes laterales de agua a lo previsto.
+2026-11-25,EMSC,CNR,Minera San Cristóbal,02:02,03:10,"Reducción de carga de 41.6 MW a 33.1 MW, problemas en la correa 220-CV-010."
+2026-11-25,CESSA,D,Área Sucre,05:00,16:00,Menor demanda a la prevista.
+2026-11-25,SETAR,D,Área Tarija,05:00,24:00,Menor demanda a la prevista.
+2026-11-25,ENDEG,G,Central Eólica El Dorado,05:00,24:00,"Mayor generación, condiciones climáticas favorables."
+2026-11-25,COBEE,G,Sistema Zongo,08:00,17:00,Menores aportes laterales de agua a lo previsto.
+2026-11-25,ENDE CORANI,G,Central Eólica Qollpana I y II,08:00,17:00,"Mayor generación, condiciones climáticas favorables."
+2026-11-25,ENDEG,G,Central Eólica Warnes,08:00,23:00,"Mayor generación, condiciones climáticas favorables."
+2026-11-25,CRE,D,Área Oriental,09:00,24:00,Menor demanda a la prevista.
+2026-11-25,ENDEG,G,Central Solar Oruro I y II,12:00,16:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-25,ENDE ANDINA,G,Central Termoeléctrica Entre Ríos,14:13,21:00,"Menor generación, indisponibilidad de ERI52."
+2026-11-25,EMSC,CNR,Minera San Cristobal,14:51,16:06,"Reducción de carga de 43.5 MW a 35.0 MW, debido a fuga en válvula de celdas de flotación."
+2026-11-25,ENDE DELBENI,D,Área Trinidad,16:00,24:00,Menor demanda a la prevista.
+2026-11-25,EMSC,CNR,Minera San Cristobal,16:06,19:18,"Reducción de carga de 35.0 MW a 31.4 MW, debido a fuga en válvula de celdas de flotación y parada de emergencia del Molino Bolas 2."
+2026-11-25,COBEE,G,Sistema Zongo,18:00,20:00,Mayores aportes laterales de agua a lo previsto.
