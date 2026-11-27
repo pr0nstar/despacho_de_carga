@@ -27178,3 +27178,14 @@ fecha,agente,cat,componente,de_hrs,a_hrs,descripcion
 2026-11-25,ENDE DELBENI,D,Área Trinidad,16:00,24:00,Menor demanda a la prevista.
 2026-11-25,EMSC,CNR,Minera San Cristobal,16:06,19:18,"Reducción de carga de 35.0 MW a 31.4 MW, debido a fuga en válvula de celdas de flotación y parada de emergencia del Molino Bolas 2."
 2026-11-25,COBEE,G,Sistema Zongo,18:00,20:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-26,DELAPAZ,D,Área Norte,01:00,06:00,Mayor demanda a la prevista.
+2026-11-26,COBEE,G,Sistema Miguillas,01:00,06:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-26,CRE,D,Área Oriental,01:00,15:00,Menor demanda a la prevista.
+2026-11-26,COBEE,G,Sistema Zongo,01:00,22:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-26,SETAR,D,Área Tarija,01:00,24:00,Menor demanda a la prevista.
+2026-11-26,ENDE DELBENI,D,Área Trinidad,01:00,24:00,Menor demanda a la prevista.
+2026-11-26,HB,G,Sistema Taquesi,03:30,23:00,Mayores aportes laterales de agua a lo previsto.
+2026-11-26,SEPSA,D,Área Potosí,06:00,14:00,Menor demanda a la prevista.
+2026-11-26,ENDEG,G,Central Solar Oruro I y II,12:00,15:00,"Menor generación, condiciones climáticas desfavorables."
+2026-11-26,ENDEG,G,Central Eólica El Dorado,15:00,23:00,"Mayor generación, condiciones climáticas favorables."
+2026-11-26,CESSA,D,Área Sucre,20:00,24:00,Mayor demanda a la prevista.
